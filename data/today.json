@@ -1,42 +1,78 @@
 {
-  "generated_at": "2025-09-27T05:00:00Z",
+  "generated_at": "2026-07-24T15:42:38.601090+00:00",
   "date": {
-    "day": 27,
-    "month": 9,
-    "month_tr": "EYLÜL",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2025-09-27"
+    "day": 24,
+    "month": 7,
+    "month_tr": "TEMMUZ",
+    "weekday_tr": "CUMA",
+    "iso": "2026-07-24"
   },
   "prayer_times": {
-    "imsak":  "05:12",
-    "gunes":  "06:38",
-    "ogle":   "13:02",
-    "ikindi": "16:28",
-    "aksam":  "19:22",
-    "yatsi":  "20:43"
+    "imsak": "04:25",
+    "gunes": "06:03",
+    "ogle": "13:16",
+    "ikindi": "17:10",
+    "aksam": "20:28",
+    "yatsi": "21:56"
   },
   "weather": {
-    "temp_f": 81,
-    "temp_c": 27,
+    "temp_f": 79,
+    "temp_c": 26,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
-      {"day_tr": "Yarın",     "condition": "cloud",      "condition_code": 3,  "temp_f": 78, "temp_c": 26},
-      {"day_tr": "Pazar",     "condition": "cloud",      "condition_code": 3,  "temp_f": 69, "temp_c": 21},
-      {"day_tr": "Pazartesi", "condition": "rain",       "condition_code": 61, "temp_f": 71, "temp_c": 22},
-      {"day_tr": "Salı",      "condition": "cloud",      "condition_code": 3,  "temp_f": 64, "temp_c": 18},
-      {"day_tr": "Çarşamba",  "condition": "storm",      "condition_code": 95, "temp_f": 76, "temp_c": 24},
-      {"day_tr": "Perşembe",  "condition": "sun",        "condition_code": 0,  "temp_f": 74, "temp_c": 23}
+      {
+        "day_tr": "Yarın",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 86,
+        "temp_c": 30
+      },
+      {
+        "day_tr": "Pazar",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 87,
+        "temp_c": 31
+      },
+      {
+        "day_tr": "Pazartesi",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 86,
+        "temp_c": 30
+      },
+      {
+        "day_tr": "Salı",
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 86,
+        "temp_c": 30
+      },
+      {
+        "day_tr": "Çarşamba",
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 84,
+        "temp_c": 29
+      },
+      {
+        "day_tr": "Perşembe",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 83,
+        "temp_c": 28
+      }
     ]
   },
   "history": {
-    "title":   "Sakarya'nın Kurtuluşu (1922)",
-    "turkish": "Sakarya'nın Kurtuluşu (1922)",
-    "us":      "1854: Winfield Scott Hancock, ABD İç Savaşı'nın önemli komutanlarından biri, Pensilvanya'da doğdu.",
-    "global":  "1940: Japonya, Almanya ve İtalya ile Üçlü Pakt'ı imzaladı."
+    "title": "2019: Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in ",
+    "turkish": null,
+    "us": "1998: Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire, killing tw",
+    "global": "2019: Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in "
   },
   "quote": {
-    "text":   "Bir dilin sınırları dünyanın sınırlarıdır.",
-    "author": "Ludwig Wittgenstein"
+    "text": "Anlaşılamayan hiçbir şey gerçek değildir.",
+    "author": "Hegel"
   }
 }
