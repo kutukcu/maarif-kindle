@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=600">
+<title>Maarif – 27 Eylül</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Sofia+Sans:wght@400;600;700;800&family=Sofia+Sans+Extra+Condensed:wght@600&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.page {
+  position: relative;
+  width: 600px;
+  height: 800px;
+  background: white;
+  flex-shrink: 0;
+}
+
+/* ── Double border ── */
+.border-outer {
+  position: absolute;
+  left: 4px; top: 4px;
+  width: 592px; height: 792px;
+  border: 4px solid black;
+  pointer-events: none;
+  z-index: 10;
+}
+.border-inner {
+  position: absolute;
+  left: 16px; top: 16px;
+  width: 568px; height: 768px;
+  border: 2px solid black;
+  pointer-events: none;
+  z-index: 10;
+}
+
+/* ── Clocks ── */
+.clock {
+  position: absolute;
+  width: 160px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 48px;
+  color: black;
+  line-height: 1;
+  top: 37px;
+}
+.clock.left  { left: 48px; }   /* center 128 */
+.clock.right { left: 392px; }  /* center 472 */
+
+.clock-underline {
+  position: absolute;
+  height: 2px;
+  background: black;
+  top: 89px;
+}
+.clock-underline.left  { left: 38px;  width: 180px; }
+.clock-underline.right { left: 382px; width: 180px; }
+
+.clock-label {
+  position: absolute;
+  width: 160px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: black;
+  top: 105px;
+}
+.clock-label.left  { left: 48px; }
+.clock-label.right { left: 392px; }
+
+/* ── Centre weather widget ── */
+.center-weather {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 32px;
+  width: 107px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+}
+.center-weather .icon { font-size: 28px; line-height: 1; }
+.center-weather .temp {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: black;
+  text-align: center;
+}
+
+/* ── Month ── */
+.month {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 151px;
+  width: 420px;
+  font-family: 'Sofia Sans', sans-serif;
+  font-weight: 800;
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  line-height: 1;
+  z-index: 2;
+}
+
+/* ── Giant day number ── */
+.day-number {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 200px;
+  width: 380px;
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 440px;
+  color: black;
+  text-align: center;
+  line-height: 0.88;
+  letter-spacing: -4px;
+  z-index: 1;
+}
+
+/* ── Day name ── */
+.day-name {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 558px;
+  width: 520px;
+  font-family: 'Sofia Sans', sans-serif;
+  font-weight: 800;
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  line-height: 1;
+  letter-spacing: -2.4px;
+  z-index: 2;
+}
+
+/* ── Side panels ── */
+.side-panel {
+  position: absolute;
+  top: 151px;
+  width: 81px;
+  height: 383px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 3;
+  background: white;
+}
+.side-panel.left  { left: 40px; }
+.side-panel.right { left: 479px; }
+
+.panel-header {
+  border-bottom: 1px solid black;
+  padding: 8px 4px;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 13px;
+  color: black;
+  text-align: center;
+  letter-spacing: -0.4px;
+  line-height: 1.3;
+  flex-shrink: 0;
+}
+
+.panel-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px 4px;
+}
+
+/* Prayer items */
+.prayer-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  text-align: center;
+}
+.prayer-name {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: -0.4px;
+  line-height: 1;
+}
+.prayer-time {
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+  font-size: 15px;
+  letter-spacing: -0.45px;
+  line-height: 1;
+}
+
+/* Weather forecast items */
+.weather-item {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  text-align: center;
+}
+.weather-day {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: -0.3px;
+  line-height: 1;
+}
+.weather-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+}
+.weather-icon-sm { font-size: 12px; line-height: 1; }
+.weather-temp {
+  font-family: 'Merriweather', serif;
+  font-weight: 900;
+  font-size: 14px;
+  letter-spacing: -0.4px;
+  white-space: nowrap;
+}
+
+/* ── Horizontal rules ── */
+.h-rule {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 520px;
+  height: 1px;
+  background: black;
+}
+
+/* ── Event & quote ── */
+.event-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 642px;
+  white-space: nowrap;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  letter-spacing: -0.2px;
+}
+
+.quote {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 678px;
+  white-space: nowrap;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  letter-spacing: -0.15px;
+  line-height: 1.5;
+}
+
+/* ── Bottom controls ── */
+.btn-close {
+  position: absolute;
+  left: 40px;
+  top: 736px;
+  width: 36px;
+  height: 36px;
+  border: 1.5px solid black;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.battery-group {
+  position: absolute;
+  left: 119px;
+  top: 741px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.battery-group .icon { font-size: 20px; line-height: 1; }
+.battery-group .pct {
+  font-family: 'Sofia Sans', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: black;
+  letter-spacing: -0.2px;
+}
+
+.temp-toggle {
+  position: absolute;
+  left: 282px;
+  top: 741px;
+  display: flex;
+  align-items: center;
+  width: 60px;
+  height: 28px;
+}
+.temp-toggle span {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 17px;
+  color: black;
+  text-align: center;
+  width: 28px;
+}
+.temp-toggle .active { text-decoration: underline; }
+
+.icons-center {
+  position: absolute;
+  /* center 416 - width 92 / 2 = 370 */
+  left: 370px;
+  top: 741px;
+  display: flex;
+  align-items: center;
+  height: 28px;
+}
+.icons-center span {
+  width: 30px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.icons-right {
+  position: absolute;
+  left: 500px;
+  top: 741px;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  height: 28px;
+}
+.icons-right span {
+  width: 28px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1;
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Borders -->
+  <div class="border-outer"></div>
+  <div class="border-inner"></div>
+
+  <!-- Clocks -->
+  <div class="clock left">12:30</div>
+  <div class="clock-underline left"></div>
+  <div class="clock-label left">Yerel Saat</div>
+
+  <div class="clock right">17:30</div>
+  <div class="clock-underline right"></div>
+  <div class="clock-label right">Türkiye Saati</div>
+
+  <!-- Centre weather -->
+  <div class="center-weather">
+    <div class="icon">☀</div>
+    <div class="temp">81°</div>
+  </div>
+
+  <!-- Calendar -->
+  <div class="month">EYLÜL</div>
+  <div class="day-number">27</div>
+  <div class="day-name">CUMARTESİ</div>
+
+  <!-- Left panel: Namaz Vakitleri -->
+  <div class="side-panel left">
+    <div class="panel-header">Namaz<br>Vakitleri</div>
+    <div class="panel-body">
+      <div class="prayer-item"><div class="prayer-name">İmsak</div><div class="prayer-time">3:40</div></div>
+      <div class="prayer-item"><div class="prayer-name">Güneş</div><div class="prayer-time">3:40</div></div>
+      <div class="prayer-item"><div class="prayer-name">Öğle</div><div class="prayer-time">3:40</div></div>
+      <div class="prayer-item"><div class="prayer-name">İkindi</div><div class="prayer-time">3:40</div></div>
+      <div class="prayer-item"><div class="prayer-name">Akşam</div><div class="prayer-time">3:40</div></div>
+      <div class="prayer-item"><div class="prayer-name">Yatsı</div><div class="prayer-time">3:40</div></div>
+    </div>
+  </div>
+
+  <!-- Right panel: Hava Durumu -->
+  <div class="side-panel right">
+    <div class="panel-header">Hava<br>Durumu</div>
+    <div class="panel-body">
+      <div class="weather-item">
+        <div class="weather-day">Yarın</div>
+        <div class="weather-row"><span class="weather-icon-sm">☁</span><span class="weather-temp">81°</span></div>
+      </div>
+      <div class="weather-item">
+        <div class="weather-day">Pazar</div>
+        <div class="weather-row"><span class="weather-icon-sm">☁</span><span class="weather-temp">69°</span></div>
+      </div>
+      <div class="weather-item">
+        <div class="weather-day">Pazartesi</div>
+        <div class="weather-row"><span class="weather-icon-sm">🌧</span><span class="weather-temp">71°</span></div>
+      </div>
+      <div class="weather-item">
+        <div class="weather-day">Salı</div>
+        <div class="weather-row"><span class="weather-icon-sm">☁</span><span class="weather-temp">64°</span></div>
+      </div>
+      <div class="weather-item">
+        <div class="weather-day">Çarşamba</div>
+        <div class="weather-row"><span class="weather-icon-sm">⛈</span><span class="weather-temp">76°</span></div>
+      </div>
+      <div class="weather-item">
+        <div class="weather-day">Perşembe</div>
+        <div class="weather-row"><span class="weather-icon-sm">☀</span><span class="weather-temp">74°</span></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Horizontal separators -->
+  <div class="h-rule" style="top:630px;"></div>
+  <div class="h-rule" style="top:669px;"></div>
+  <div class="h-rule" style="top:725px;"></div>
+
+  <!-- Event & quote -->
+  <div class="event-title">Sakarya'nın Kurtuluşu</div>
+  <div class="quote">
+    Bir dilin sınırları dünyanın sınırlarıdır.<br>
+    -Wittgenstein
+  </div>
+
+  <!-- Bottom controls -->
+  <div class="btn-close">✕</div>
+
+  <div class="battery-group">
+    <span class="icon">🔋</span>
+    <span class="pct">%28</span>
+  </div>
+
+  <div class="temp-toggle">
+    <span class="active">°C</span>
+    <span>°F</span>
+  </div>
+
+  <div class="icons-center">
+    <span>○</span>
+    <span>☀</span>
+    <span>☀</span>
+  </div>
+
+  <div class="icons-right">
+    <span>🔦</span>
+    <span>🌙</span>
+  </div>
+
+</div>
+</body>
+</html>

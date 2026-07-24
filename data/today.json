@@ -1,0 +1,42 @@
+{
+  "generated_at": "2025-09-27T05:00:00Z",
+  "date": {
+    "day": 27,
+    "month": 9,
+    "month_tr": "EYLÜL",
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2025-09-27"
+  },
+  "prayer_times": {
+    "imsak":  "05:12",
+    "gunes":  "06:38",
+    "ogle":   "13:02",
+    "ikindi": "16:28",
+    "aksam":  "19:22",
+    "yatsi":  "20:43"
+  },
+  "weather": {
+    "temp_f": 81,
+    "temp_c": 27,
+    "condition": "sun",
+    "condition_code": 0,
+    "forecast": [
+      {"day_tr": "Yarın",     "condition": "cloud",      "condition_code": 3,  "temp_f": 78, "temp_c": 26},
+      {"day_tr": "Pazar",     "condition": "cloud",      "condition_code": 3,  "temp_f": 69, "temp_c": 21},
+      {"day_tr": "Pazartesi", "condition": "rain",       "condition_code": 61, "temp_f": 71, "temp_c": 22},
+      {"day_tr": "Salı",      "condition": "cloud",      "condition_code": 3,  "temp_f": 64, "temp_c": 18},
+      {"day_tr": "Çarşamba",  "condition": "storm",      "condition_code": 95, "temp_f": 76, "temp_c": 24},
+      {"day_tr": "Perşembe",  "condition": "sun",        "condition_code": 0,  "temp_f": 74, "temp_c": 23}
+    ]
+  },
+  "history": {
+    "title":   "Sakarya'nın Kurtuluşu (1922)",
+    "turkish": "Sakarya'nın Kurtuluşu (1922)",
+    "us":      "1854: Winfield Scott Hancock, ABD İç Savaşı'nın önemli komutanlarından biri, Pensilvanya'da doğdu.",
+    "global":  "1940: Japonya, Almanya ve İtalya ile Üçlü Pakt'ı imzaladı."
+  },
+  "quote": {
+    "text":   "Bir dilin sınırları dünyanın sınırlarıdır.",
+    "author": "Ludwig Wittgenstein"
+  }
+}
