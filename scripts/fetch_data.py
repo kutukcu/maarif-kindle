@@ -9,7 +9,6 @@ from __future__ import annotations
 import calendar
 import json
 import os
-import random
 import sys
 from datetime import datetime, timezone, timedelta
 
@@ -259,7 +258,12 @@ def get_history(now_et: datetime) -> dict:
     }
 
 
-def get_quote() -> dict:
+def get_quote(now_et: datetime) -> dict:
+    """quotes/quotes_tr.json — 366 günlük tamamen Türkçe söz listesi (dini ve
+    düşünürlerden). Yılın kaçıncı günü olduğuna göre sabit seçilir; böylece
+    gün içinde (saatlik/30 dakikalık yenilemelerde) değişmez, sadece günde bir
+    kez değişir. Dış kaynaktan (ZenQuotes vb.) İngilizce söz artık çekilmez.
+    """
     script_dir = os.path.dirname(os.path.abspath(__file__))
     quotes_file = os.path.join(script_dir, "../quotes/quotes_tr.json")
 
@@ -268,23 +272,11 @@ def get_quote() -> dict:
         with open(quotes_file, encoding="utf-8") as f:
             quotes_tr = json.load(f)
 
-    use_tr = quotes_tr and random.random() < 0.70
+    if not quotes_tr:
+        return {"text": "Bilgi ile amel etmek gerektir.", "author": "Mevlâna"}
 
-    if use_tr:
-        return random.choice(quotes_tr)
-
-    try:
-        r = requests.get("https://zenquotes.io/api/random", timeout=8)
-        if r.status_code == 200:
-            d = r.json()[0]
-            return {"text": d["q"], "author": d["a"]}
-    except Exception as e:
-        print(f"[quote/zenquotes] {e}", file=sys.stderr)
-
-    if quotes_tr:
-        return random.choice(quotes_tr)
-
-    return {"text": "Bilgi ile amel etmek gerektir.", "author": "Mevlâna"}
+    day_of_year = now_et.timetuple().tm_yday  # 1..366
+    return quotes_tr[(day_of_year - 1) % len(quotes_tr)]
 
 
 def main() -> None:
@@ -309,7 +301,7 @@ def main() -> None:
     prayer_times = get_prayer_times(date_str)
     weather = get_weather(now_et)
     history = get_history(now_et)
-    quote = get_quote()
+    quote = get_quote(now_et)
 
     data = {
         "generated_at": now_utc.isoformat(),
