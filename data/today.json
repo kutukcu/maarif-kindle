@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:37:29.443058+00:00",
+  "generated_at": "2026-07-25T14:49:04.196139+00:00",
   "date": {
     "day": 25,
     "month": 7,
@@ -16,7 +16,7 @@
     "yatsi": "21:55"
   },
   "weather": {
-    "temp_f": 73,
+    "temp_f": 74,
     "temp_c": 23,
     "condition": "sun",
     "condition_code": 1,
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Yürüdüğün her adım, hedefine bir adım daha yaklaştırır.",
-    "author": "Nelson Mandela"
+    "text": "Gerçek dost, karanlıkta ışık olandır.",
+    "author": "Anonim"
   }
 }
