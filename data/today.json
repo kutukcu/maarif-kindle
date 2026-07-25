@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-25T03:59:10.217256+00:00",
+  "generated_at": "2026-07-25T04:06:12.422838+00:00",
   "date": {
-    "day": 24,
+    "day": 25,
     "month": 7,
     "month_tr": "TEMMUZ",
-    "weekday_tr": "CUMA",
-    "iso": "2026-07-24"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-07-25"
   },
   "prayer_times": {
-    "imsak": "04:25",
-    "gunes": "06:03",
+    "imsak": "04:26",
+    "gunes": "06:04",
     "ogle": "13:16",
     "ikindi": "17:10",
-    "aksam": "20:28",
-    "yatsi": "21:56"
+    "aksam": "20:27",
+    "yatsi": "21:55"
   },
   "weather": {
     "temp_f": 70,
@@ -23,13 +23,6 @@
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 81,
         "temp_f": 86,
@@ -62,16 +55,23 @@
         "condition_code": 2,
         "temp_f": 86,
         "temp_c": 30
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 86,
+        "temp_c": 30
       }
     ]
   },
   "history": {
-    "title": "Tarihte Bugün",
+    "title": null,
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "A man with outward courage dares to die: a man with inner courage dares to live.",
-    "author": "Lao Tzu"
+    "text": "Okumak, başka bir insanın aklıyla düşünmektir.",
+    "author": "Arthur Schopenhauer"
   }
 }
