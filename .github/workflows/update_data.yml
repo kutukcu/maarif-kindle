@@ -2,8 +2,8 @@ name: Update Daily Data
 
 on:
   schedule:
-    # 05:00 UTC = midnight ET (EST) / 01:00 ET (EDT)
-    - cron: '0 5 * * *'
+    # Her saat başı
+    - cron: '0 * * * *'
   workflow_dispatch:   # allow manual trigger from GitHub UI
 
 permissions:
