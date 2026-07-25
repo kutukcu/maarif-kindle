@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T13:11:10.027289+00:00",
+  "generated_at": "2026-07-25T14:37:29.443058+00:00",
   "date": {
     "day": 25,
     "month": 7,
@@ -16,15 +16,15 @@
     "yatsi": "21:55"
   },
   "weather": {
-    "temp_f": 71,
-    "temp_c": 22,
+    "temp_f": 73,
+    "temp_c": 23,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "heavy_rain",
+        "condition_code": 65,
         "temp_f": 88,
         "temp_c": 31
       },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Çok okuyanlar değil, doğru okuyanlar bilgedir.",
-    "author": "Montaigne"
+    "text": "Yürüdüğün her adım, hedefine bir adım daha yaklaştırır.",
+    "author": "Nelson Mandela"
   }
 }
