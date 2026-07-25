@@ -250,26 +250,52 @@ def get_weather(now_et: datetime) -> dict | None:
         return None
 
 
+def get_wikipedia_tr_event(month: int, day: int) -> str | None:
+    """Curated listelerde eşleşme yoksa Türkçe Wikipedia'nın 'Tarihte Bugün'ünden
+    rastgele bir olay — tamamen Türkçe, İngilizce Wikipedia'nın yerine bu kullanılıyor."""
+    try:
+        r = requests.get(
+            f"https://tr.wikipedia.org/api/rest_v1/feed/onthisday/events/{month}/{day}",
+            headers={"User-Agent": "MaarifKindlePlugin/1.0 (tolga@pyde.tech)"},
+            timeout=10,
+        )
+        r.raise_for_status()
+        events = r.json().get("events", [])
+        if not events:
+            return None
+        ev = random.choice(events[:10])
+        return f"{ev['year']}: {ev['text'][:90]}"
+    except Exception as e:
+        print(f"[history/wikipedia-tr] {e}", file=sys.stderr)
+        return None
+
+
 def get_history(now_et: datetime) -> dict:
     """Günün öne çıkan olayını seçer. Öncelik sırası:
     1) Dini bayram/kandil (hicri takvim, kayan tarihli)
     2) ABD'de aileyi ilgilendiren pratik gün (vergi, resmi tatil vb.)
     3) Türkiye'nin resmi/milli günü (sabit tarihli)
-    4) Hiçbiri yoksa genel "Tarihte Bugün" yazısı.
-    Tamamı Türkçe — dış kaynaktan (ör. Wikipedia) ham İngilizce metin çekilmez.
+    4) Hiçbiri yoksa Türkçe Wikipedia'nın "Tarihte Bugün"ünden rastgele bir olay
+    5) O da yoksa genel "Tarihte Bugün" yazısı.
+    Tamamı Türkçe — dış kaynaktan ham İngilizce metin çekilmez.
     """
     key = f"{now_et.month:02d}-{now_et.day:02d}"
     date_str = now_et.strftime("%d-%m-%Y")
 
-    hijri_event  = get_hijri_event(date_str, now_et.weekday())
-    us_event     = build_us_household_days(now_et.year).get(key)
+    hijri_event   = get_hijri_event(date_str, now_et.weekday())
+    us_event      = build_us_household_days(now_et.year).get(key)
     turkish_event = TURKISH_HISTORY.get(key)
 
+    wiki_event = None
+    if not (hijri_event or us_event or turkish_event):
+        wiki_event = get_wikipedia_tr_event(now_et.month, now_et.day)
+
     return {
-        "title": hijri_event or us_event or turkish_event or "Tarihte Bugün",
+        "title": hijri_event or us_event or turkish_event or wiki_event or "Tarihte Bugün",
         "hijri": hijri_event,
         "us": us_event,
         "turkish": turkish_event,
+        "wiki": wiki_event,
     }
 
 
