@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T11:04:59.863490+00:00",
+  "generated_at": "2026-07-25T13:11:10.027289+00:00",
   "date": {
     "day": 25,
     "month": 7,
@@ -16,8 +16,8 @@
     "yatsi": "21:55"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
+    "temp_f": 71,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -30,37 +30,37 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 87,
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 88,
         "temp_c": 31
       },
       {
         "day_tr": "Sal",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 81,
-        "temp_c": 27
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 77,
+        "temp_c": 25
       },
       {
         "day_tr": "Çar",
-        "condition": "storm",
-        "condition_code": 96,
-        "temp_f": 89,
-        "temp_c": 32
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Cum",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 88,
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 87,
         "temp_c": 31
       }
     ]
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Ya olduğun gibi görün, ya göründüğün gibi ol.",
-    "author": "Mevlânâ"
+    "text": "Çok okuyanlar değil, doğru okuyanlar bilgedir.",
+    "author": "Montaigne"
   }
 }
