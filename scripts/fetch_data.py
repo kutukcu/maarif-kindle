@@ -4,6 +4,9 @@ Maarif daily data fetcher.
 Runs via GitHub Actions; outputs data/today.json.
 """
 
+from __future__ import annotations
+
+import calendar
 import json
 import os
 import random
@@ -80,6 +83,96 @@ TURKISH_HISTORY = {
     "12-31": "Yılbaşı Arifesi",
 }
 
+# ── ABD'de aileyi ilgilendiren, sabit tarihli günler ────────────────────────
+US_HOUSEHOLD_FIXED = {
+    "01-27": "Vergi Beyan Dönemi Başlıyor (tahmini)",
+    "06-19": "Juneteenth (Resmi Tatil)",
+    "07-04": "Amerika Bağımsızlık Günü",
+    "10-31": "Halloween",
+    "11-11": "Gaziler Günü / Veterans Day (Resmi Tatil)",
+}
+
+# ── Hicri takvime göre dini gün/kandiller — (ay, gün) → isim ────────────────
+# Not: Gerçek Diyanet tarihleri ru'yet-i hilal'e (ay gözlemi) göre 1 gün
+# kayabilir; burada hesaplanan hicri tarih (Aladhan gToH) baz alınıyor.
+HIJRI_EVENTS = {
+    (1, 1):   "Hicri Yılbaşı",
+    (1, 10):  "Aşure Günü",
+    (3, 12):  "Mevlid Kandili",
+    (7, 27):  "Miraç Kandili",
+    (8, 15):  "Berat Kandili",
+    (9, 1):   "Ramazan Ayı Başlangıcı",
+    (9, 27):  "Kadir Gecesi",
+    (10, 1):  "Ramazan Bayramı (1. Gün)",
+    (10, 2):  "Ramazan Bayramı (2. Gün)",
+    (10, 3):  "Ramazan Bayramı (3. Gün)",
+    (12, 10): "Kurban Bayramı (1. Gün)",
+    (12, 11): "Kurban Bayramı (2. Gün)",
+    (12, 12): "Kurban Bayramı (3. Gün)",
+    (12, 13): "Kurban Bayramı (4. Gün)",
+}
+
+
+def hijri_event_name(hijri_month: int, hijri_day: int, gregorian_weekday: int) -> str | None:
+    # Regaib Kandili, Recep ayının ilk Cuma gecesidir — sabit gün değil.
+    if hijri_month == 7 and 1 <= hijri_day <= 7 and gregorian_weekday == 4:
+        return "Regaib Kandili"
+    return HIJRI_EVENTS.get((hijri_month, hijri_day))
+
+
+def get_hijri_event(date_str: str, gregorian_weekday: int) -> str | None:
+    """date_str format DD-MM-YYYY. Aladhan'ın miladi→hicri çevrimini kullanır."""
+    try:
+        r = requests.get(f"https://api.aladhan.com/v1/gToH/{date_str}", timeout=10)
+        r.raise_for_status()
+        h = r.json()["data"]["hijri"]
+        return hijri_event_name(int(h["month"]["number"]), int(h["day"]), gregorian_weekday)
+    except Exception as e:
+        print(f"[hijri] {e}", file=sys.stderr)
+        return None
+
+
+def nth_weekday(year: int, month: int, weekday: int, n: int) -> datetime:
+    """weekday: 0=Pazartesi..6=Pazar. n=1 → ayın ilk X günü, n=-1 → son X günü."""
+    if n > 0:
+        d = datetime(year, month, 1)
+        offset = (weekday - d.weekday()) % 7
+        return d + timedelta(days=offset + (n - 1) * 7)
+    last_day = calendar.monthrange(year, month)[1]
+    d = datetime(year, month, last_day)
+    offset = (d.weekday() - weekday) % 7
+    return d - timedelta(days=offset)
+
+
+def tax_day(year: int) -> datetime:
+    """ABD vergi ödeme son günü — 15 Nisan, hafta sonuna denk gelirse ertelenir."""
+    d = datetime(year, 4, 15)
+    if d.weekday() == 5:      # Cumartesi
+        d += timedelta(days=2)
+    elif d.weekday() == 6:    # Pazar
+        d += timedelta(days=1)
+    return d
+
+
+def build_us_household_days(year: int) -> dict:
+    days = dict(US_HOUSEHOLD_FIXED)
+
+    variable = {
+        nth_weekday(year, 1, 0, 3):   "Martin Luther King Günü (Resmi Tatil)",
+        nth_weekday(year, 2, 0, 3):   "Başkanlar Günü (Resmi Tatil)",
+        nth_weekday(year, 5, 0, -1):  "Anma Günü / Memorial Day (Resmi Tatil)",
+        nth_weekday(year, 9, 0, 1):   "Emek Günü / Labor Day (Resmi Tatil, Okullar Başlıyor)",
+        nth_weekday(year, 10, 0, 2):  "Columbus Günü (Resmi Tatil)",
+        nth_weekday(year, 11, 3, 4):  "Şükran Günü / Thanksgiving (Resmi Tatil)",
+        tax_day(year):                "Vergi Ödemelerinin Son Günü",
+        nth_weekday(year, 3, 6, 2):   "Yaz Saati Başlıyor (Saatler 1 Saat İleri)",
+        nth_weekday(year, 11, 6, 1):  "Yaz Saati Bitiyor (Saatler 1 Saat Geri)",
+    }
+    for d, name in variable.items():
+        days[d.strftime("%m-%d")] = name
+
+    return days
+
 
 def get_prayer_times(date_str: str) -> dict | None:
     """Aladhan API — method 2 = ISNA (North America)."""
@@ -132,7 +225,7 @@ def get_weather(now_et: datetime) -> dict | None:
                 break
             date_obj = datetime.fromisoformat(d["daily"]["time"][i])
             wd = date_obj.weekday()  # 0=Mon … 6=Sun
-            tr_days = ["Pzt", "Sal", "Çrş", "Prş", "Cuma", "Cmt", "Paz"]
+            tr_days = ["Pzt", "Sal", "Çar", "Per", "Cum", "Cmt", "Paz"]
             day_name = "Yarın" if i == 1 else tr_days[wd]
             tf = round(d["daily"]["temperature_2m_max"][i])
             tc = round((tf - 32) * 5 / 9)
@@ -157,37 +250,26 @@ def get_weather(now_et: datetime) -> dict | None:
         return None
 
 
-def get_history(month: int, day: int) -> dict:
-    key = f"{month:02d}-{day:02d}"
+def get_history(now_et: datetime) -> dict:
+    """Günün öne çıkan olayını seçer. Öncelik sırası:
+    1) Dini bayram/kandil (hicri takvim, kayan tarihli)
+    2) ABD'de aileyi ilgilendiren pratik gün (vergi, resmi tatil vb.)
+    3) Türkiye'nin resmi/milli günü (sabit tarihli)
+    4) Hiçbiri yoksa genel "Tarihte Bugün" yazısı.
+    Tamamı Türkçe — dış kaynaktan (ör. Wikipedia) ham İngilizce metin çekilmez.
+    """
+    key = f"{now_et.month:02d}-{now_et.day:02d}"
+    date_str = now_et.strftime("%d-%m-%Y")
+
+    hijri_event  = get_hijri_event(date_str, now_et.weekday())
+    us_event     = build_us_household_days(now_et.year).get(key)
     turkish_event = TURKISH_HISTORY.get(key)
 
-    us_event = None
-    global_event = None
-    try:
-        r = requests.get(
-            f"https://en.wikipedia.org/api/rest_v1/feed/onthisday/events/{month}/{day}",
-            headers={"User-Agent": "MaarifKindlePlugin/1.0 (tolga@pyde.tech)"},
-            timeout=10,
-        )
-        if r.status_code == 200:
-            events = r.json().get("events", [])
-            us_kw = {"united states", "american", "president", "congress", "washington"}
-            us_events = [e for e in events if any(w in e.get("text", "").lower() for w in us_kw)]
-            if us_events:
-                ev = us_events[0]
-                us_event = f"{ev['year']}: {ev['text'][:90]}"
-            other = [e for e in events if e not in us_events]
-            if other:
-                ev = random.choice(other[:8])
-                global_event = f"{ev['year']}: {ev['text'][:90]}"
-    except Exception as e:
-        print(f"[history/wikipedia] {e}", file=sys.stderr)
-
     return {
-        "title": turkish_event or global_event or "Tarihte Bugün",
-        "turkish": turkish_event,
+        "title": hijri_event or us_event or turkish_event or "Tarihte Bugün",
+        "hijri": hijri_event,
         "us": us_event,
-        "global": global_event,
+        "turkish": turkish_event,
     }
 
 
@@ -240,7 +322,7 @@ def main() -> None:
 
     prayer_times = get_prayer_times(date_str)
     weather = get_weather(now_et)
-    history = get_history(month, day)
+    history = get_history(now_et)
     quote = get_quote()
 
     data = {
