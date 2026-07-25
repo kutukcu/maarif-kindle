@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T00:48:58.002488+00:00",
+  "generated_at": "2026-07-25T02:42:48.372374+00:00",
   "date": {
     "day": 24,
     "month": 7,
@@ -16,24 +16,24 @@
     "yatsi": "21:56"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 71,
+    "temp_c": 22,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 81,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Pzt",
@@ -44,8 +44,8 @@
       },
       {
         "day_tr": "Sal",
-        "condition": "storm",
-        "condition_code": 95,
+        "condition": "rain",
+        "condition_code": 81,
         "temp_f": 79,
         "temp_c": 26
       },
@@ -66,13 +66,13 @@
     ]
   },
   "history": {
-    "title": "2024: A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Ai",
+    "title": "2009: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.",
     "turkish": null,
     "us": "1998: Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire, killing tw",
-    "global": "2024: A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Ai"
+    "global": "2009: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16."
   },
   "quote": {
-    "text": "Kişinin kendini tanıması en yüce bilgeliktir.",
-    "author": "Chilon"
+    "text": "Dil, düşüncenin evidir.",
+    "author": "Martin Heidegger"
   }
 }
