@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T05:38:30.882616+00:00",
+  "generated_at": "2026-07-25T07:57:53.223237+00:00",
   "date": {
     "day": 25,
     "month": 7,
@@ -23,29 +23,29 @@
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Pzt",
         "condition": "rain",
-        "condition_code": 81,
+        "condition_code": 80,
         "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Sal",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "storm",
+        "condition_code": 95,
         "temp_f": 81,
         "temp_c": 27
       },
       {
         "day_tr": "Çar",
         "condition": "storm",
-        "condition_code": 95,
+        "condition_code": 96,
         "temp_f": 89,
         "temp_c": 32
       },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Bilinmeyeni keşfetmek, bilinenin sınırına dayanmayı gerektirir.",
-    "author": "Claude Bernard"
+    "text": "To be happy we need something to solve. Happiness is therefore a form of action.",
+    "author": "Mark Manson"
   }
 }
