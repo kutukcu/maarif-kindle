@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:42:38.601090+00:00",
+  "generated_at": "2026-07-25T00:48:58.002488+00:00",
   "date": {
     "day": 24,
     "month": 7,
@@ -16,10 +16,10 @@
     "yatsi": "21:56"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "sun",
-    "condition_code": 1,
+    "temp_f": 73,
+    "temp_c": 23,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Yarın",
@@ -29,50 +29,50 @@
         "temp_c": 30
       },
       {
-        "day_tr": "Pazar",
+        "day_tr": "Paz",
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 87,
+        "temp_c": 31
+      },
+      {
+        "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 53,
         "temp_f": 87,
         "temp_c": 31
       },
       {
-        "day_tr": "Pazartesi",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 86,
-        "temp_c": 30
-      },
-      {
-        "day_tr": "Salı",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 86,
-        "temp_c": 30
-      },
-      {
-        "day_tr": "Çarşamba",
+        "day_tr": "Sal",
         "condition": "storm",
         "condition_code": 95,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
-        "day_tr": "Perşembe",
+        "day_tr": "Çrş",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition_code": 53,
+        "temp_f": 87,
+        "temp_c": 31
+      },
+      {
+        "day_tr": "Prş",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 86,
+        "temp_c": 30
       }
     ]
   },
   "history": {
-    "title": "2019: Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in ",
+    "title": "2024: A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Ai",
     "turkish": null,
     "us": "1998: Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire, killing tw",
-    "global": "2019: Boris Johnson becomes Prime Minister of the United Kingdom after defeating Jeremy Hunt in "
+    "global": "2024: A Saurya Airlines Bombardier CRJ200 crashes during takeoff from Tribhuvan International Ai"
   },
   "quote": {
-    "text": "Anlaşılamayan hiçbir şey gerçek değildir.",
-    "author": "Hegel"
+    "text": "Kişinin kendini tanıması en yüce bilgeliktir.",
+    "author": "Chilon"
   }
 }
