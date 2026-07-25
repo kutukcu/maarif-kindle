@@ -132,7 +132,7 @@ def get_weather(now_et: datetime) -> dict | None:
                 break
             date_obj = datetime.fromisoformat(d["daily"]["time"][i])
             wd = date_obj.weekday()  # 0=Mon … 6=Sun
-            tr_days = ["Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi", "Pazar"]
+            tr_days = ["Pzt", "Sal", "Çrş", "Prş", "Cuma", "Cmt", "Paz"]
             day_name = "Yarın" if i == 1 else tr_days[wd]
             tf = round(d["daily"]["temperature_2m_max"][i])
             tc = round((tf - 32) * 5 / 9)
