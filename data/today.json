@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:06:12.422838+00:00",
+  "generated_at": "2026-07-25T05:38:30.882616+00:00",
   "date": {
     "day": 25,
     "month": 7,
@@ -30,38 +30,38 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "rain",
+        "condition_code": 81,
         "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Sal",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition_code": 80,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Per",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 88,
+        "temp_c": 31
       }
     ]
   },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Okumak, başka bir insanın aklıyla düşünmektir.",
-    "author": "Arthur Schopenhauer"
+    "text": "Bilinmeyeni keşfetmek, bilinenin sınırına dayanmayı gerektirir.",
+    "author": "Claude Bernard"
   }
 }
