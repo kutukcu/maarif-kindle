@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:57:53.223237+00:00",
+  "generated_at": "2026-07-25T09:48:30.397745+00:00",
   "date": {
     "day": 25,
     "month": 7,
@@ -16,8 +16,8 @@
     "yatsi": "21:55"
   },
   "weather": {
-    "temp_f": 70,
-    "temp_c": 21,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "To be happy we need something to solve. Happiness is therefore a form of action.",
-    "author": "Mark Manson"
+    "text": "Düşünüyorum, öyleyse varım.",
+    "author": "René Descartes"
   }
 }
