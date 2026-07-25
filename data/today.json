@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T02:42:48.372374+00:00",
+  "generated_at": "2026-07-25T03:23:26.369351+00:00",
   "date": {
     "day": 24,
     "month": 7,
@@ -16,10 +16,10 @@
     "yatsi": "21:56"
   },
   "weather": {
-    "temp_f": 71,
-    "temp_c": 22,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 70,
+    "temp_c": 21,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Yarın",
@@ -50,14 +50,14 @@
         "temp_c": 26
       },
       {
-        "day_tr": "Çrş",
+        "day_tr": "Çar",
         "condition": "drizzle",
         "condition_code": 53,
         "temp_f": 87,
         "temp_c": 31
       },
       {
-        "day_tr": "Prş",
+        "day_tr": "Per",
         "condition": "cloud_sun",
         "condition_code": 2,
         "temp_f": 86,
@@ -66,13 +66,13 @@
     ]
   },
   "history": {
-    "title": "2009: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16.",
-    "turkish": null,
-    "us": "1998: Russell Eugene Weston Jr. bursts into the United States Capitol and opens fire, killing tw",
-    "global": "2009: Aria Air Flight 1525 crashes at Mashhad International Airport, killing 16."
+    "title": "Tarihte Bugün",
+    "hijri": null,
+    "us": null,
+    "turkish": null
   },
   "quote": {
-    "text": "Dil, düşüncenin evidir.",
-    "author": "Martin Heidegger"
+    "text": "Güzellik, hakikate götüren yoldur.",
+    "author": "Keats"
   }
 }
