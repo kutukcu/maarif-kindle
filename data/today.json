@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:23:26.369351+00:00",
+  "generated_at": "2026-07-25T03:45:18.131012+00:00",
   "date": {
     "day": 24,
     "month": 7,
@@ -66,13 +66,14 @@
     ]
   },
   "history": {
-    "title": "Tarihte Bugün",
+    "title": "1968: Polisin İstanbul Teknik Üniversitesi Yurdu'nu bastığı sırada dövdüğü gençlerden Hukuk Fakü",
     "hijri": null,
     "us": null,
-    "turkish": null
+    "turkish": null,
+    "wiki": "1968: Polisin İstanbul Teknik Üniversitesi Yurdu'nu bastığı sırada dövdüğü gençlerden Hukuk Fakü"
   },
   "quote": {
-    "text": "Güzellik, hakikate götüren yoldur.",
-    "author": "Keats"
+    "text": "Her zaman daha fazla şey öğrenilecektir.",
+    "author": "Isaac Newton"
   }
 }
