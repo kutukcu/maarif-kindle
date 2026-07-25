@@ -9,6 +9,7 @@ from __future__ import annotations
 import calendar
 import json
 import os
+import random
 import sys
 from datetime import datetime, timezone, timedelta
 
@@ -259,10 +260,11 @@ def get_history(now_et: datetime) -> dict:
 
 
 def get_quote(now_et: datetime) -> dict:
-    """quotes/quotes_tr.json — 366 günlük tamamen Türkçe söz listesi (dini ve
-    düşünürlerden). Yılın kaçıncı günü olduğuna göre sabit seçilir; böylece
-    gün içinde (saatlik/30 dakikalık yenilemelerde) değişmez, sadece günde bir
-    kez değişir. Dış kaynaktan (ZenQuotes vb.) İngilizce söz artık çekilmez.
+    """quotes/quotes_tr.json — 366 sözlük tamamen Türkçe liste (dini büyükler
+    ve düşünürlerden). Takvim gününü tohum olarak kullanan bir rastgelelik ile
+    seçilir: aynı gün içinde (saatlik/30 dakikalık yenilemelerde) hep aynı söz
+    gelir, ama günden güne liste sırasına bağlı olmadan rastgele değişir.
+    Dış kaynaktan (ZenQuotes vb.) İngilizce söz artık çekilmez.
     """
     script_dir = os.path.dirname(os.path.abspath(__file__))
     quotes_file = os.path.join(script_dir, "../quotes/quotes_tr.json")
@@ -275,8 +277,8 @@ def get_quote(now_et: datetime) -> dict:
     if not quotes_tr:
         return {"text": "Bilgi ile amel etmek gerektir.", "author": "Mevlâna"}
 
-    day_of_year = now_et.timetuple().tm_yday  # 1..366
-    return quotes_tr[(day_of_year - 1) % len(quotes_tr)]
+    day_key = now_et.strftime("%Y-%m-%d")
+    return random.Random(day_key).choice(quotes_tr)
 
 
 def main() -> None:
