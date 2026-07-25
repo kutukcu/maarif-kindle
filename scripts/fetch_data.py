@@ -238,7 +238,8 @@ def get_history(now_et: datetime) -> dict:
     1) Türkiye'nin resmi tatili / dini bayramı (Nager.Date, Diyanet'le uyumlu)
     2) ABD'nin resmi tatili / aileyi ilgilendiren günü (vergi vb.)
     İkisi aynı güne denk gelirse ikisi birden "Türkiye / ABD" biçiminde gösterilir.
-    Hiçbiri yoksa genel "Tarihte Bugün" yazısı. Tamamı Türkçe.
+    Hiçbiri yoksa title None döner — boşken ne gösterileceğine tüketen taraf karar verir.
+    Tamamı Türkçe.
     """
     tr_holidays = get_public_holidays("TR", now_et.year)
     us_holidays = get_public_holidays("US", now_et.year)
@@ -249,7 +250,7 @@ def get_history(now_et: datetime) -> dict:
     if turkish_event and us_event:
         title = f"{_short(turkish_event)} / {_short(us_event)}"
     else:
-        title = turkish_event or us_event or "Tarihte Bugün"
+        title = turkish_event or us_event or None
 
     return {
         "title": title,
