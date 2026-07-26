@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T20:51:26.517894+00:00",
+  "generated_at": "2026-07-26T21:53:56.699773+00:00",
   "date": {
     "day": 26,
     "month": 7,
@@ -16,7 +16,7 @@
     "yatsi": "21:54"
   },
   "weather": {
-    "temp_f": 85,
+    "temp_f": 84,
     "temp_c": 29,
     "condition": "sun",
     "condition_code": 0,
@@ -24,7 +24,7 @@
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 53,
+        "condition_code": 51,
         "temp_f": 90,
         "temp_c": 32
       },
