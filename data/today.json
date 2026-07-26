@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T11:58:16.593782+00:00",
+  "generated_at": "2026-07-26T13:27:51.181346+00:00",
   "date": {
     "day": 26,
     "month": 7,
@@ -11,15 +11,15 @@
     "imsak": "04:28",
     "gunes": "06:05",
     "ogle": "13:16",
-    "ikindi": "17:10",
+    "ikindi": "17:09",
     "aksam": "20:26",
     "yatsi": "21:54"
   },
   "weather": {
-    "temp_f": 69,
-    "temp_c": 21,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Yarın",
