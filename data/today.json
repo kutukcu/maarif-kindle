@@ -1,35 +1,28 @@
 {
-  "generated_at": "2026-07-26T02:11:00.363889+00:00",
+  "generated_at": "2026-07-26T05:54:39.460899+00:00",
   "date": {
-    "day": 25,
+    "day": 26,
     "month": 7,
     "month_tr": "TEMMUZ",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-07-25"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-07-26"
   },
   "prayer_times": {
-    "imsak": "04:26",
-    "gunes": "06:04",
+    "imsak": "04:28",
+    "gunes": "06:05",
     "ogle": "13:16",
     "ikindi": "17:10",
-    "aksam": "20:27",
-    "yatsi": "21:55"
+    "aksam": "20:26",
+    "yatsi": "21:54"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 85,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 89,
@@ -37,10 +30,10 @@
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Çar",
@@ -51,17 +44,24 @@
       },
       {
         "day_tr": "Per",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 82,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 87,
         "temp_c": 31
       },
       {
-        "day_tr": "Cum",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 88,
-        "temp_c": 31
+        "day_tr": "Cmt",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 79,
+        "temp_c": 26
       }
     ]
   },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Gerçek dost, karanlıkta ışık olandır.",
-    "author": "Anonim"
+    "text": "Bilgelik, doğru zamanda doğru şeyi söylemek ve yapmaktır.",
+    "author": "Konfüçyüs"
   }
 }
