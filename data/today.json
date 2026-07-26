@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:54:39.460899+00:00",
+  "generated_at": "2026-07-26T08:15:32.057055+00:00",
   "date": {
     "day": 26,
     "month": 7,
@@ -16,7 +16,7 @@
     "yatsi": "21:54"
   },
   "weather": {
-    "temp_f": 67,
+    "temp_f": 66,
     "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Sal",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "storm",
+        "condition_code": 95,
         "temp_f": 86,
         "temp_c": 30
       },
