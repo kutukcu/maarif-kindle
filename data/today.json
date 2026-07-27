@@ -1,51 +1,44 @@
 {
-  "generated_at": "2026-07-27T02:27:22.288326+00:00",
+  "generated_at": "2026-07-27T06:22:44.781663+00:00",
   "date": {
-    "day": 26,
+    "day": 27,
     "month": 7,
     "month_tr": "TEMMUZ",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-07-26"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-07-27"
   },
   "prayer_times": {
-    "imsak": "04:28",
-    "gunes": "06:05",
+    "imsak": "04:29",
+    "gunes": "06:06",
     "ogle": "13:16",
     "ikindi": "17:10",
-    "aksam": "20:26",
-    "yatsi": "21:54"
+    "aksam": "20:25",
+    "yatsi": "21:52"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 72,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 89,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Sal",
         "condition": "rain",
-        "condition_code": 63,
+        "condition_code": 80,
         "temp_f": 88,
         "temp_c": 31
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 80,
         "temp_c": 27
       },
@@ -53,13 +46,20 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
+        "temp_f": 83,
         "temp_c": 28
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 87,
+        "temp_c": 31
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 86,
         "temp_c": 30
       }
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Bilgelik, doğru zamanda doğru şeyi söylemek ve yapmaktır.",
-    "author": "Konfüçyüs"
+    "text": "Sorgulanmamış bir hayat, yaşanmaya değmez.",
+    "author": "Sokrates"
   }
 }
