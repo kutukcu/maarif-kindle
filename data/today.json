@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T13:35:19.878884+00:00",
+  "generated_at": "2026-07-27T16:11:45.961692+00:00",
   "date": {
     "day": 27,
     "month": 7,
@@ -16,17 +16,17 @@
     "yatsi": "21:52"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
+    "temp_f": 84,
+    "temp_c": 29,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Çar",
