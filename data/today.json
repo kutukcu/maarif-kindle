@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:58:06.953622+00:00",
+  "generated_at": "2026-07-28T23:01:13.663503+00:00",
   "date": {
     "day": 28,
     "month": 7,
@@ -16,8 +16,8 @@
     "yatsi": "21:51"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "drizzle",
     "condition_code": 51,
     "forecast": [
