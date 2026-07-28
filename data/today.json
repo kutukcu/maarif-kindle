@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:12:01.503024+00:00",
+  "generated_at": "2026-07-28T13:51:17.584425+00:00",
   "date": {
     "day": 28,
     "month": 7,
@@ -16,10 +16,10 @@
     "yatsi": "21:51"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 78,
+    "temp_c": 26,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Yarın",
@@ -32,36 +32,36 @@
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
+        "temp_f": 82,
         "temp_c": 28
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
         "condition_code": 55,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 86,
         "temp_c": 30
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 80,
+        "temp_c": 27
       }
     ]
   },
