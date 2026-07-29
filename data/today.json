@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:04:37.276333+00:00",
+  "generated_at": "2026-07-29T20:47:03.897350+00:00",
   "date": {
     "day": 29,
     "month": 7,
@@ -18,14 +18,14 @@
   "weather": {
     "temp_f": 82,
     "temp_c": 28,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
+        "temp_f": 84,
         "temp_c": 29
       },
       {
