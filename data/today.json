@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:19:03.608432+00:00",
+  "generated_at": "2026-07-29T13:55:30.674003+00:00",
   "date": {
     "day": 29,
     "month": 7,
@@ -16,8 +16,8 @@
     "yatsi": "21:50"
   },
   "weather": {
-    "temp_f": 70,
-    "temp_c": 21,
+    "temp_f": 76,
+    "temp_c": 24,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,36 +32,36 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 88,
-        "temp_c": 31
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 91,
-        "temp_c": 33
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 77,
+        "temp_c": 25
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 81,
+        "temp_c": 27
       }
     ]
   },
