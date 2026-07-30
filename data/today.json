@@ -1,35 +1,28 @@
 {
-  "generated_at": "2026-07-30T02:26:17.934444+00:00",
+  "generated_at": "2026-07-30T05:34:26.899259+00:00",
   "date": {
-    "day": 29,
+    "day": 30,
     "month": 7,
     "month_tr": "TEMMUZ",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-07-29"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-07-30"
   },
   "prayer_times": {
-    "imsak": "04:31",
-    "gunes": "06:08",
+    "imsak": "04:32",
+    "gunes": "06:09",
     "ogle": "13:16",
     "ikindi": "17:09",
-    "aksam": "20:24",
-    "yatsi": "21:50"
+    "aksam": "20:23",
+    "yatsi": "21:49"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 72,
+    "temp_c": 22,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 85,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 90,
@@ -62,6 +55,13 @@
         "condition_code": 3,
         "temp_f": 86,
         "temp_c": 30
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 89,
+        "temp_c": 32
       }
     ]
   },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Güçlü olmak için önce haklı olmalısın.",
-    "author": "Atatürk"
+    "text": "İdealar dünyası, gerçek dünyanın gölgesidir.",
+    "author": "Platon"
   }
 }
