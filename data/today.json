@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:19:43.309419+00:00",
+  "generated_at": "2026-07-30T19:16:14.448965+00:00",
   "date": {
     "day": 30,
     "month": 7,
@@ -11,13 +11,13 @@
     "imsak": "04:32",
     "gunes": "06:09",
     "ogle": "13:16",
-    "ikindi": "17:08",
+    "ikindi": "17:09",
     "aksam": "20:23",
     "yatsi": "21:49"
   },
   "weather": {
-    "temp_f": 83,
-    "temp_c": 28,
+    "temp_f": 85,
+    "temp_c": 29,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -38,30 +38,30 @@
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition_code": 53,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 81,
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 75,
+        "temp_c": 24
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 77,
         "temp_c": 25
       },
       {
-        "day_tr": "Sal",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 88,
-        "temp_c": 31
-      },
-      {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 79,
+        "temp_c": 26
       }
     ]
   },
