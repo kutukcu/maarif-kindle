@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-07-31T00:08:07.485277+00:00",
+  "generated_at": "2026-07-31T04:18:17.181322+00:00",
   "date": {
-    "day": 30,
+    "day": 31,
     "month": 7,
     "month_tr": "TEMMUZ",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-07-30"
+    "weekday_tr": "CUMA",
+    "iso": "2026-07-31"
   },
   "prayer_times": {
-    "imsak": "04:32",
+    "imsak": "04:34",
     "gunes": "06:09",
     "ogle": "13:16",
-    "ikindi": "17:09",
-    "aksam": "20:23",
-    "yatsi": "21:49"
+    "ikindi": "17:08",
+    "aksam": "20:22",
+    "yatsi": "21:47"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
+    "temp_f": 73,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,15 +25,8 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 88,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Paz",
@@ -62,6 +55,13 @@
         "condition_code": 3,
         "temp_f": 88,
         "temp_c": 31
+      },
+      {
+        "day_tr": "Per",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 86,
+        "temp_c": 30
       }
     ]
   },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "İdealar dünyası, gerçek dünyanın gölgesidir.",
-    "author": "Platon"
+    "text": "Gerçek dost, karanlıkta ışık olandır.",
+    "author": "Anonim"
   }
 }
