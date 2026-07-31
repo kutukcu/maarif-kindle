@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T20:58:26.515094+00:00",
+  "generated_at": "2026-07-31T22:08:15.651812+00:00",
   "date": {
     "day": 31,
     "month": 7,
@@ -19,7 +19,7 @@
     "temp_f": 86,
     "temp_c": 30,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Yarın",
