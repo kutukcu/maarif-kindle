@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:58:28.804666+00:00",
+  "generated_at": "2026-08-01T13:26:41.217686+00:00",
   "date": {
     "day": 1,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:46"
   },
   "weather": {
-    "temp_f": 70,
-    "temp_c": 21,
+    "temp_f": 77,
+    "temp_c": 25,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -44,8 +44,8 @@
       },
       {
         "day_tr": "Çar",
-        "condition": "fog",
-        "condition_code": 45,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 92,
         "temp_c": 33
       },
