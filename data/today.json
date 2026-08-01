@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:10:40.554138+00:00",
+  "generated_at": "2026-08-01T10:35:48.688393+00:00",
   "date": {
     "day": 1,
     "month": 8,
@@ -18,8 +18,8 @@
   "weather": {
     "temp_f": 66,
     "temp_c": 19,
-    "condition": "sun",
-    "condition_code": 0,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Yarın",
