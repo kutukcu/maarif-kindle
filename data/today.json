@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:56:46.428800+00:00",
+  "generated_at": "2026-08-01T02:37:10.132482+00:00",
   "date": {
     "day": 31,
     "month": 7,
@@ -16,10 +16,10 @@
     "yatsi": "21:47"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 76,
+    "temp_c": 24,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Yarın",
@@ -30,10 +30,10 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Pzt",
