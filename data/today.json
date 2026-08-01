@@ -1,35 +1,28 @@
 {
-  "generated_at": "2026-08-01T02:37:10.132482+00:00",
+  "generated_at": "2026-08-01T05:49:51.986410+00:00",
   "date": {
-    "day": 31,
-    "month": 7,
-    "month_tr": "TEMMUZ",
-    "weekday_tr": "CUMA",
-    "iso": "2026-07-31"
+    "day": 1,
+    "month": 8,
+    "month_tr": "AĞUSTOS",
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-08-01"
   },
   "prayer_times": {
-    "imsak": "04:34",
-    "gunes": "06:09",
+    "imsak": "04:35",
+    "gunes": "06:10",
     "ogle": "13:16",
     "ikindi": "17:08",
-    "aksam": "20:22",
-    "yatsi": "21:47"
+    "aksam": "20:21",
+    "yatsi": "21:46"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 69,
+    "temp_c": 21,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Paz",
         "condition": "heavy_rain",
         "condition_code": 82,
         "temp_f": 86,
@@ -46,22 +39,29 @@
         "day_tr": "Sal",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 92,
+        "temp_c": 33
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 95,
-        "temp_c": 35
+        "temp_f": 97,
+        "temp_c": 36
       }
     ]
   },
@@ -71,7 +71,7 @@
     "us": null
   },
   "quote": {
-    "text": "Gerçek dost, karanlıkta ışık olandır.",
+    "text": "Sabır, bekleyebilme sanatıdır.",
     "author": "Anonim"
   }
 }
