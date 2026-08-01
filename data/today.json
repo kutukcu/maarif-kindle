@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T16:57:48.766474+00:00",
+  "generated_at": "2026-08-01T18:01:47.037400+00:00",
   "date": {
     "day": 1,
     "month": 8,
@@ -30,38 +30,38 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 96,
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 97,
         "temp_c": 36
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 97,
-        "temp_c": 36
+        "temp_f": 99,
+        "temp_c": 37
       }
     ]
   },
