@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:06:46.424845+00:00",
+  "generated_at": "2026-08-01T21:48:37.120401+00:00",
   "date": {
     "day": 1,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:46"
   },
   "weather": {
-    "temp_f": 90,
-    "temp_c": 32,
+    "temp_f": 86,
+    "temp_c": 30,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
