@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:48:26.616826+00:00",
+  "generated_at": "2026-08-01T23:52:03.929383+00:00",
   "date": {
     "day": 1,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:46"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
+    "temp_f": 82,
+    "temp_c": 28,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -30,38 +30,38 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 85,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Sal",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "rain",
+        "condition_code": 81,
         "temp_f": 84,
         "temp_c": 29
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Sal",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 89,
-        "temp_c": 32
+        "condition_code": 55,
+        "temp_f": 82,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Per",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 97,
-        "temp_c": 36
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 99,
-        "temp_c": 37
+        "temp_f": 100,
+        "temp_c": 38
       }
     ]
   },
