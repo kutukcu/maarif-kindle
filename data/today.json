@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:35:48.688393+00:00",
+  "generated_at": "2026-08-01T11:58:28.804666+00:00",
   "date": {
     "day": 1,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:46"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 70,
+    "temp_c": 21,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Yarın",
@@ -32,29 +32,29 @@
         "day_tr": "Pzt",
         "condition": "rain",
         "condition_code": 81,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Sal",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 81,
-        "temp_c": 27
+        "condition_code": 55,
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 89,
-        "temp_c": 32
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition_code": 51,
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Cum",
