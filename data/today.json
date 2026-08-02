@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-08-02T21:49:28.702456+00:00",
+  "generated_at": "2026-08-02T22:10:01.405109+00:00",
   "date": {
     "day": 2,
     "month": 8,
     "month_tr": "AĞUSTOS",
     "weekday_tr": "PAZAR",
-    "iso": "2026-08-02"
+    "iso": "2026-08-02",
+    "day_of_year": 214,
+    "days_in_year": 365
   },
   "prayer_times": {
     "imsak": "04:36",
@@ -16,11 +18,18 @@
     "yatsi": "21:44"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "rain",
+    "condition_code": 61,
     "forecast": [
+      {
+        "day_tr": "Bugün",
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 81,
+        "temp_c": 27
+      },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
@@ -55,59 +64,12 @@
         "condition_code": 51,
         "temp_f": 96,
         "temp_c": 36
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 95,
-        "temp_c": 35
-      }
-    ],
-    "hourly": [
-      {
-        "hour": "17:00",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 76,
-        "temp_c": 24
-      },
-      {
-        "hour": "18:00",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 74,
-        "temp_c": 23
-      },
-      {
-        "hour": "19:00",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 74,
-        "temp_c": 23
-      },
-      {
-        "hour": "20:00",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 75,
-        "temp_c": 24
-      },
-      {
-        "hour": "21:00",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 75,
-        "temp_c": 24
-      },
-      {
-        "hour": "22:00",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 75,
-        "temp_c": 24
       }
     ]
+  },
+  "finance": {
+    "usd_try": 47.525,
+    "gold_usd": 4075.0
   },
   "history": {
     "title": null,
