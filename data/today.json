@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T14:57:11.601114+00:00",
+  "generated_at": "2026-08-02T15:59:39.496609+00:00",
   "date": {
     "day": 2,
     "month": 8,
@@ -23,8 +23,8 @@
     "forecast": [
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 89,
         "temp_c": 32
       },
@@ -62,6 +62,50 @@
         "condition_code": 53,
         "temp_f": 94,
         "temp_c": 34
+      }
+    ],
+    "hourly": [
+      {
+        "hour": "11:00",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 80,
+        "temp_c": 27
+      },
+      {
+        "hour": "12:00",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 84,
+        "temp_c": 29
+      },
+      {
+        "hour": "13:00",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 85,
+        "temp_c": 29
+      },
+      {
+        "hour": "14:00",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 83,
+        "temp_c": 28
+      },
+      {
+        "hour": "15:00",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 86,
+        "temp_c": 30
+      },
+      {
+        "hour": "16:00",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 84,
+        "temp_c": 29
       }
     ]
   },
