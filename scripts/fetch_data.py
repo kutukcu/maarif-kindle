@@ -329,6 +329,15 @@ def main() -> None:
     history = get_history(now_et)
     quote = get_quote(now_et)
 
+    # Namaz vakti / hava durumu kritik veriler. API'ler geçici olarak
+    # başarısız olursa today.json'u sıfırlanmış veriyle ezip yayınlamak
+    # yerine işlemi durduruyoruz — böylece Kindle, bir sonraki başarılı
+    # çalışmaya kadar elindeki son geçerli veriyi göstermeye devam ediyor.
+    if prayer_times is None or weather is None:
+        print("✗ Kritik veri alınamadı (namaz vakti veya hava durumu); "
+              "today.json güncellenmedi.", file=sys.stderr)
+        sys.exit(1)
+
     data = {
         "generated_at": now_utc.isoformat(),
         "date": {
@@ -338,15 +347,8 @@ def main() -> None:
             "weekday_tr": WEEKDAYS_TR[weekday],
             "iso": now_et.strftime("%Y-%m-%d"),
         },
-        "prayer_times": prayer_times or {
-            "imsak": "--:--", "gunes": "--:--", "ogle": "--:--",
-            "ikindi": "--:--", "aksam": "--:--", "yatsi": "--:--",
-        },
-        "weather": weather or {
-            "temp_f": 0, "temp_c": 0,
-            "condition": "cloud", "condition_code": 0,
-            "forecast": [], "hourly": [],
-        },
+        "prayer_times": prayer_times,
+        "weather": weather,
         "history": history,
         "quote": quote,
     }
