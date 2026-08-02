@@ -182,7 +182,6 @@ def get_weather(now_et: datetime) -> dict | None:
             params={
                 "latitude": LAT, "longitude": LON,
                 "current": "temperature_2m,weathercode",
-                "hourly": "temperature_2m,weathercode",
                 "daily": "weathercode,temperature_2m_max",
                 "temperature_unit": "fahrenheit",
                 "timezone": TIMEZONE,
@@ -197,41 +196,25 @@ def get_weather(now_et: datetime) -> dict | None:
         cur_c = round((cur_f - 32) * 5 / 9)
         cur_code = d["current"]["weathercode"]
 
+        # Sağ paneldeki günlük hava durumu: bugün + sonraki 5 gün (6 gün toplam).
         forecast = []
-        for i in range(1, 7):
+        for i in range(0, 6):
             if i >= len(d["daily"]["time"]):
                 break
             date_obj = datetime.fromisoformat(d["daily"]["time"][i])
             wd = date_obj.weekday()  # 0=Mon … 6=Sun
             tr_days = ["Pzt", "Sal", "Çar", "Per", "Cum", "Cmt", "Paz"]
-            day_name = "Yarın" if i == 1 else tr_days[wd]
+            if i == 0:
+                day_name = "Bugün"
+            elif i == 1:
+                day_name = "Yarın"
+            else:
+                day_name = tr_days[wd]
             tf = round(d["daily"]["temperature_2m_max"][i])
             tc = round((tf - 32) * 5 / 9)
             code = d["daily"]["weathercode"][i]
             forecast.append({
                 "day_tr": day_name,
-                "condition": WMO_ICON.get(code, "cloud"),
-                "condition_code": code,
-                "temp_f": tf,
-                "temp_c": tc,
-            })
-
-        # Widget verisi sadece her 6 saatte bir (00/06/12/18) yenilendiği için,
-        # bir sonraki yenilemeye kadar geçerli olacak 6 saatlik pencereyi veriyoruz.
-        hourly_times = d["hourly"]["time"]
-        now_hour_iso = now_et.strftime("%Y-%m-%dT%H:00")
-        start_idx = hourly_times.index(now_hour_iso) if now_hour_iso in hourly_times else 0
-
-        hourly = []
-        for i in range(start_idx, start_idx + 6):
-            if i >= len(hourly_times):
-                break
-            dt = datetime.fromisoformat(hourly_times[i])
-            tf = round(d["hourly"]["temperature_2m"][i])
-            tc = round((tf - 32) * 5 / 9)
-            code = d["hourly"]["weathercode"][i]
-            hourly.append({
-                "hour": dt.strftime("%H:00"),
                 "condition": WMO_ICON.get(code, "cloud"),
                 "condition_code": code,
                 "temp_f": tf,
@@ -244,10 +227,35 @@ def get_weather(now_et: datetime) -> dict | None:
             "condition": WMO_ICON.get(cur_code, "cloud"),
             "condition_code": cur_code,
             "forecast": forecast,
-            "hourly": hourly,
         }
     except Exception as e:
         print(f"[weather] {e}", file=sys.stderr)
+        return None
+
+
+def get_usd_try() -> float | None:
+    """Frankfurter (ECB) — ücretsiz, anahtarsız döviz kuru API'si."""
+    try:
+        r = requests.get(
+            "https://api.frankfurter.app/latest",
+            params={"from": "USD", "to": "TRY"},
+            timeout=10,
+        )
+        r.raise_for_status()
+        return r.json()["rates"]["TRY"]
+    except Exception as e:
+        print(f"[usdtry] {e}", file=sys.stderr)
+        return None
+
+
+def get_gold_usd() -> float | None:
+    """gold-api.com — ücretsiz, anahtarsız ons altın (XAU) fiyatı, USD cinsinden."""
+    try:
+        r = requests.get("https://api.gold-api.com/price/XAU", timeout=10)
+        r.raise_for_status()
+        return r.json()["price"]
+    except Exception as e:
+        print(f"[gold] {e}", file=sys.stderr)
         return None
 
 
@@ -321,6 +329,8 @@ def main() -> None:
     month = now_et.month
     day = now_et.day
     weekday = now_et.weekday()  # 0=Mon … 6=Sun
+    day_of_year = now_et.timetuple().tm_yday
+    days_in_year = 366 if calendar.isleap(now_et.year) else 365
 
     date_str = now_et.strftime("%d-%m-%Y")
 
@@ -328,13 +338,15 @@ def main() -> None:
     weather = get_weather(now_et)
     history = get_history(now_et)
     quote = get_quote(now_et)
+    usd_try = get_usd_try()
+    gold_usd = get_gold_usd()
 
-    # Namaz vakti / hava durumu kritik veriler. API'ler geçici olarak
-    # başarısız olursa today.json'u sıfırlanmış veriyle ezip yayınlamak
+    # Namaz vakti / hava durumu / döviz / altın kritik veriler. API'ler geçici
+    # olarak başarısız olursa today.json'u sıfırlanmış veriyle ezip yayınlamak
     # yerine işlemi durduruyoruz — böylece Kindle, bir sonraki başarılı
     # çalışmaya kadar elindeki son geçerli veriyi göstermeye devam ediyor.
-    if prayer_times is None or weather is None:
-        print("✗ Kritik veri alınamadı (namaz vakti veya hava durumu); "
+    if prayer_times is None or weather is None or usd_try is None or gold_usd is None:
+        print("✗ Kritik veri alınamadı (namaz vakti / hava durumu / döviz / altın); "
               "today.json güncellenmedi.", file=sys.stderr)
         sys.exit(1)
 
@@ -346,9 +358,15 @@ def main() -> None:
             "month_tr": MONTHS_TR[month],
             "weekday_tr": WEEKDAYS_TR[weekday],
             "iso": now_et.strftime("%Y-%m-%d"),
+            "day_of_year": day_of_year,
+            "days_in_year": days_in_year,
         },
         "prayer_times": prayer_times,
         "weather": weather,
+        "finance": {
+            "usd_try": usd_try,
+            "gold_usd": gold_usd,
+        },
         "history": history,
         "quote": quote,
     }
