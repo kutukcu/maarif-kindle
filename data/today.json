@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:57:48.018437+00:00",
+  "generated_at": "2026-08-02T13:23:20.923464+00:00",
   "date": {
     "day": 2,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:44"
   },
   "weather": {
-    "temp_f": 78,
-    "temp_c": 26,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 80,
+    "temp_c": 27,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Yarın",
@@ -37,8 +37,8 @@
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "storm",
+        "condition_code": 95,
         "temp_f": 85,
         "temp_c": 29
       },
@@ -52,7 +52,7 @@
       {
         "day_tr": "Cum",
         "condition": "rain",
-        "condition_code": 63,
+        "condition_code": 81,
         "temp_f": 96,
         "temp_c": 36
       },
