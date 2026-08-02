@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T20:46:32.941464+00:00",
+  "generated_at": "2026-08-02T21:49:28.702456+00:00",
   "date": {
     "day": 2,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:44"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
+    "temp_f": 75,
+    "temp_c": 24,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -66,45 +66,45 @@
     ],
     "hourly": [
       {
-        "hour": "16:00",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 78,
-        "temp_c": 26
-      },
-      {
         "hour": "17:00",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "hour": "18:00",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 78,
-        "temp_c": 26
+        "condition_code": 51,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "hour": "19:00",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "hour": "20:00",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 78,
-        "temp_c": 26
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 75,
+        "temp_c": 24
       },
       {
         "hour": "21:00",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 76,
+        "temp_f": 75,
+        "temp_c": 24
+      },
+      {
+        "hour": "22:00",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 75,
         "temp_c": 24
       }
     ]
