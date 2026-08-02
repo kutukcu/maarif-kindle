@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:33:03.514039+00:00",
+  "generated_at": "2026-08-02T22:50:02.327608+00:00",
   "date": {
     "day": 2,
     "month": 8,
@@ -18,10 +18,10 @@
     "yatsi": "21:44"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
-    "condition": "rain",
-    "condition_code": 63,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -69,8 +69,8 @@
   },
   "finance": {
     "usd_try": 47.525,
-    "gold_usd": 4067.399902,
-    "btc_usd": 63458.275
+    "gold_usd": 4066.699951,
+    "btc_usd": 63383.215
   },
   "history": {
     "title": null,
