@@ -182,6 +182,7 @@ def get_weather(now_et: datetime) -> dict | None:
             params={
                 "latitude": LAT, "longitude": LON,
                 "current": "temperature_2m,weathercode",
+                "hourly": "temperature_2m,weathercode",
                 "daily": "weathercode,temperature_2m_max",
                 "temperature_unit": "fahrenheit",
                 "timezone": TIMEZONE,
@@ -215,12 +216,35 @@ def get_weather(now_et: datetime) -> dict | None:
                 "temp_c": tc,
             })
 
+        # Widget verisi sadece her 6 saatte bir (00/06/12/18) yenilendiği için,
+        # bir sonraki yenilemeye kadar geçerli olacak 6 saatlik pencereyi veriyoruz.
+        hourly_times = d["hourly"]["time"]
+        now_hour_iso = now_et.strftime("%Y-%m-%dT%H:00")
+        start_idx = hourly_times.index(now_hour_iso) if now_hour_iso in hourly_times else 0
+
+        hourly = []
+        for i in range(start_idx, start_idx + 6):
+            if i >= len(hourly_times):
+                break
+            dt = datetime.fromisoformat(hourly_times[i])
+            tf = round(d["hourly"]["temperature_2m"][i])
+            tc = round((tf - 32) * 5 / 9)
+            code = d["hourly"]["weathercode"][i]
+            hourly.append({
+                "hour": dt.strftime("%H:00"),
+                "condition": WMO_ICON.get(code, "cloud"),
+                "condition_code": code,
+                "temp_f": tf,
+                "temp_c": tc,
+            })
+
         return {
             "temp_f": cur_f,
             "temp_c": cur_c,
             "condition": WMO_ICON.get(cur_code, "cloud"),
             "condition_code": cur_code,
             "forecast": forecast,
+            "hourly": hourly,
         }
     except Exception as e:
         print(f"[weather] {e}", file=sys.stderr)
@@ -321,7 +345,7 @@ def main() -> None:
         "weather": weather or {
             "temp_f": 0, "temp_c": 0,
             "condition": "cloud", "condition_code": 0,
-            "forecast": [],
+            "forecast": [], "hourly": [],
         },
         "history": history,
         "quote": quote,
