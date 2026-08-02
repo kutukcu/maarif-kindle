@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:50:02.327608+00:00",
+  "generated_at": "2026-08-02T23:53:01.444031+00:00",
   "date": {
     "day": 2,
     "month": 8,
@@ -18,10 +18,10 @@
     "yatsi": "21:44"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
-    "condition": "sun",
-    "condition_code": 1,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -32,36 +32,36 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Çar",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 90,
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 95,
         "temp_c": 35
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 96,
         "temp_c": 36
       }
@@ -69,8 +69,8 @@
   },
   "finance": {
     "usd_try": 47.525,
-    "gold_usd": 4066.699951,
-    "btc_usd": 63383.215
+    "gold_usd": 4073.199951,
+    "btc_usd": 63443.445
   },
   "history": {
     "title": null,
