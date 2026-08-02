@@ -259,6 +259,17 @@ def get_gold_usd() -> float | None:
         return None
 
 
+def get_btc_usd() -> float | None:
+    """Coinbase spot fiyatı — ücretsiz, anahtarsız."""
+    try:
+        r = requests.get("https://api.coinbase.com/v2/prices/BTC-USD/spot", timeout=10)
+        r.raise_for_status()
+        return float(r.json()["data"]["amount"])
+    except Exception as e:
+        print(f"[btc] {e}", file=sys.stderr)
+        return None
+
+
 def _short(s: str) -> str:
     """Birleştirirken '(Resmi Tatil...)' gibi ekleri kırp, satır kısa kalsın."""
     return s.split(" (Resmi Tatil")[0]
@@ -340,13 +351,15 @@ def main() -> None:
     quote = get_quote(now_et)
     usd_try = get_usd_try()
     gold_usd = get_gold_usd()
+    btc_usd = get_btc_usd()
 
-    # Namaz vakti / hava durumu / döviz / altın kritik veriler. API'ler geçici
-    # olarak başarısız olursa today.json'u sıfırlanmış veriyle ezip yayınlamak
-    # yerine işlemi durduruyoruz — böylece Kindle, bir sonraki başarılı
-    # çalışmaya kadar elindeki son geçerli veriyi göstermeye devam ediyor.
-    if prayer_times is None or weather is None or usd_try is None or gold_usd is None:
-        print("✗ Kritik veri alınamadı (namaz vakti / hava durumu / döviz / altın); "
+    # Namaz vakti / hava durumu / döviz / altın / BTC kritik veriler. API'ler
+    # geçici olarak başarısız olursa today.json'u sıfırlanmış veriyle ezip
+    # yayınlamak yerine işlemi durduruyoruz — böylece Kindle, bir sonraki
+    # başarılı çalışmaya kadar elindeki son geçerli veriyi göstermeye devam ediyor.
+    if (prayer_times is None or weather is None or usd_try is None
+            or gold_usd is None or btc_usd is None):
+        print("✗ Kritik veri alınamadı (namaz vakti / hava durumu / döviz / altın / btc); "
               "today.json güncellenmedi.", file=sys.stderr)
         sys.exit(1)
 
@@ -366,6 +379,7 @@ def main() -> None:
         "finance": {
             "usd_try": usd_try,
             "gold_usd": gold_usd,
+            "btc_usd": btc_usd,
         },
         "history": history,
         "quote": quote,
