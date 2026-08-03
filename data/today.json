@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:17:44.881460+00:00",
+  "generated_at": "2026-08-03T18:45:59.282306+00:00",
   "date": {
     "day": 3,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:43"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 86,
+    "temp_c": 30,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -39,36 +39,36 @@
         "day_tr": "Çar",
         "condition": "storm",
         "condition_code": 95,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 96,
         "temp_c": 36
       },
       {
         "day_tr": "Cum",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 98,
-        "temp_c": 37
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 97,
-        "temp_c": 36
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 94,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 47.536,
-    "gold_usd": 4036.899902,
-    "btc_usd": 63837.745
+    "gold_usd": 4042.5,
+    "btc_usd": 63763.715
   },
   "history": {
     "title": "1492: Kristof Kolomb, Amerika'ya doğru yelken açtı",
