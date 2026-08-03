@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T10:36:37.416618+00:00",
+  "generated_at": "2026-08-03T13:35:58.103126+00:00",
   "date": {
     "day": 3,
     "month": 8,
@@ -11,22 +11,22 @@
     "imsak": "04:37",
     "gunes": "06:12",
     "ogle": "13:16",
-    "ikindi": "17:08",
+    "ikindi": "17:07",
     "aksam": "20:19",
     "yatsi": "21:43"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 78,
+    "temp_c": 26,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
         "condition_code": 61,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 96,
         "temp_c": 36
       },
       {
         "day_tr": "Cum",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 97,
-        "temp_c": 36
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 98,
+        "temp_c": 37
       },
       {
         "day_tr": "Cmt",
         "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 94,
-        "temp_c": 34
+        "condition_code": 81,
+        "temp_f": 97,
+        "temp_c": 36
       }
     ]
   },
   "finance": {
     "usd_try": 47.525,
-    "gold_usd": 4052.100098,
-    "btc_usd": 62595.205
+    "gold_usd": 4032.199951,
+    "btc_usd": 62713.605
   },
   "history": {
     "title": "1492: Kristof Kolomb, Amerika'ya doğru yelken açtı",
