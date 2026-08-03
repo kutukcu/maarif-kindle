@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:53:01.444031+00:00",
+  "generated_at": "2026-08-03T02:11:41.296120+00:00",
   "date": {
     "day": 2,
     "month": 8,
@@ -18,10 +18,10 @@
     "yatsi": "21:44"
   },
   "weather": {
-    "temp_f": 74,
+    "temp_f": 73,
     "temp_c": 23,
-    "condition": "cloud",
-    "condition_code": 3,
+    "condition": "drizzle",
+    "condition_code": 51,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -32,17 +32,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Çar",
@@ -69,8 +69,8 @@
   },
   "finance": {
     "usd_try": 47.525,
-    "gold_usd": 4073.199951,
-    "btc_usd": 63443.445
+    "gold_usd": 4056.699951,
+    "btc_usd": 63099.915
   },
   "history": {
     "title": null,
