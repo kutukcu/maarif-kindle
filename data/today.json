@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-08-03T06:15:05.008794+00:00",
+  "generated_at": "2026-08-03T07:27:01.199204+00:00",
   "date": {
     "day": 3,
     "month": 8,
     "month_tr": "AĞUSTOS",
     "weekday_tr": "PAZARTESİ",
-    "iso": "2026-08-03",
-    "day_of_year": 215,
-    "days_in_year": 365
+    "iso": "2026-08-03"
   },
   "prayer_times": {
     "imsak": "04:37",
@@ -25,8 +23,8 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 55,
+        "condition": "rain",
+        "condition_code": 61,
         "temp_f": 86,
         "temp_c": 30
       },
@@ -69,11 +67,11 @@
   },
   "finance": {
     "usd_try": 47.525,
-    "gold_usd": 4067.399902,
-    "btc_usd": 62759.365
+    "gold_usd": 4056.699951,
+    "btc_usd": 62565.625
   },
   "history": {
-    "title": null,
+    "title": "1492: Kristof Kolomb, Amerika'ya doğru yelken açtı",
     "turkish": null,
     "us": null
   },
