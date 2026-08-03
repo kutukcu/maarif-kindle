@@ -1,44 +1,37 @@
 {
-  "generated_at": "2026-08-03T02:11:41.296120+00:00",
+  "generated_at": "2026-08-03T04:57:44.189315+00:00",
   "date": {
-    "day": 2,
+    "day": 3,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-08-02",
-    "day_of_year": 214,
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-08-03",
+    "day_of_year": 215,
     "days_in_year": 365
   },
   "prayer_times": {
-    "imsak": "04:36",
-    "gunes": "06:11",
+    "imsak": "04:37",
+    "gunes": "06:12",
     "ogle": "13:16",
     "ikindi": "17:08",
-    "aksam": "20:20",
-    "yatsi": "21:44"
+    "aksam": "20:19",
+    "yatsi": "21:43"
   },
   "weather": {
-    "temp_f": 73,
+    "temp_f": 74,
     "temp_c": 23,
-    "condition": "drizzle",
-    "condition_code": 51,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 81,
-        "temp_c": 27
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 86,
         "temp_c": 30
       },
       {
-        "day_tr": "Sal",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 84,
@@ -64,13 +57,20 @@
         "condition_code": 53,
         "temp_f": 96,
         "temp_c": 36
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 94,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 47.525,
-    "gold_usd": 4056.699951,
-    "btc_usd": 63099.915
+    "gold_usd": 4068.600098,
+    "btc_usd": 62723.99
   },
   "history": {
     "title": null,
@@ -78,7 +78,7 @@
     "us": null
   },
   "quote": {
-    "text": "Fikirlerin özgürlüğü olmayan bir toplumda gerçek özgürlük olmaz.",
-    "author": "John Stuart Mill"
+    "text": "Güçlü olan, zayıf yanını herkesten iyi bilendir.",
+    "author": "Konfüçyüs"
   }
 }
