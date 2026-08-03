@@ -275,13 +275,28 @@ def _short(s: str) -> str:
     return s.split(" (Resmi Tatil")[0]
 
 
+def get_history_fallback(now_et: datetime) -> str | None:
+    """quotes/history_fallback.json — 366 günlük, Türkiye/ABD/Dünya tarihinden
+    tek satırlık, doğrulanabilir/iyi bilinen olaylar listesi ("ay-gün" anahtarlı).
+    Sadece günün resmi tatil/önemli-gün bilgisi (Nager.Date + sabit listeler)
+    yoksa devreye girer — resmi/dini bir gün varsa bu listeye hiç bakılmaz."""
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    fallback_file = os.path.join(script_dir, "../quotes/history_fallback.json")
+    if not os.path.exists(fallback_file):
+        return None
+    with open(fallback_file, encoding="utf-8") as f:
+        fallback = json.load(f)
+    return fallback.get(now_et.strftime("%m-%d"))
+
+
 def get_history(now_et: datetime) -> dict:
-    """Günün öne çıkan gününü seçer — sadece Türkiye ve ABD'nin milli/dini/resmi
-    tatilleri ile önemli gün ve haftaları.
+    """Günün öne çıkan gününü seçer:
     1) Türkiye'nin resmi tatili / dini bayramı (Nager.Date, Diyanet'le uyumlu)
     2) ABD'nin resmi tatili / aileyi ilgilendiren günü (vergi vb.)
     İkisi aynı güne denk gelirse ikisi birden "Türkiye / ABD" biçiminde gösterilir.
-    Hiçbiri yoksa title None döner — boşken ne gösterileceğine tüketen taraf karar verir.
+    3) İkisi de yoksa, quotes/history_fallback.json'daki Türkiye/ABD/Dünya
+       tarihinden o güne ait önemli olay gösterilir (bkz. get_history_fallback).
+    O da yoksa title None döner — boşken ne gösterileceğine tüketen taraf karar verir.
     Tamamı Türkçe.
     """
     tr_holidays = get_public_holidays("TR", now_et.year)
@@ -293,7 +308,7 @@ def get_history(now_et: datetime) -> dict:
     if turkish_event and us_event:
         title = f"{_short(turkish_event)} / {_short(us_event)}"
     else:
-        title = turkish_event or us_event or None
+        title = turkish_event or us_event or get_history_fallback(now_et)
 
     return {
         "title": title,
@@ -340,8 +355,6 @@ def main() -> None:
     month = now_et.month
     day = now_et.day
     weekday = now_et.weekday()  # 0=Mon … 6=Sun
-    day_of_year = now_et.timetuple().tm_yday
-    days_in_year = 366 if calendar.isleap(now_et.year) else 365
 
     date_str = now_et.strftime("%d-%m-%Y")
 
@@ -371,8 +384,6 @@ def main() -> None:
             "month_tr": MONTHS_TR[month],
             "weekday_tr": WEEKDAYS_TR[weekday],
             "iso": now_et.strftime("%Y-%m-%d"),
-            "day_of_year": day_of_year,
-            "days_in_year": days_in_year,
         },
         "prayer_times": prayer_times,
         "weather": weather,
