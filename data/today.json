@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T13:35:58.103126+00:00",
+  "generated_at": "2026-08-03T16:17:44.881460+00:00",
   "date": {
     "day": 3,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:43"
   },
   "weather": {
-    "temp_f": 78,
-    "temp_c": 26,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 84,
+    "temp_c": 29,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -32,7 +32,7 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
+        "temp_f": 84,
         "temp_c": 29
       },
       {
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 47.525,
-    "gold_usd": 4032.199951,
-    "btc_usd": 62713.605
+    "usd_try": 47.536,
+    "gold_usd": 4036.899902,
+    "btc_usd": 63837.745
   },
   "history": {
     "title": "1492: Kristof Kolomb, Amerika'ya doğru yelken açtı",
