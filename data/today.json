@@ -1,44 +1,37 @@
 {
-  "generated_at": "2026-08-04T00:03:11.573513+00:00",
+  "generated_at": "2026-08-04T04:07:45.627360+00:00",
   "date": {
-    "day": 3,
+    "day": 4,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-08-03"
+    "weekday_tr": "SALI",
+    "iso": "2026-08-04"
   },
   "prayer_times": {
-    "imsak": "04:37",
-    "gunes": "06:12",
-    "ogle": "13:16",
+    "imsak": "04:39",
+    "gunes": "06:13",
+    "ogle": "13:15",
     "ikindi": "17:07",
-    "aksam": "20:19",
-    "yatsi": "21:43"
+    "aksam": "20:17",
+    "yatsi": "21:42"
   },
   "weather": {
-    "temp_f": 81,
-    "temp_c": 27,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Çar",
-        "condition": "storm",
-        "condition_code": 95,
+        "condition": "heavy_rain",
+        "condition_code": 82,
         "temp_f": 80,
         "temp_c": 27
       },
@@ -62,21 +55,28 @@
         "condition_code": 53,
         "temp_f": 93,
         "temp_c": 34
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 93,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 47.536,
-    "gold_usd": 4062.199951,
-    "btc_usd": 63480.135
+    "gold_usd": 4053.800049,
+    "btc_usd": 63696.905
   },
   "history": {
-    "title": "1492: Kristof Kolomb, Amerika'ya doğru yelken açtı",
+    "title": "1900: İngiltere Kraliçe Anası doğdu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Güçlü olan, zayıf yanını herkesten iyi bilendir.",
-    "author": "Konfüçyüs"
+    "text": "İmkânsız olan şeyleri kovalamak deliliktir.",
+    "author": "Marcus Aurelius"
   }
 }
