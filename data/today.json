@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:21:43.739232+00:00",
+  "generated_at": "2026-08-04T17:39:20.263062+00:00",
   "date": {
     "day": 4,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:42"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 84,
+    "temp_c": 29,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.556,
-    "gold_usd": 4077.800049,
-    "btc_usd": 63971.995
+    "gold_usd": 4096.399902,
+    "btc_usd": 64054.395
   },
   "history": {
     "title": "1900: İngiltere Kraliçe Anası doğdu",
