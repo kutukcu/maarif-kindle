@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:07:45.627360+00:00",
+  "generated_at": "2026-08-04T07:32:44.955649+00:00",
   "date": {
     "day": 4,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:42"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 71,
+    "temp_c": 22,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 82,
-        "temp_f": 80,
+        "temp_f": 81,
         "temp_c": 27
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 95,
         "temp_c": 35
       },
       {
         "day_tr": "Cum",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 96,
-        "temp_c": 36
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 93,
-        "temp_c": 34
+        "condition_code": 51,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 93,
+        "condition_code": 51,
+        "temp_f": 94,
         "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 47.536,
-    "gold_usd": 4053.800049,
-    "btc_usd": 63696.905
+    "gold_usd": 4064.899902,
+    "btc_usd": 63657.06
   },
   "history": {
     "title": "1900: İngiltere Kraliçe Anası doğdu",
