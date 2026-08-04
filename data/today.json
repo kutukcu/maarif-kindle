@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:31:15.467647+00:00",
+  "generated_at": "2026-08-04T12:55:26.656693+00:00",
   "date": {
     "day": 4,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:42"
   },
   "weather": {
-    "temp_f": 70,
-    "temp_c": 21,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 95,
         "temp_c": 35
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 95,
-        "temp_c": 35
+        "condition_code": 53,
+        "temp_f": 94,
+        "temp_c": 34
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition_code": 53,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 94,
-        "temp_c": 34
+        "temp_f": 95,
+        "temp_c": 35
       }
     ]
   },
   "finance": {
     "usd_try": 47.536,
-    "gold_usd": 4050.0,
-    "btc_usd": 63427.315
+    "gold_usd": 4075.0,
+    "btc_usd": 63876.765
   },
   "history": {
     "title": "1900: İngiltere Kraliçe Anası doğdu",
