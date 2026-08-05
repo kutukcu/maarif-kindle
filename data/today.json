@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-05T03:55:03.864612+00:00",
+  "generated_at": "2026-08-05T06:22:38.028707+00:00",
   "date": {
-    "day": 4,
+    "day": 5,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "SALI",
-    "iso": "2026-08-04"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-08-05"
   },
   "prayer_times": {
-    "imsak": "04:39",
-    "gunes": "06:13",
+    "imsak": "04:40",
+    "gunes": "06:14",
     "ogle": "13:15",
     "ikindi": "17:07",
-    "aksam": "20:17",
-    "yatsi": "21:42"
+    "aksam": "20:16",
+    "yatsi": "21:40"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
+    "temp_f": 76,
+    "temp_c": 24,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "rain",
-        "condition_code": 80,
+        "condition_code": 63,
         "temp_f": 83,
         "temp_c": 28
       },
       {
-        "day_tr": "Per",
+        "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 82,
         "temp_f": 90,
@@ -44,39 +37,46 @@
       },
       {
         "day_tr": "Cum",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 92,
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 94,
+        "temp_c": 34
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 94,
+        "condition_code": 51,
+        "temp_f": 93,
         "temp_c": 34
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 92,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
     "usd_try": 47.556,
-    "gold_usd": 4129.0,
-    "btc_usd": 64129.485
+    "gold_usd": 4163.899902,
+    "btc_usd": 64230.615
   },
   "history": {
-    "title": "1900: İngiltere Kraliçe Anası doğdu",
+    "title": "1962: Oyuncu Marilyn Monroe evinde ölü bulundu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "İmkânsız olan şeyleri kovalamak deliliktir.",
+    "text": "Doğaya uygun olan hiçbir şey kötü değildir.",
     "author": "Marcus Aurelius"
   }
 }
