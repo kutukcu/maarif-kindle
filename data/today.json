@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T06:22:38.028707+00:00",
+  "generated_at": "2026-08-05T09:32:12.030640+00:00",
   "date": {
     "day": 5,
     "month": 8,
@@ -16,36 +16,36 @@
     "yatsi": "21:40"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "drizzle",
+    "condition_code": 53,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 63,
+        "condition": "heavy_rain",
+        "condition_code": 82,
         "temp_f": 83,
         "temp_c": 28
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
+        "condition": "rain",
+        "condition_code": 81,
         "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Cmt",
-        "condition": "storm",
-        "condition_code": 95,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 94,
         "temp_c": 34
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.556,
-    "gold_usd": 4163.899902,
-    "btc_usd": 64230.615
+    "gold_usd": 4157.200195,
+    "btc_usd": 64106.295
   },
   "history": {
     "title": "1962: Oyuncu Marilyn Monroe evinde ölü bulundu",
