@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:42:07.313961+00:00",
+  "generated_at": "2026-08-05T19:21:09.759181+00:00",
   "date": {
     "day": 5,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:40"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
+    "temp_f": 80,
+    "temp_c": 27,
     "condition": "sun",
     "condition_code": 1,
     "forecast": [
@@ -25,8 +25,8 @@
         "day_tr": "Bugün",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.576,
-    "gold_usd": 4251.5,
-    "btc_usd": 64660.005
+    "gold_usd": 4252.600098,
+    "btc_usd": 64811.555
   },
   "history": {
     "title": "1962: Oyuncu Marilyn Monroe evinde ölü bulundu",
