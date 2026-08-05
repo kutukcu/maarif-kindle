@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:53:16.083571+00:00",
+  "generated_at": "2026-08-05T17:42:07.313961+00:00",
   "date": {
     "day": 5,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:40"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 82,
+    "temp_c": 28,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 94,
-        "temp_c": 34
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 91,
-        "temp_c": 33
+        "condition_code": 51,
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 55,
-        "temp_f": 95,
-        "temp_c": 35
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 96,
-        "temp_c": 36
+        "temp_f": 93,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
-    "usd_try": 47.556,
-    "gold_usd": 4199.600098,
-    "btc_usd": 64212.845
+    "usd_try": 47.576,
+    "gold_usd": 4251.5,
+    "btc_usd": 64660.005
   },
   "history": {
     "title": "1962: Oyuncu Marilyn Monroe evinde ölü bulundu",
