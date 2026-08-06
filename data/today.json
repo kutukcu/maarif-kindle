@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-08-05T23:54:28.489151+00:00",
+  "generated_at": "2026-08-06T05:42:22.679702+00:00",
   "date": {
-    "day": 5,
+    "day": 6,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-08-05"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-08-06"
   },
   "prayer_times": {
-    "imsak": "04:40",
-    "gunes": "06:14",
+    "imsak": "04:41",
+    "gunes": "06:15",
     "ogle": "13:15",
-    "ikindi": "17:07",
-    "aksam": "20:16",
-    "yatsi": "21:40"
+    "ikindi": "17:06",
+    "aksam": "20:15",
+    "yatsi": "21:39"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
+    "temp_f": 77,
+    "temp_c": 25,
     "condition": "sun",
     "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition_code": 81,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 91,
+        "condition_code": 81,
+        "temp_f": 92,
         "temp_c": 33
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 96,
-        "temp_c": 36
       },
       {
         "day_tr": "Cmt",
         "condition": "heavy_rain",
         "condition_code": 82,
-        "temp_f": 95,
-        "temp_c": 35
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 94,
+        "temp_f": 93,
         "temp_c": 34
       },
       {
         "day_tr": "Pzt",
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 95,
+        "temp_c": 35
+      },
+      {
+        "day_tr": "Sal",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 96,
-        "temp_c": 36
+        "condition_code": 51,
+        "temp_f": 88,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 47.576,
-    "gold_usd": 4277.0,
-    "btc_usd": 64603.655
+    "gold_usd": 4264.799805,
+    "btc_usd": 64813.055
   },
   "history": {
-    "title": "1962: Oyuncu Marilyn Monroe evinde ölü bulundu",
+    "title": "1945: ABD, Hiroşima'ya atom bombası attı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Doğaya uygun olan hiçbir şey kötü değildir.",
-    "author": "Marcus Aurelius"
+    "text": "Aslını gizleyemez insan giydiği kaftanlarla; bilmez ama kendini kandırır söylediği yalanlarla.",
+    "author": "Mehmet Akif Ersoy"
   }
 }
