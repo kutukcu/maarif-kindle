@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T08:24:27.026920+00:00",
+  "generated_at": "2026-08-06T11:15:40.424791+00:00",
   "date": {
     "day": 6,
     "month": 8,
@@ -19,12 +19,12 @@
     "temp_f": 76,
     "temp_c": 24,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
-        "condition_code": 55,
+        "condition_code": 51,
         "temp_f": 92,
         "temp_c": 33
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.576,
-    "gold_usd": 4265.600098,
-    "btc_usd": 64745.005
+    "gold_usd": 4269.100098,
+    "btc_usd": 64508.215
   },
   "history": {
     "title": "1945: ABD, Hiroşima'ya atom bombası attı",
