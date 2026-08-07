@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:37:56.169455+00:00",
+  "generated_at": "2026-08-07T03:45:28.448019+00:00",
   "date": {
     "day": 6,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:39"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
-    "condition": "drizzle",
-    "condition_code": 53,
+    "temp_f": 72,
+    "temp_c": 22,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,17 +30,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 94,
-        "temp_c": 34
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Paz",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.595,
-    "gold_usd": 4242.700195,
-    "btc_usd": 64258.405
+    "gold_usd": 4261.799805,
+    "btc_usd": 64286.685
   },
   "history": {
     "title": "1945: ABD, Hiroşima'ya atom bombası attı",
