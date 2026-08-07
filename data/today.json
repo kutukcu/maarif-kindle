@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:43:15.146844+00:00",
+  "generated_at": "2026-08-07T18:45:32.189539+00:00",
   "date": {
     "day": 7,
     "month": 8,
@@ -19,12 +19,12 @@
     "temp_f": 88,
     "temp_c": 31,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 89,
         "temp_c": 32
       },
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 96,
-        "temp_c": 36
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 95,
-        "temp_c": 35
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Sal",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 95,
-        "temp_c": 35
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 82,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 47.706,
-    "gold_usd": 4337.200195,
-    "btc_usd": 64627.865
+    "gold_usd": 4335.200195,
+    "btc_usd": 64675.995
   },
   "history": {
     "title": "1974: Philippe Petit, İkiz Kuleler'de yürüdü",
