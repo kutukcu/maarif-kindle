@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T13:50:45.779809+00:00",
+  "generated_at": "2026-08-07T00:37:56.169455+00:00",
   "date": {
     "day": 6,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:39"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "drizzle",
+    "condition_code": 53,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 92,
         "temp_c": 33
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 96,
-        "temp_c": 36
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 94,
+        "temp_c": 34
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 93,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 94,
         "temp_c": 34
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 97,
-        "temp_c": 36
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 97,
-        "temp_c": 36
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 98,
+        "temp_c": 37
       }
     ]
   },
   "finance": {
-    "usd_try": 47.576,
-    "gold_usd": 4264.0,
-    "btc_usd": 64373.335
+    "usd_try": 47.595,
+    "gold_usd": 4242.700195,
+    "btc_usd": 64258.405
   },
   "history": {
     "title": "1945: ABD, Hiroşima'ya atom bombası attı",
