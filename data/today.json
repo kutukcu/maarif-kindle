@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:46:57.760949+00:00",
+  "generated_at": "2026-08-07T11:40:55.916674+00:00",
   "date": {
     "day": 7,
     "month": 8,
@@ -16,15 +16,15 @@
     "yatsi": "21:37"
   },
   "weather": {
-    "temp_f": 71,
-    "temp_c": 22,
+    "temp_f": 73,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "drizzle",
+        "condition_code": 55,
         "temp_f": 89,
         "temp_c": 32
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.595,
-    "gold_usd": 4318.5,
-    "btc_usd": 64828.465
+    "gold_usd": 4324.299805,
+    "btc_usd": 65016.435
   },
   "history": {
     "title": "1974: Philippe Petit, İkiz Kuleler'de yürüdü",
