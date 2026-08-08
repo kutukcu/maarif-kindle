@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T20:21:48.716942+00:00",
+  "generated_at": "2026-08-08T21:23:34.900483+00:00",
   "date": {
     "day": 8,
     "month": 8,
@@ -16,15 +16,15 @@
     "yatsi": "21:36"
   },
   "weather": {
-    "temp_f": 91,
-    "temp_c": 33,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 90,
+    "temp_c": 32,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 61,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 91,
         "temp_c": 33
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 47.706,
     "gold_usd": 4343.299805,
-    "btc_usd": 65025.185
+    "btc_usd": 64993.465
   },
   "history": {
     "title": "1963: İngiltere'de 'Büyük Tren Soygunu' gerçekleşti",
