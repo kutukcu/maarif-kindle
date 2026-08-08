@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:50:46.594345+00:00",
+  "generated_at": "2026-08-08T05:37:26.639026+00:00",
   "date": {
     "day": 8,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:36"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 95,
-        "temp_c": 35
-      },
-      {
-        "day_tr": "Sal",
         "condition": "rain",
         "condition_code": 80,
         "temp_f": 97,
         "temp_c": 36
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Sal",
         "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition_code": 81,
+        "temp_f": 95,
+        "temp_c": 35
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 90,
+        "temp_c": 32
       }
     ]
   },
   "finance": {
     "usd_try": 47.706,
     "gold_usd": 4343.299805,
-    "btc_usd": 64989.415
+    "btc_usd": 64982.185
   },
   "history": {
     "title": "1963: İngiltere'de 'Büyük Tren Soygunu' gerçekleşti",
