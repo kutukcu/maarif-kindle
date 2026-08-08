@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-08T03:19:38.857988+00:00",
+  "generated_at": "2026-08-08T04:50:46.594345+00:00",
   "date": {
-    "day": 7,
+    "day": 8,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "CUMA",
-    "iso": "2026-08-07"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-08-08"
   },
   "prayer_times": {
-    "imsak": "04:42",
-    "gunes": "06:16",
+    "imsak": "04:43",
+    "gunes": "06:17",
     "ogle": "13:15",
     "ikindi": "17:06",
-    "aksam": "20:14",
-    "yatsi": "21:37"
+    "aksam": "20:13",
+    "yatsi": "21:36"
   },
   "weather": {
-    "temp_f": 76,
+    "temp_f": 75,
     "temp_c": 24,
-    "condition": "cloud",
-    "condition_code": 3,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 89,
-        "temp_c": 32
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 90,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 93,
@@ -62,21 +55,28 @@
         "condition_code": 80,
         "temp_f": 82,
         "temp_c": 28
+      },
+      {
+        "day_tr": "Per",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 87,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 47.706,
     "gold_usd": 4343.299805,
-    "btc_usd": 64940.995
+    "btc_usd": 64989.415
   },
   "history": {
-    "title": "1974: Philippe Petit, İkiz Kuleler'de yürüdü",
+    "title": "1963: İngiltere'de 'Büyük Tren Soygunu' gerçekleşti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Gençliği yetiştiriniz. Onlara ilim ve irfanın müsbet fikirlerini veriniz.",
-    "author": "Mustafa Kemal Atatürk"
+    "text": "İnsanın başına kaldıramayacağı hiçbir şey gelmez.",
+    "author": "Marcus Aurelius"
   }
 }
