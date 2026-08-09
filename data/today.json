@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:58:23.165339+00:00",
+  "generated_at": "2026-08-09T05:48:15.305388+00:00",
   "date": {
     "day": 9,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:34"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,8 +25,8 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
@@ -38,37 +38,37 @@
       {
         "day_tr": "Sal",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition_code": 80,
+        "temp_f": 94,
+        "temp_c": 34
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 92,
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 81,
+        "temp_c": 27
       }
     ]
   },
   "finance": {
     "usd_try": 47.706,
     "gold_usd": 4343.299805,
-    "btc_usd": 64729.525
+    "btc_usd": 64717.515
   },
   "history": {
     "title": "1945: ABD, Nagazaki'ye ikinci atom bombasını attı",
