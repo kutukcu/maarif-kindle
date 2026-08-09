@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:25:10.798187+00:00",
+  "generated_at": "2026-08-09T22:23:10.536806+00:00",
   "date": {
     "day": 9,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:34"
   },
   "weather": {
-    "temp_f": 92,
+    "temp_f": 91,
     "temp_c": 33,
     "condition": "sun",
     "condition_code": 0,
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.706,
-    "gold_usd": 4343.299805,
-    "btc_usd": 65089.025
+    "gold_usd": 4341.0,
+    "btc_usd": 65216.535
   },
   "history": {
     "title": "1945: ABD, Nagazaki'ye ikinci atom bombasını attı",
