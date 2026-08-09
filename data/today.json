@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:27:52.077981+00:00",
+  "generated_at": "2026-08-09T20:24:20.997730+00:00",
   "date": {
     "day": 9,
     "month": 8,
@@ -25,20 +25,20 @@
         "day_tr": "Bugün",
         "condition": "cloud_sun",
         "condition_code": 2,
-        "temp_f": 93,
-        "temp_c": 34
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "rain",
+        "condition_code": 63,
         "temp_f": 94,
         "temp_c": 34
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "rain",
+        "condition_code": 61,
         "temp_f": 92,
         "temp_c": 33
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 47.706,
     "gold_usd": 4343.299805,
-    "btc_usd": 65166.545
+    "btc_usd": 65073.53
   },
   "history": {
     "title": "1945: ABD, Nagazaki'ye ikinci atom bombasını attı",
