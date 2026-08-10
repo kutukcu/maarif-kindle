@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:35:22.959048+00:00",
+  "generated_at": "2026-08-10T22:30:38.645948+00:00",
   "date": {
     "day": 10,
     "month": 8,
@@ -16,15 +16,15 @@
     "yatsi": "21:33"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
-        "condition_code": 81,
+        "condition_code": 80,
         "temp_f": 92,
         "temp_c": 33
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.695,
-    "gold_usd": 4390.100098,
-    "btc_usd": 64051.545
+    "gold_usd": 4393.200195,
+    "btc_usd": 63947.395
   },
   "history": {
     "title": "1809: Ekvador, İspanya'dan bağımsızlığını ilan etti",
