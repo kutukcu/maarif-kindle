@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T17:45:58.774789+00:00",
+  "generated_at": "2026-08-10T18:47:58.752100+00:00",
   "date": {
     "day": 10,
     "month": 8,
@@ -16,22 +16,22 @@
     "yatsi": "21:33"
   },
   "weather": {
-    "temp_f": 92,
+    "temp_f": 91,
     "temp_c": 33,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 93,
-        "temp_c": 34
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 89,
         "temp_c": 32
       },
@@ -39,14 +39,14 @@
         "day_tr": "Çar",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 89,
+        "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 90,
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
@@ -60,15 +60,15 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 83,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 47.695,
-    "gold_usd": 4361.5,
-    "btc_usd": 63834.09
+    "gold_usd": 4375.299805,
+    "btc_usd": 63802.95
   },
   "history": {
     "title": "1809: Ekvador, İspanya'dan bağımsızlığını ilan etti",
