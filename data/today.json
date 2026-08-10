@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:54:41.702269+00:00",
+  "generated_at": "2026-08-10T14:17:02.805037+00:00",
   "date": {
     "day": 10,
     "month": 8,
@@ -16,16 +16,16 @@
     "yatsi": "21:33"
   },
   "weather": {
-    "temp_f": 78,
-    "temp_c": 26,
+    "temp_f": 84,
+    "temp_c": 29,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 94,
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 93,
         "temp_c": 34
       },
       {
@@ -44,31 +44,31 @@
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 84,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
-    "usd_try": 47.706,
-    "gold_usd": 4332.299805,
-    "btc_usd": 64864.595
+    "usd_try": 47.695,
+    "gold_usd": 4330.5,
+    "btc_usd": 64657.54
   },
   "history": {
     "title": "1809: Ekvador, İspanya'dan bağımsızlığını ilan etti",
