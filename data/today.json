@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T05:20:27.214290+00:00",
+  "generated_at": "2026-08-10T07:19:20.802325+00:00",
   "date": {
     "day": 10,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:33"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 93,
-        "temp_c": 34
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 55,
+        "condition": "heavy_rain",
+        "condition_code": 82,
         "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Çar",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Per",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 92,
+        "temp_c": 33
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 90,
+        "temp_c": 32
+      },
+      {
+        "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 87,
         "temp_c": 31
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 76,
-        "temp_c": 24
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 80,
-        "temp_c": 27
       }
     ]
   },
   "finance": {
     "usd_try": 47.706,
-    "gold_usd": 4334.200195,
-    "btc_usd": 64951.005
+    "gold_usd": 4357.100098,
+    "btc_usd": 65203.885
   },
   "history": {
     "title": "1809: Ekvador, İspanya'dan bağımsızlığını ilan etti",
