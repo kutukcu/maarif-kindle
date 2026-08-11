@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:54:58.923781+00:00",
+  "generated_at": "2026-08-11T10:44:45.633303+00:00",
   "date": {
     "day": 11,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:31"
   },
   "weather": {
-    "temp_f": 69,
+    "temp_f": 70,
     "temp_c": 21,
     "condition": "cloud",
     "condition_code": 3,
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.695,
-    "gold_usd": 4374.0,
-    "btc_usd": 64186.4
+    "gold_usd": 4379.0,
+    "btc_usd": 64213.625
   },
   "history": {
     "title": "1965: Los Angeles'ta Watts ayaklanmaları başladı",
