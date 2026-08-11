@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:16:09.376622+00:00",
+  "generated_at": "2026-08-11T15:55:06.577478+00:00",
   "date": {
     "day": 11,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:31"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 78,
+    "temp_c": 26,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -30,10 +30,10 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Per",
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 47.695,
-    "gold_usd": 4386.899902,
-    "btc_usd": 64187.195
+    "usd_try": 47.727,
+    "gold_usd": 4381.899902,
+    "btc_usd": 63446.435
   },
   "history": {
     "title": "1965: Los Angeles'ta Watts ayaklanmaları başladı",
