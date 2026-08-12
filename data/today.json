@@ -1,60 +1,53 @@
 {
-  "generated_at": "2026-08-12T01:21:32.000894+00:00",
+  "generated_at": "2026-08-12T06:08:41.258821+00:00",
   "date": {
-    "day": 11,
+    "day": 12,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "SALI",
-    "iso": "2026-08-11"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-08-12"
   },
   "prayer_times": {
-    "imsak": "04:47",
-    "gunes": "06:19",
-    "ogle": "13:15",
+    "imsak": "04:48",
+    "gunes": "06:20",
+    "ogle": "13:14",
     "ikindi": "17:04",
-    "aksam": "20:09",
-    "yatsi": "21:31"
+    "aksam": "20:08",
+    "yatsi": "21:30"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
+    "temp_f": 73,
+    "temp_c": 23,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 87,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 88,
         "temp_c": 31
       },
       {
-        "day_tr": "Per",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 92,
+        "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Paz",
@@ -62,21 +55,28 @@
         "condition_code": 51,
         "temp_f": 99,
         "temp_c": 37
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 89,
+        "temp_c": 32
       }
     ]
   },
   "finance": {
     "usd_try": 47.727,
-    "gold_usd": 4394.600098,
-    "btc_usd": 63704.475
+    "gold_usd": 4387.200195,
+    "btc_usd": 63707.015
   },
   "history": {
-    "title": "1965: Los Angeles'ta Watts ayaklanmaları başladı",
+    "title": "1981: IBM ilk kişisel bilgisayarını sundu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Eğitimin kökleri acı, meyveleri tatlıdır.",
-    "author": "Aristoteles"
+    "text": "Gülü seven dikenine katlanır.",
+    "author": "Atasözü"
   }
 }
