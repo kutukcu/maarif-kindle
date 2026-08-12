@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:43:04.100719+00:00",
+  "generated_at": "2026-08-12T12:54:55.564922+00:00",
   "date": {
     "day": 12,
     "month": 8,
@@ -11,15 +11,15 @@
     "imsak": "04:48",
     "gunes": "06:20",
     "ogle": "13:14",
-    "ikindi": "17:04",
+    "ikindi": "17:03",
     "aksam": "20:08",
     "yatsi": "21:30"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 90,
         "temp_c": 32
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.727,
-    "gold_usd": 4414.399902,
-    "btc_usd": 64144.425
+    "gold_usd": 4428.299805,
+    "btc_usd": 64093.485
   },
   "history": {
     "title": "1981: IBM ilk kişisel bilgisayarını sundu",
