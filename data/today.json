@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:54:09.887150+00:00",
+  "generated_at": "2026-08-12T18:54:10.053843+00:00",
   "date": {
     "day": 12,
     "month": 8,
@@ -16,22 +16,22 @@
     "yatsi": "21:30"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
+    "temp_f": 86,
+    "temp_c": 30,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 88,
+        "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 91,
         "temp_c": 33
       },
@@ -39,7 +39,7 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
+        "temp_f": 88,
         "temp_c": 31
       },
       {
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 101,
-        "temp_c": 38
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 88,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 47.757,
-    "gold_usd": 4402.100098,
-    "btc_usd": 63422.06
+    "gold_usd": 4415.200195,
+    "btc_usd": 63313.205
   },
   "history": {
     "title": "1981: IBM ilk kişisel bilgisayarını sundu",
