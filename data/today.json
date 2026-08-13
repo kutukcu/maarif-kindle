@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-08-13T01:22:55.777904+00:00",
+  "generated_at": "2026-08-13T06:11:54.559519+00:00",
   "date": {
-    "day": 12,
+    "day": 13,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-08-12"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-08-13"
   },
   "prayer_times": {
-    "imsak": "04:48",
-    "gunes": "06:20",
+    "imsak": "04:50",
+    "gunes": "06:21",
     "ogle": "13:14",
-    "ikindi": "17:04",
-    "aksam": "20:08",
-    "yatsi": "21:30"
+    "ikindi": "17:03",
+    "aksam": "20:07",
+    "yatsi": "21:28"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 74,
+    "temp_c": 23,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
@@ -36,47 +36,47 @@
         "temp_c": 32
       },
       {
-        "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
-      },
-      {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 99,
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 98,
         "temp_c": 37
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 94,
-        "temp_c": 34
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 84,
+        "temp_c": 29
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 88,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 47.757,
-    "gold_usd": 4423.0,
-    "btc_usd": 63431.135
+    "gold_usd": 4378.600098,
+    "btc_usd": 63764.995
   },
   "history": {
-    "title": "1981: IBM ilk kişisel bilgisayarını sundu",
+    "title": "1961: Berlin Duvarı'nın inşasına başlandı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Gülü seven dikenine katlanır.",
-    "author": "Atasözü"
+    "text": "Öğrenme, insanın temiz karakterini ortaya çıkarmak demektir.",
+    "author": "Konfüçyüs"
   }
 }
