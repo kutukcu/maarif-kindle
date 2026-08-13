@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T19:53:22.195875+00:00",
+  "generated_at": "2026-08-13T20:35:44.655122+00:00",
   "date": {
     "day": 13,
     "month": 8,
@@ -18,8 +18,8 @@
   "weather": {
     "temp_f": 90,
     "temp_c": 32,
-    "condition": "cloud",
-    "condition_code": 3,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -37,8 +37,8 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 90,
         "temp_c": 32
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.775,
-    "gold_usd": 4351.100098,
-    "btc_usd": 63335.345
+    "gold_usd": 4350.100098,
+    "btc_usd": 63383.595
   },
   "history": {
     "title": "1961: Berlin Duvarı'nın inşasına başlandı",
