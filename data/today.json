@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T23:34:33.840554+00:00",
+  "generated_at": "2026-08-14T01:22:49.037889+00:00",
   "date": {
     "day": 13,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:28"
   },
   "weather": {
-    "temp_f": 86,
-    "temp_c": 30,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 82,
+    "temp_c": 28,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 85,
         "temp_c": 29
       },
@@ -44,22 +44,22 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "storm",
+        "condition_code": 96,
         "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 86,
         "temp_c": 30
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "sun",
+        "condition_code": 1,
         "temp_f": 86,
         "temp_c": 30
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.775,
-    "gold_usd": 4362.5,
-    "btc_usd": 63414.625
+    "gold_usd": 4324.700195,
+    "btc_usd": 63492.295
   },
   "history": {
     "title": "1961: Berlin Duvarı'nın inşasına başlandı",
