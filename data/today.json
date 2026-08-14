@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-14T01:22:49.037889+00:00",
+  "generated_at": "2026-08-14T06:08:58.511389+00:00",
   "date": {
-    "day": 13,
+    "day": 14,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-08-13"
+    "weekday_tr": "CUMA",
+    "iso": "2026-08-14"
   },
   "prayer_times": {
-    "imsak": "04:50",
-    "gunes": "06:21",
+    "imsak": "04:51",
+    "gunes": "06:22",
     "ogle": "13:14",
     "ikindi": "17:03",
-    "aksam": "20:07",
-    "yatsi": "21:28"
+    "aksam": "20:05",
+    "yatsi": "21:26"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
+    "temp_f": 76,
+    "temp_c": 24,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -25,58 +25,58 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 85,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Paz",
-        "condition": "storm",
-        "condition_code": 96,
-        "temp_f": 89,
-        "temp_c": 32
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Pzt",
         "condition": "rain",
-        "condition_code": 80,
+        "condition_code": 81,
         "temp_f": 86,
         "temp_c": 30
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 85,
+        "temp_c": 29
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 92,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
     "usd_try": 47.775,
-    "gold_usd": 4324.700195,
-    "btc_usd": 63492.295
+    "gold_usd": 4332.5,
+    "btc_usd": 63258.845
   },
   "history": {
-    "title": "1961: Berlin Duvarı'nın inşasına başlandı",
+    "title": "1945: Japonya teslim oldu, savaş fiilen bitti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Öğrenme, insanın temiz karakterini ortaya çıkarmak demektir.",
-    "author": "Konfüçyüs"
+    "text": "Sen doğru ol, varsın sanan eğri sansın.",
+    "author": "Yunus Emre"
   }
 }
