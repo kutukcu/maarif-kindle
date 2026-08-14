@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:54:18.392666+00:00",
+  "generated_at": "2026-08-14T10:53:09.610093+00:00",
   "date": {
     "day": 14,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:26"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,8 +25,8 @@
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.775,
-    "gold_usd": 4355.5,
-    "btc_usd": 62718.255
+    "gold_usd": 4354.0,
+    "btc_usd": 62773.205
   },
   "history": {
     "title": "1945: Japonya teslim oldu, savaş fiilen bitti",
