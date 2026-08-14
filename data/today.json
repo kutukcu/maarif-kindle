@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:53:09.610093+00:00",
+  "generated_at": "2026-08-14T12:51:53.648757+00:00",
   "date": {
     "day": 14,
     "month": 8,
@@ -11,22 +11,22 @@
     "imsak": "04:51",
     "gunes": "06:22",
     "ogle": "13:14",
-    "ikindi": "17:03",
+    "ikindi": "17:02",
     "aksam": "20:05",
     "yatsi": "21:26"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 79,
+    "temp_c": 26,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Yarın",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Pzt",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition_code": 80,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 93,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 47.775,
-    "gold_usd": 4354.0,
-    "btc_usd": 62773.205
+    "gold_usd": 4374.899902,
+    "btc_usd": 62718.015
   },
   "history": {
     "title": "1945: Japonya teslim oldu, savaş fiilen bitti",
