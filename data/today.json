@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:15:58.390258+00:00",
+  "generated_at": "2026-08-15T00:53:45.723393+00:00",
   "date": {
     "day": 14,
     "month": 8,
@@ -11,15 +11,15 @@
     "imsak": "04:51",
     "gunes": "06:22",
     "ogle": "13:14",
-    "ikindi": "17:02",
+    "ikindi": "17:03",
     "aksam": "20:05",
     "yatsi": "21:26"
   },
   "weather": {
-    "temp_f": 81,
-    "temp_c": 27,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 78,
+    "temp_c": 26,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -39,13 +39,13 @@
         "day_tr": "Paz",
         "condition": "storm",
         "condition_code": 95,
-        "temp_f": 90,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 89,
         "temp_c": 32
       },
@@ -53,22 +53,22 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
+        "temp_f": 95,
+        "temp_c": 35
       }
     ]
   },
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 62872.215
+    "btc_usd": 62936.655
   },
   "history": {
     "title": "1945: Japonya teslim oldu, savaş fiilen bitti",
