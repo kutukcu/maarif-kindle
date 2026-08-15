@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:19:45.919505+00:00",
+  "generated_at": "2026-08-15T06:26:26.163568+00:00",
   "date": {
     "day": 15,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:25"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 72,
+    "temp_c": 22,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 78,
-        "temp_c": 26
-      },
-      {
-        "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 89,
         "temp_c": 32
       },
       {
+        "day_tr": "Yarın",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 78,
+        "temp_c": 26
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 88,
+        "temp_c": 31
+      },
+      {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 95,
-        "temp_c": 35
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 97,
-        "temp_c": 36
+        "condition_code": 51,
+        "temp_f": 85,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 63080.535
+    "btc_usd": 63000.725
   },
   "history": {
     "title": "1947: Hindistan bağımsızlığını kazandı",
