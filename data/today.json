@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-15T03:33:01.858961+00:00",
+  "generated_at": "2026-08-15T04:23:10.058806+00:00",
   "date": {
-    "day": 14,
+    "day": 15,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "CUMA",
-    "iso": "2026-08-14"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-08-15"
   },
   "prayer_times": {
-    "imsak": "04:51",
-    "gunes": "06:22",
+    "imsak": "04:52",
+    "gunes": "06:23",
     "ogle": "13:14",
-    "ikindi": "17:03",
-    "aksam": "20:05",
-    "yatsi": "21:26"
+    "ikindi": "17:02",
+    "aksam": "20:04",
+    "yatsi": "21:25"
   },
   "weather": {
     "temp_f": 75,
     "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 84,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
-        "day_tr": "Paz",
+        "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 53,
         "temp_f": 78,
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 95,
         "temp_c": 35
+      },
+      {
+        "day_tr": "Per",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 97,
+        "temp_c": 36
       }
     ]
   },
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 63021.585
+    "btc_usd": 63055.005
   },
   "history": {
-    "title": "1945: Japonya teslim oldu, savaş fiilen bitti",
+    "title": "1947: Hindistan bağımsızlığını kazandı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Sen doğru ol, varsın sanan eğri sansın.",
-    "author": "Yunus Emre"
+    "text": "Eğitimin kökleri acı, meyveleri tatlıdır.",
+    "author": "Aristoteles"
   }
 }
