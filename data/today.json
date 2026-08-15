@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:11:00.894757+00:00",
+  "generated_at": "2026-08-15T03:33:01.858961+00:00",
   "date": {
     "day": 14,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:26"
   },
   "weather": {
-    "temp_f": 76,
+    "temp_f": 75,
     "temp_c": 24,
     "condition": "cloud_sun",
     "condition_code": 2,
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 62985.155
+    "btc_usd": 63021.585
   },
   "history": {
     "title": "1945: Japonya teslim oldu, savaş fiilen bitti",
