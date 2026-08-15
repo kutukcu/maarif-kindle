@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:14:28.730032+00:00",
+  "generated_at": "2026-08-15T16:16:45.450471+00:00",
   "date": {
     "day": 15,
     "month": 8,
@@ -16,17 +16,17 @@
     "yatsi": "21:25"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
+    "temp_f": 85,
+    "temp_c": 29,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Yarın",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 62970.025
+    "btc_usd": 62994.715
   },
   "history": {
     "title": "1947: Hindistan bağımsızlığını kazandı",
