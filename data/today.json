@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:13:52.606507+00:00",
+  "generated_at": "2026-08-16T02:19:17.402411+00:00",
   "date": {
     "day": 15,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:25"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 79,
+    "temp_c": 26,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,17 +30,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Pzt",
         "condition": "heavy_rain",
         "condition_code": 65,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Sal",
@@ -52,14 +52,14 @@
       {
         "day_tr": "Çar",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 55,
         "temp_f": 87,
         "temp_c": 31
       }
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 63064.405
+    "btc_usd": 62960.075
   },
   "history": {
     "title": "1947: Hindistan bağımsızlığını kazandı",
