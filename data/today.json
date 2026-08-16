@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-16T03:42:26.004101+00:00",
+  "generated_at": "2026-08-16T04:29:45.355620+00:00",
   "date": {
-    "day": 15,
+    "day": 16,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-08-15"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-08-16"
   },
   "prayer_times": {
-    "imsak": "04:52",
-    "gunes": "06:23",
+    "imsak": "04:53",
+    "gunes": "06:24",
     "ogle": "13:14",
-    "ikindi": "17:02",
-    "aksam": "20:04",
-    "yatsi": "21:25"
+    "ikindi": "17:01",
+    "aksam": "20:03",
+    "yatsi": "21:23"
   },
   "weather": {
-    "temp_f": 76,
+    "temp_f": 75,
     "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 88,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 65,
         "temp_f": 85,
         "temp_c": 29
       },
       {
-        "day_tr": "Pzt",
+        "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 65,
         "temp_f": 87,
@@ -62,21 +55,28 @@
         "condition_code": 55,
         "temp_f": 87,
         "temp_c": 31
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 78,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 63052.495
+    "btc_usd": 63082.495
   },
   "history": {
-    "title": "1947: Hindistan bağımsızlığını kazandı",
+    "title": "1977: Elvis Presley öldü",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Eğitimin kökleri acı, meyveleri tatlıdır.",
-    "author": "Aristoteles"
+    "text": "Evren değişiyor; hayatımız, düşüncelerimize göre şekilleniyor.",
+    "author": "Marcus Aurelius"
   }
 }
