@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:29:45.355620+00:00",
+  "generated_at": "2026-08-16T05:22:04.448999+00:00",
   "date": {
     "day": 16,
     "month": 8,
@@ -16,17 +16,17 @@
     "yatsi": "21:23"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Yarın",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 47.884,
     "gold_usd": 4377.600098,
-    "btc_usd": 63082.495
+    "btc_usd": 62999.345
   },
   "history": {
     "title": "1977: Elvis Presley öldü",
