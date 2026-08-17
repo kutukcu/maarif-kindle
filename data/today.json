@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:29:33.022086+00:00",
+  "generated_at": "2026-08-17T06:40:56.288328+00:00",
   "date": {
     "day": 17,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:22"
   },
   "weather": {
-    "temp_f": 73,
+    "temp_f": 74,
     "temp_c": 23,
     "condition": "cloud",
     "condition_code": 3,
@@ -25,7 +25,7 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
+        "temp_f": 92,
         "temp_c": 33
       },
       {
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Cum",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 74,
-        "temp_c": 23
+        "condition_code": 63,
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition_code": 53,
+        "temp_f": 79,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 47.884,
-    "gold_usd": 4399.100098,
-    "btc_usd": 63423.135
+    "gold_usd": 4396.200195,
+    "btc_usd": 63542.785
   },
   "history": {
     "title": "1945: Endonezya, bağımsızlığını ilan etti",
