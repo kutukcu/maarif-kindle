@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-17T03:43:56.874108+00:00",
+  "generated_at": "2026-08-17T05:29:33.022086+00:00",
   "date": {
-    "day": 16,
+    "day": 17,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-08-16"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-08-17"
   },
   "prayer_times": {
-    "imsak": "04:53",
-    "gunes": "06:24",
-    "ogle": "13:14",
+    "imsak": "04:54",
+    "gunes": "06:25",
+    "ogle": "13:13",
     "ikindi": "17:01",
-    "aksam": "20:03",
-    "yatsi": "21:23"
+    "aksam": "20:01",
+    "yatsi": "21:22"
   },
   "weather": {
     "temp_f": 73,
@@ -23,20 +23,13 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 80,
-        "temp_c": 27
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 92,
+        "temp_f": 91,
         "temp_c": 33
       },
       {
-        "day_tr": "Sal",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 87,
@@ -62,21 +55,28 @@
         "condition_code": 81,
         "temp_f": 74,
         "temp_c": 23
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 80,
+        "temp_c": 27
       }
     ]
   },
   "finance": {
     "usd_try": 47.884,
-    "gold_usd": 4397.700195,
-    "btc_usd": 63284.785
+    "gold_usd": 4399.100098,
+    "btc_usd": 63423.135
   },
   "history": {
-    "title": "1977: Elvis Presley öldü",
+    "title": "1945: Endonezya, bağımsızlığını ilan etti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Evren değişiyor; hayatımız, düşüncelerimize göre şekilleniyor.",
-    "author": "Marcus Aurelius"
+    "text": "Can ararsan can olursun.",
+    "author": "Mevlânâ"
   }
 }
