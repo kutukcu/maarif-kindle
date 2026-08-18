@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T02:12:22.560147+00:00",
+  "generated_at": "2026-08-18T03:39:14.936340+00:00",
   "date": {
     "day": 17,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:22"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 76,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -32,7 +32,7 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.902,
-    "gold_usd": 4399.899902,
-    "btc_usd": 64146.795
+    "gold_usd": 4396.600098,
+    "btc_usd": 64076.005
   },
   "history": {
     "title": "1945: Endonezya, bağımsızlığını ilan etti",
