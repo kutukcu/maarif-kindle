@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:21:00.930988+00:00",
+  "generated_at": "2026-08-18T18:28:38.255269+00:00",
   "date": {
     "day": 18,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:20"
   },
   "weather": {
-    "temp_f": 84,
+    "temp_f": 85,
     "temp_c": 29,
     "condition": "cloud_sun",
     "condition_code": 2,
@@ -38,37 +38,37 @@
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition_code": 51,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 85,
         "temp_c": 29
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
         "condition": "storm",
         "condition_code": 95,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 75,
+        "temp_c": 24
       }
     ]
   },
   "finance": {
     "usd_try": 47.912,
-    "gold_usd": 4365.100098,
-    "btc_usd": 64745.245
+    "gold_usd": 4359.5,
+    "btc_usd": 64773.995
   },
   "history": {
     "title": "1920: ABD'de kadınlara oy hakkı tanındı",
