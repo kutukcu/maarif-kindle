@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T06:37:37.309570+00:00",
+  "generated_at": "2026-08-18T07:32:23.127136+00:00",
   "date": {
     "day": 18,
     "month": 8,
@@ -19,7 +19,7 @@
     "temp_f": 73,
     "temp_c": 23,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.902,
-    "gold_usd": 4397.799805,
-    "btc_usd": 64323.71
+    "gold_usd": 4404.0,
+    "btc_usd": 64211.815
   },
   "history": {
     "title": "1920: ABD'de kadınlara oy hakkı tanındı",
