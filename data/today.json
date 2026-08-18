@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-18T03:39:14.936340+00:00",
+  "generated_at": "2026-08-18T04:29:03.771719+00:00",
   "date": {
-    "day": 17,
+    "day": 18,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-08-17"
+    "weekday_tr": "SALI",
+    "iso": "2026-08-18"
   },
   "prayer_times": {
-    "imsak": "04:54",
-    "gunes": "06:25",
+    "imsak": "04:56",
+    "gunes": "06:26",
     "ogle": "13:13",
-    "ikindi": "17:01",
-    "aksam": "20:01",
-    "yatsi": "21:22"
+    "ikindi": "17:00",
+    "aksam": "20:00",
+    "yatsi": "21:20"
   },
   "weather": {
     "temp_f": 76,
@@ -25,18 +25,11 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 92,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
         "temp_f": 89,
         "temp_c": 32
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 91,
@@ -62,21 +55,28 @@
         "condition_code": 53,
         "temp_f": 79,
         "temp_c": 26
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 86,
+        "temp_c": 30
       }
     ]
   },
   "finance": {
     "usd_try": 47.902,
-    "gold_usd": 4396.600098,
-    "btc_usd": 64076.005
+    "gold_usd": 4393.799805,
+    "btc_usd": 64082.575
   },
   "history": {
-    "title": "1945: Endonezya, bağımsızlığını ilan etti",
+    "title": "1920: ABD'de kadınlara oy hakkı tanındı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Can ararsan can olursun.",
-    "author": "Mevlânâ"
+    "text": "Hiç kimse rastlantıyla doğru ve akıllı olmaz.",
+    "author": "Aristoteles"
   }
 }
