@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T05:22:31.571820+00:00",
+  "generated_at": "2026-08-18T06:37:37.309570+00:00",
   "date": {
     "day": 18,
     "month": 8,
@@ -16,17 +16,17 @@
     "yatsi": "21:20"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 73,
+    "temp_c": 23,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 89,
-        "temp_c": 32
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Yarın",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.902,
-    "gold_usd": 4396.0,
-    "btc_usd": 64168.505
+    "gold_usd": 4397.799805,
+    "btc_usd": 64323.71
   },
   "history": {
     "title": "1920: ABD'de kadınlara oy hakkı tanındı",
