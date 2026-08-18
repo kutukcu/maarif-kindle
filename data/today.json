@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T11:19:16.841201+00:00",
+  "generated_at": "2026-08-18T12:32:48.468652+00:00",
   "date": {
     "day": 18,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:20"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
+    "temp_f": 77,
+    "temp_c": 25,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 88,
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
         "temp_f": 90,
         "temp_c": 32
       },
       {
+        "day_tr": "Per",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 88,
+        "temp_c": 31
+      },
+      {
         "day_tr": "Cum",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 76,
-        "temp_c": 24
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 87,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 47.902,
-    "gold_usd": 4393.899902,
-    "btc_usd": 64277.005
+    "gold_usd": 4396.0,
+    "btc_usd": 64242.005
   },
   "history": {
     "title": "1920: ABD'de kadınlara oy hakkı tanındı",
