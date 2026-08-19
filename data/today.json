@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:29:06.246306+00:00",
+  "generated_at": "2026-08-19T09:26:36.552534+00:00",
   "date": {
     "day": 19,
     "month": 8,
@@ -16,15 +16,15 @@
     "yatsi": "21:18"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "sun",
+        "condition_code": 1,
         "temp_f": 90,
         "temp_c": 32
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.912,
-    "gold_usd": 4359.799805,
-    "btc_usd": 64213.305
+    "gold_usd": 4358.399902,
+    "btc_usd": 64324.115
   },
   "history": {
     "title": "1839: Dagerreyotip fotoğraf yöntemi duyuruldu",
