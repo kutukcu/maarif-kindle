@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T11:19:37.662433+00:00",
+  "generated_at": "2026-08-19T12:33:50.201356+00:00",
   "date": {
     "day": 19,
     "month": 8,
@@ -11,21 +11,21 @@
     "imsak": "04:57",
     "gunes": "06:27",
     "ogle": "13:13",
-    "ikindi": "17:00",
+    "ikindi": "16:59",
     "aksam": "19:59",
     "yatsi": "21:18"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
+    "temp_f": 72,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 89,
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 90,
         "temp_c": 32
       },
       {
@@ -37,29 +37,29 @@
       },
       {
         "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Cmt",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition_code": 80,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition_code": 53,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 84,
         "temp_c": 29
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.912,
-    "gold_usd": 4371.399902,
-    "btc_usd": 64435.415
+    "gold_usd": 4373.700195,
+    "btc_usd": 64479.985
   },
   "history": {
     "title": "1839: Dagerreyotip fotoğraf yöntemi duyuruldu",
