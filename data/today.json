@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:20:14.772858+00:00",
+  "generated_at": "2026-08-20T12:34:51.294485+00:00",
   "date": {
     "day": 20,
     "month": 8,
@@ -16,17 +16,17 @@
     "yatsi": "21:17"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
+    "temp_f": 79,
+    "temp_c": 26,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Yarın",
@@ -37,15 +37,15 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 82,
         "temp_c": 28
       },
@@ -60,15 +60,15 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 81,
-        "temp_c": 27
+        "temp_f": 82,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 47.935,
-    "gold_usd": 4483.399902,
-    "btc_usd": 71831.735
+    "gold_usd": 4456.100098,
+    "btc_usd": 71679.355
   },
   "history": {
     "title": "1968: Sovyetler Prag Baharı'nı bastırdı",
