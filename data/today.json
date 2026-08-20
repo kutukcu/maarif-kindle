@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:35:45.637002+00:00",
+  "generated_at": "2026-08-20T08:29:59.192791+00:00",
   "date": {
     "day": 20,
     "month": 8,
@@ -16,24 +16,24 @@
     "yatsi": "21:17"
   },
   "weather": {
-    "temp_f": 71,
+    "temp_f": 72,
     "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 92,
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Cmt",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.935,
-    "gold_usd": 4490.299805,
-    "btc_usd": 69558.445
+    "gold_usd": 4491.399902,
+    "btc_usd": 71303.505
   },
   "history": {
     "title": "1968: Sovyetler Prag Baharı'nı bastırdı",
