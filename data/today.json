@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-08-21T03:44:40.586425+00:00",
+  "generated_at": "2026-08-21T04:31:41.388111+00:00",
   "date": {
-    "day": 20,
+    "day": 21,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-08-20"
+    "weekday_tr": "CUMA",
+    "iso": "2026-08-21"
   },
   "prayer_times": {
-    "imsak": "04:58",
+    "imsak": "04:59",
     "gunes": "06:28",
-    "ogle": "13:13",
-    "ikindi": "16:59",
-    "aksam": "19:57",
-    "yatsi": "21:17"
+    "ogle": "13:12",
+    "ikindi": "16:58",
+    "aksam": "19:56",
+    "yatsi": "21:15"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "cloud_sun",
     "condition_code": 2,
     "forecast": [
@@ -25,18 +25,11 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
         "temp_f": 85,
         "temp_c": 29
       },
       {
-        "day_tr": "Cmt",
+        "day_tr": "Yarın",
         "condition": "rain",
         "condition_code": 81,
         "temp_f": 80,
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 84,
         "temp_c": 29
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 82,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 47.953,
-    "gold_usd": 4530.100098,
-    "btc_usd": 74618.135
+    "gold_usd": 4548.5,
+    "btc_usd": 74851.285
   },
   "history": {
-    "title": "1968: Sovyetler Prag Baharı'nı bastırdı",
+    "title": "1959: Hawaii, ABD'nin 50. eyaleti oldu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Hiç kimse, kendi isteğiyle kötü değildir.",
-    "author": "Sokrates"
+    "text": "Öğrenme, insanın temiz karakterini ortaya çıkarmak demektir.",
+    "author": "Konfüçyüs"
   }
 }
