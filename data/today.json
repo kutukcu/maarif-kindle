@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:29:57.085061+00:00",
+  "generated_at": "2026-08-21T10:22:59.412938+00:00",
   "date": {
     "day": 21,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:15"
   },
   "weather": {
-    "temp_f": 63,
+    "temp_f": 62,
     "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 47.953,
-    "gold_usd": 4582.899902,
-    "btc_usd": 77654.595
+    "gold_usd": 4584.5,
+    "btc_usd": 78006.135
   },
   "history": {
     "title": "1959: Hawaii, ABD'nin 50. eyaleti oldu",
