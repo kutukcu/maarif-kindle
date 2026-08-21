@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:22:25.101825+00:00",
+  "generated_at": "2026-08-21T18:27:22.225994+00:00",
   "date": {
     "day": 21,
     "month": 8,
@@ -16,10 +16,10 @@
     "yatsi": "21:15"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
+    "temp_f": 82,
+    "temp_c": 28,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition": "rain",
+        "condition_code": 63,
         "temp_f": 75,
         "temp_c": 24
       },
@@ -44,15 +44,15 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud_sun",
+        "condition_code": 2,
         "temp_f": 83,
         "temp_c": 28
       },
@@ -60,15 +60,15 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 86,
+        "temp_c": 30
       }
     ]
   },
   "finance": {
     "usd_try": 48.066,
-    "gold_usd": 4624.700195,
-    "btc_usd": 77255.725
+    "gold_usd": 4627.299805,
+    "btc_usd": 77409.145
   },
   "history": {
     "title": "1959: Hawaii, ABD'nin 50. eyaleti oldu",
