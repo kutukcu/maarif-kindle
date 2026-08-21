@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:19:55.167776+00:00",
+  "generated_at": "2026-08-21T00:56:52.051032+00:00",
   "date": {
     "day": 20,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:17"
   },
   "weather": {
-    "temp_f": 78,
-    "temp_c": 26,
+    "temp_f": 69,
+    "temp_c": 21,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,36 +39,36 @@
         "day_tr": "Cmt",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 77,
-        "temp_c": 25
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 84,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 47.953,
-    "gold_usd": 4532.5,
-    "btc_usd": 73014.145
+    "gold_usd": 4511.700195,
+    "btc_usd": 73649.635
   },
   "history": {
     "title": "1968: Sovyetler Prag Baharı'nı bastırdı",
