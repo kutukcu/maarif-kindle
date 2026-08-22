@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T02:12:56.026415+00:00",
+  "generated_at": "2026-08-22T03:36:09.441219+00:00",
   "date": {
     "day": 21,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:15"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
+    "temp_f": 68,
+    "temp_c": 20,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -30,17 +30,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 75,
-        "temp_c": 24
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Pzt",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.066,
     "gold_usd": 4604.399902,
-    "btc_usd": 78066.055
+    "btc_usd": 78726.385
   },
   "history": {
     "title": "1959: Hawaii, ABD'nin 50. eyaleti oldu",
