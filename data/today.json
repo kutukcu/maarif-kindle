@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-08-22T03:36:09.441219+00:00",
+  "generated_at": "2026-08-22T04:26:29.031077+00:00",
   "date": {
-    "day": 21,
+    "day": 22,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "CUMA",
-    "iso": "2026-08-21"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-08-22"
   },
   "prayer_times": {
-    "imsak": "04:59",
-    "gunes": "06:28",
+    "imsak": "05:00",
+    "gunes": "06:29",
     "ogle": "13:12",
     "ikindi": "16:58",
-    "aksam": "19:56",
-    "yatsi": "21:15"
+    "aksam": "19:55",
+    "yatsi": "21:13"
   },
   "weather": {
     "temp_f": 68,
@@ -23,20 +23,13 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "rain",
+        "condition_code": 61,
         "temp_f": 79,
         "temp_c": 26
       },
       {
-        "day_tr": "Paz",
+        "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 65,
         "temp_f": 84,
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 86,
         "temp_c": 30
+      },
+      {
+        "day_tr": "Per",
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 88,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 48.066,
     "gold_usd": 4604.399902,
-    "btc_usd": 78726.385
+    "btc_usd": 78530.665
   },
   "history": {
-    "title": "1959: Hawaii, ABD'nin 50. eyaleti oldu",
+    "title": "1642: İngiliz İç Savaşı başladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Öğrenme, insanın temiz karakterini ortaya çıkarmak demektir.",
-    "author": "Konfüçyüs"
+    "text": "Eğer bir mümin'in kalbin kırarsan hakka eylediğin secde değildir.",
+    "author": "Yunus Emre"
   }
 }
