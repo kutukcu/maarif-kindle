@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:18:25.969647+00:00",
+  "generated_at": "2026-08-22T20:15:30.938471+00:00",
   "date": {
     "day": 22,
     "month": 8,
@@ -23,22 +23,22 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 79,
+        "temp_c": 26
+      },
+      {
+        "day_tr": "Yarın",
+        "condition": "rain",
+        "condition_code": 61,
         "temp_f": 81,
         "temp_c": 27
       },
       {
-        "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 84,
-        "temp_c": 29
-      },
-      {
         "day_tr": "Pzt",
         "condition": "sun",
-        "condition_code": 0,
+        "condition_code": 1,
         "temp_f": 83,
         "temp_c": 28
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.066,
     "gold_usd": 4604.399902,
-    "btc_usd": 77306.885
+    "btc_usd": 77412.305
   },
   "history": {
     "title": "1642: İngiliz İç Savaşı başladı",
