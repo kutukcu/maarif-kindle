@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:28:00.110086+00:00",
+  "generated_at": "2026-08-23T08:21:48.346199+00:00",
   "date": {
     "day": 23,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:12"
   },
   "weather": {
-    "temp_f": 67,
+    "temp_f": 66,
     "temp_c": 19,
     "condition": "cloud",
     "condition_code": 3,
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 84,
         "temp_c": 29
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.066,
     "gold_usd": 4604.399902,
-    "btc_usd": 76219.015
+    "btc_usd": 76216.645
   },
   "history": {
     "title": "1305: William Wallace idam edildi",
