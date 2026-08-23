@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-23T03:44:27.909903+00:00",
+  "generated_at": "2026-08-23T04:30:33.570112+00:00",
   "date": {
-    "day": 22,
+    "day": 23,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-08-22"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-08-23"
   },
   "prayer_times": {
-    "imsak": "05:00",
-    "gunes": "06:29",
+    "imsak": "05:02",
+    "gunes": "06:30",
     "ogle": "13:12",
-    "ikindi": "16:58",
-    "aksam": "19:55",
-    "yatsi": "21:13"
+    "ikindi": "16:57",
+    "aksam": "19:53",
+    "yatsi": "21:12"
   },
   "weather": {
-    "temp_f": 70,
+    "temp_f": 69,
     "temp_c": 21,
-    "condition": "rain",
-    "condition_code": 63,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 80,
-        "temp_c": 27
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 63,
         "temp_f": 84,
         "temp_c": 29
       },
       {
-        "day_tr": "Pzt",
+        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 1,
         "temp_f": 84,
@@ -62,21 +55,28 @@
         "condition_code": 80,
         "temp_f": 88,
         "temp_c": 31
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 89,
+        "temp_c": 32
       }
     ]
   },
   "finance": {
     "usd_try": 48.066,
     "gold_usd": 4604.399902,
-    "btc_usd": 76836.085
+    "btc_usd": 76965.355
   },
   "history": {
-    "title": "1642: İngiliz İç Savaşı başladı",
+    "title": "1305: William Wallace idam edildi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Eğer bir mümin'in kalbin kırarsan hakka eylediğin secde değildir.",
-    "author": "Yunus Emre"
+    "text": "Sağlıklı bir göz, görülebilen her şeyi görebilmelidir.",
+    "author": "Marcus Aurelius"
   }
 }
