@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:18:18.652480+00:00",
+  "generated_at": "2026-08-23T20:15:03.989533+00:00",
   "date": {
     "day": 23,
     "month": 8,
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Sal",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.066,
     "gold_usd": 4604.399902,
-    "btc_usd": 77358.245
+    "btc_usd": 77266.175
   },
   "history": {
     "title": "1305: William Wallace idam edildi",
