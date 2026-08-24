@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T14:35:22.098790+00:00",
+  "generated_at": "2026-08-24T15:33:09.367629+00:00",
   "date": {
     "day": 24,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:10"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
+    "temp_f": 78,
+    "temp_c": 26,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,8 +25,8 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.081,
-    "gold_usd": 4678.0,
-    "btc_usd": 79584.325
+    "gold_usd": 4675.399902,
+    "btc_usd": 79906.415
   },
   "history": {
     "title": "M.S. 79: Vezüv patlayıp Pompei'yi gömdü",
