@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-24T03:49:15.484316+00:00",
+  "generated_at": "2026-08-24T04:38:29.172218+00:00",
   "date": {
-    "day": 23,
+    "day": 24,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-08-23"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-08-24"
   },
   "prayer_times": {
-    "imsak": "05:02",
-    "gunes": "06:30",
+    "imsak": "05:03",
+    "gunes": "06:31",
     "ogle": "13:12",
-    "ikindi": "16:57",
-    "aksam": "19:53",
-    "yatsi": "21:12"
+    "ikindi": "16:56",
+    "aksam": "19:52",
+    "yatsi": "21:10"
   },
   "weather": {
-    "temp_f": 67,
-    "temp_c": 19,
+    "temp_f": 65,
+    "temp_c": 18,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 85,
-        "temp_c": 29
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 83,
+        "temp_f": 82,
         "temp_c": 28
       },
       {
-        "day_tr": "Sal",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 84,
@@ -62,21 +55,28 @@
         "condition_code": 51,
         "temp_f": 91,
         "temp_c": 33
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 90,
+        "temp_c": 32
       }
     ]
   },
   "finance": {
     "usd_try": 48.066,
-    "gold_usd": 4643.5,
-    "btc_usd": 77016.03
+    "gold_usd": 4637.299805,
+    "btc_usd": 77153.495
   },
   "history": {
-    "title": "1305: William Wallace idam edildi",
+    "title": "M.S. 79: Vezüv patlayıp Pompei'yi gömdü",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Sağlıklı bir göz, görülebilen her şeyi görebilmelidir.",
-    "author": "Marcus Aurelius"
+    "text": "Bilge kişinin kaybedeceği hiçbir şey yoktur; sahip olduğu her şeyi kendinde taşır.",
+    "author": "Seneca"
   }
 }
