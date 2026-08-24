@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:21:14.645937+00:00",
+  "generated_at": "2026-08-24T12:36:31.223614+00:00",
   "date": {
     "day": 24,
     "month": 8,
@@ -16,16 +16,16 @@
     "yatsi": "21:10"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
+    "temp_f": 68,
+    "temp_c": 20,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 82,
+        "temp_f": 83,
         "temp_c": 28
       },
       {
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Per",
-        "condition": "storm",
-        "condition_code": 96,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 92,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
     "usd_try": 48.066,
-    "gold_usd": 4645.899902,
-    "btc_usd": 77834.745
+    "gold_usd": 4660.100098,
+    "btc_usd": 78525.04
   },
   "history": {
     "title": "M.S. 79: Vezüv patlayıp Pompei'yi gömdü",
