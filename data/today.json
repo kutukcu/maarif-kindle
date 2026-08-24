@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T06:43:01.778637+00:00",
+  "generated_at": "2026-08-24T07:52:50.688864+00:00",
   "date": {
     "day": 24,
     "month": 8,
@@ -16,7 +16,7 @@
     "yatsi": "21:10"
   },
   "weather": {
-    "temp_f": 63,
+    "temp_f": 62,
     "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.066,
-    "gold_usd": 4649.799805,
-    "btc_usd": 77274.785
+    "gold_usd": 4637.200195,
+    "btc_usd": 77300.005
   },
   "history": {
     "title": "M.S. 79: Vezüv patlayıp Pompei'yi gömdü",
