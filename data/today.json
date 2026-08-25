@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:35:35.862314+00:00",
+  "generated_at": "2026-08-25T13:43:32.328906+00:00",
   "date": {
     "day": 25,
     "month": 8,
@@ -16,15 +16,15 @@
     "yatsi": "21:08"
   },
   "weather": {
-    "temp_f": 67,
-    "temp_c": 19,
+    "temp_f": 72,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "cloud_sun",
+        "condition_code": 2,
         "temp_f": 84,
         "temp_c": 29
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.081,
-    "gold_usd": 4634.299805,
-    "btc_usd": 78967.785
+    "gold_usd": 4613.899902,
+    "btc_usd": 78834.565
   },
   "history": {
     "title": "1944: Paris, Nazi işgalinden kurtarıldı",
