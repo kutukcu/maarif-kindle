@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T04:33:46.480196+00:00",
+  "generated_at": "2026-08-26T05:28:30.828050+00:00",
   "date": {
     "day": 26,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:06"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
+    "temp_f": 65,
+    "temp_c": 18,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.1,
-    "gold_usd": 4643.299805,
-    "btc_usd": 78944.675
+    "gold_usd": 4645.0,
+    "btc_usd": 78989.385
   },
   "history": {
     "title": "1789: Fransa İnsan Hakları Bildirisi'ni kabul etti",
