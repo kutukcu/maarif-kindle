@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:12:49.096820+00:00",
+  "generated_at": "2026-08-26T21:33:46.845640+00:00",
   "date": {
     "day": 26,
     "month": 8,
@@ -16,59 +16,59 @@
     "yatsi": "21:06"
   },
   "weather": {
-    "temp_f": 83,
-    "temp_c": 28,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 85,
+    "temp_c": 29,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 92,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
         "temp_f": 86,
         "temp_c": 30
       },
       {
+        "day_tr": "Yarın",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 90,
+        "temp_c": 32
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 84,
+        "temp_c": 29
+      },
+      {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 94,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 48.117,
-    "gold_usd": 4599.899902,
-    "btc_usd": 78099.305
+    "gold_usd": 4594.899902,
+    "btc_usd": 78707.52
   },
   "history": {
     "title": "1789: Fransa İnsan Hakları Bildirisi'ni kabul etti",
