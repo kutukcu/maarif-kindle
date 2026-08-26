@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-08-26T03:48:26.345798+00:00",
+  "generated_at": "2026-08-26T04:33:46.480196+00:00",
   "date": {
-    "day": 25,
+    "day": 26,
     "month": 8,
     "month_tr": "AĞUSTOS",
-    "weekday_tr": "SALI",
-    "iso": "2026-08-25"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-08-26"
   },
   "prayer_times": {
-    "imsak": "05:04",
-    "gunes": "06:32",
+    "imsak": "05:05",
+    "gunes": "06:33",
     "ogle": "13:11",
     "ikindi": "16:55",
-    "aksam": "19:50",
-    "yatsi": "21:08"
+    "aksam": "19:49",
+    "yatsi": "21:06"
   },
   "weather": {
-    "temp_f": 67,
+    "temp_f": 66,
     "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 82,
-        "temp_c": 28
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 86,
         "temp_c": 30
       },
       {
-        "day_tr": "Per",
+        "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 82,
         "temp_f": 83,
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 90,
         "temp_c": 32
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 96,
+        "temp_c": 36
       }
     ]
   },
   "finance": {
     "usd_try": 48.1,
-    "gold_usd": 4645.5,
-    "btc_usd": 78944.495
+    "gold_usd": 4643.299805,
+    "btc_usd": 78944.675
   },
   "history": {
-    "title": "1944: Paris, Nazi işgalinden kurtarıldı",
+    "title": "1789: Fransa İnsan Hakları Bildirisi'ni kabul etti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Tatlı dil yılanı deliğinden çıkarır.",
-    "author": "Atasözü"
+    "text": "İyi insan nasıl olmalı diye tartışarak vakit kaybetme: İyi insan ol.",
+    "author": "Marcus Aurelius"
   }
 }
