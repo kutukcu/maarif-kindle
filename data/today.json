@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T05:28:30.828050+00:00",
+  "generated_at": "2026-08-26T06:37:16.829731+00:00",
   "date": {
     "day": 26,
     "month": 8,
@@ -16,8 +16,8 @@
     "yatsi": "21:06"
   },
   "weather": {
-    "temp_f": 65,
-    "temp_c": 18,
+    "temp_f": 66,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -30,45 +30,45 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 82,
+        "condition": "drizzle",
+        "condition_code": 55,
         "temp_f": 83,
         "temp_c": 28
       },
       {
         "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 96,
-        "temp_c": 36
+        "temp_f": 95,
+        "temp_c": 35
       }
     ]
   },
   "finance": {
     "usd_try": 48.1,
-    "gold_usd": 4645.0,
-    "btc_usd": 78989.385
+    "gold_usd": 4629.0,
+    "btc_usd": 78867.685
   },
   "history": {
     "title": "1789: Fransa İnsan Hakları Bildirisi'ni kabul etti",
