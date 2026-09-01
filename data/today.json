@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-09-01T00:18:32.431851+00:00",
+  "generated_at": "2026-09-01T05:57:46.440912+00:00",
   "date": {
-    "day": 31,
-    "month": 8,
-    "month_tr": "AĞUSTOS",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-08-31"
+    "day": 1,
+    "month": 9,
+    "month_tr": "EYLÜL",
+    "weekday_tr": "SALI",
+    "iso": "2026-09-01"
   },
   "prayer_times": {
-    "imsak": "05:11",
-    "gunes": "06:37",
-    "ogle": "13:10",
-    "ikindi": "16:51",
-    "aksam": "19:41",
-    "yatsi": "20:58"
+    "imsak": "05:12",
+    "gunes": "06:38",
+    "ogle": "13:09",
+    "ikindi": "16:50",
+    "aksam": "19:40",
+    "yatsi": "20:56"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 73,
+    "temp_c": 23,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
-      },
-      {
-        "day_tr": "Çar",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 97,
-        "temp_c": 36
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 100,
-        "temp_c": 38
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Cum",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 101,
-        "temp_c": 38
+        "condition_code": 80,
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Cmt",
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 87,
+        "temp_c": 31
+      },
+      {
+        "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 51,
         "temp_f": 83,
@@ -67,16 +67,16 @@
   },
   "finance": {
     "usd_try": 48.262,
-    "gold_usd": 4454.299805,
-    "btc_usd": 78759.015
+    "gold_usd": 4446.600098,
+    "btc_usd": 79150.115
   },
   "history": {
-    "title": "1997: Prenses Diana, Paris'te bir trafik kazasında öldü",
+    "title": "1939: Almanya Polonya'yı işgal etti, savaş başladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Algılarını, isteklerini ve içgüdülerini sona erdirirsen ruhun özgürdür.",
-    "author": "Marcus Aurelius"
+    "text": "Aynı dili konuşanlar değil, aynı duyguları paylaşanlar anlaşabilir.",
+    "author": "Mevlânâ"
   }
 }
