@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T10:23:52.978932+00:00",
+  "generated_at": "2026-09-02T18:20:22.343068+00:00",
   "date": {
     "day": 2,
     "month": 9,
@@ -16,59 +16,59 @@
     "yatsi": "20:54"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 93,
+    "temp_c": 34,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 96,
-        "temp_c": 36
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 98,
-        "temp_c": 37
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 89,
-        "temp_c": 32
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 82,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
-    "usd_try": 48.274,
-    "gold_usd": 4312.600098,
-    "btc_usd": 76632.335
+    "usd_try": 48.293,
+    "gold_usd": 4378.799805,
+    "btc_usd": 77422.285
   },
   "history": {
     "title": "1945: Japonya teslim oldu, II. Dünya Savaşı bitti",
