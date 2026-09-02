@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-09-02T00:45:48.263337+00:00",
+  "generated_at": "2026-09-02T05:20:30.724774+00:00",
   "date": {
-    "day": 1,
+    "day": 2,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "SALI",
-    "iso": "2026-09-01"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-09-02"
   },
   "prayer_times": {
-    "imsak": "05:12",
-    "gunes": "06:38",
+    "imsak": "05:13",
+    "gunes": "06:39",
     "ogle": "13:09",
-    "ikindi": "16:50",
-    "aksam": "19:40",
-    "yatsi": "20:56"
+    "ikindi": "16:49",
+    "aksam": "19:38",
+    "yatsi": "20:54"
   },
   "weather": {
-    "temp_f": 85,
-    "temp_c": 29,
+    "temp_f": 79,
+    "temp_c": 26,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 94,
-        "temp_c": 34
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 97,
+        "temp_c": 36
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 94,
-        "temp_c": 34
-      },
-      {
-        "day_tr": "Per",
         "condition": "rain",
         "condition_code": 80,
-        "temp_f": 98,
-        "temp_c": 37
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cum",
@@ -62,21 +55,28 @@
         "condition_code": 2,
         "temp_f": 81,
         "temp_c": 27
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 84,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 48.274,
-    "gold_usd": 4330.899902,
-    "btc_usd": 77210.155
+    "gold_usd": 4311.899902,
+    "btc_usd": 77627.475
   },
   "history": {
-    "title": "1939: Almanya Polonya'yı işgal etti, savaş başladı",
+    "title": "1945: Japonya teslim oldu, II. Dünya Savaşı bitti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Aynı dili konuşanlar değil, aynı duyguları paylaşanlar anlaşabilir.",
-    "author": "Mevlânâ"
+    "text": "Merhamet etmeyen kimseye merhamet olunmaz.",
+    "author": "Hz. Muhammed (s.a.v.)"
   }
 }
