@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:18:20.748604+00:00",
+  "generated_at": "2026-09-02T00:45:48.263337+00:00",
   "date": {
     "day": 1,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:56"
   },
   "weather": {
-    "temp_f": 94,
-    "temp_c": 34,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 85,
+    "temp_c": 29,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -38,37 +38,37 @@
       {
         "day_tr": "Per",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 100,
-        "temp_c": 38
+        "condition_code": 80,
+        "temp_f": 98,
+        "temp_c": 37
       },
       {
         "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 96,
-        "temp_c": 36
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 98,
+        "temp_c": 37
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 83,
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 82,
         "temp_c": 28
       },
       {
         "day_tr": "Paz",
         "condition": "cloud_sun",
         "condition_code": 2,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 81,
+        "temp_c": 27
       }
     ]
   },
   "finance": {
     "usd_try": 48.274,
-    "gold_usd": 4329.200195,
-    "btc_usd": 77200.095
+    "gold_usd": 4330.899902,
+    "btc_usd": 77210.155
   },
   "history": {
     "title": "1939: Almanya Polonya'yı işgal etti, savaş başladı",
