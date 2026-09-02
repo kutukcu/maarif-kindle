@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T18:20:22.343068+00:00",
+  "generated_at": "2026-09-02T21:30:01.492574+00:00",
   "date": {
     "day": 2,
     "month": 9,
@@ -16,36 +16,36 @@
     "yatsi": "20:54"
   },
   "weather": {
-    "temp_f": 93,
-    "temp_c": 34,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 82,
+    "temp_c": 28,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 95,
-        "temp_c": 35
+        "temp_f": 98,
+        "temp_c": 37
       },
       {
         "day_tr": "Cum",
-        "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 92,
         "temp_c": 33
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "storm",
+        "condition_code": 96,
         "temp_f": 83,
         "temp_c": 28
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.293,
-    "gold_usd": 4378.799805,
-    "btc_usd": 77422.285
+    "gold_usd": 4389.0,
+    "btc_usd": 77264.765
   },
   "history": {
     "title": "1945: Japonya teslim oldu, II. Dünya Savaşı bitti",
