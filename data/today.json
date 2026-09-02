@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:30:01.492574+00:00",
+  "generated_at": "2026-09-02T23:46:01.781258+00:00",
   "date": {
     "day": 2,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:54"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 98,
         "temp_c": 37
       },
@@ -39,36 +39,36 @@
         "day_tr": "Cum",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 92,
-        "temp_c": 33
+        "temp_f": 95,
+        "temp_c": 35
       },
       {
         "day_tr": "Cmt",
-        "condition": "storm",
-        "condition_code": 96,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 80,
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 81,
         "temp_c": 27
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 81,
+        "temp_c": 27
       }
     ]
   },
   "finance": {
     "usd_try": 48.293,
-    "gold_usd": 4389.0,
-    "btc_usd": 77264.765
+    "gold_usd": 4386.299805,
+    "btc_usd": 77153.005
   },
   "history": {
     "title": "1945: Japonya teslim oldu, II. Dünya Savaşı bitti",
