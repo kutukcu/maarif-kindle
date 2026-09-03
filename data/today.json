@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T16:50:31.189247+00:00",
+  "generated_at": "2026-09-03T19:34:00.888672+00:00",
   "date": {
     "day": 3,
     "month": 9,
@@ -16,22 +16,22 @@
     "yatsi": "20:53"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 89,
+    "temp_c": 32,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 93,
-        "temp_c": 34
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
         "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition_code": 82,
         "temp_f": 96,
         "temp_c": 36
       },
@@ -39,15 +39,15 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Pzt",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.315,
-    "gold_usd": 4489.899902,
-    "btc_usd": 81011.725
+    "gold_usd": 4477.0,
+    "btc_usd": 81443.095
   },
   "history": {
     "title": "1939: İngiltere ve Fransa, Almanya'ya savaş ilan etti",
