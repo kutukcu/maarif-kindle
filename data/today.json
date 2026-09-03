@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T12:28:17.235009+00:00",
+  "generated_at": "2026-09-03T16:50:31.189247+00:00",
   "date": {
     "day": 3,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:53"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 84,
+    "temp_c": 29,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 96,
-        "temp_c": 36
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Cmt",
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 48.293,
-    "gold_usd": 4449.100098,
-    "btc_usd": 77945.095
+    "usd_try": 48.315,
+    "gold_usd": 4489.899902,
+    "btc_usd": 81011.725
   },
   "history": {
     "title": "1939: İngiltere ve Fransa, Almanya'ya savaş ilan etti",
