@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:37:47.362314+00:00",
+  "generated_at": "2026-09-03T12:28:17.235009+00:00",
   "date": {
     "day": 3,
     "month": 9,
@@ -16,29 +16,29 @@
     "yatsi": "20:53"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 97,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 96,
         "temp_c": 36
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 86,
         "temp_c": 30
       },
@@ -46,8 +46,8 @@
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 81,
-        "temp_c": 27
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Pzt",
@@ -60,15 +60,15 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 86,
+        "temp_c": 30
       }
     ]
   },
   "finance": {
     "usd_try": 48.293,
-    "gold_usd": 4426.0,
-    "btc_usd": 77892.53
+    "gold_usd": 4449.100098,
+    "btc_usd": 77945.095
   },
   "history": {
     "title": "1939: İngiltere ve Fransa, Almanya'ya savaş ilan etti",
