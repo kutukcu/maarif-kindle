@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-09-03T02:31:38.970406+00:00",
+  "generated_at": "2026-09-03T07:37:47.362314+00:00",
   "date": {
-    "day": 2,
+    "day": 3,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-09-02"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-09-03"
   },
   "prayer_times": {
-    "imsak": "05:13",
-    "gunes": "06:39",
+    "imsak": "05:14",
+    "gunes": "06:40",
     "ogle": "13:09",
-    "ikindi": "16:49",
-    "aksam": "19:38",
-    "yatsi": "20:54"
+    "ikindi": "16:48",
+    "aksam": "19:37",
+    "yatsi": "20:53"
   },
   "weather": {
-    "temp_f": 74,
+    "temp_f": 73,
     "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 92,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 96,
+        "temp_f": 97,
         "temp_c": 36
       },
       {
-        "day_tr": "Cum",
+        "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 82,
         "temp_f": 87,
@@ -44,39 +37,46 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 81,
         "temp_c": 27
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 81,
-        "temp_c": 27
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 82,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 83,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 48.293,
-    "gold_usd": 4416.600098,
-    "btc_usd": 77635.035
+    "gold_usd": 4426.0,
+    "btc_usd": 77892.53
   },
   "history": {
-    "title": "1945: Japonya teslim oldu, II. Dünya Savaşı bitti",
+    "title": "1939: İngiltere ve Fransa, Almanya'ya savaş ilan etti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Merhamet etmeyen kimseye merhamet olunmaz.",
-    "author": "Hz. Muhammed (s.a.v.)"
+    "text": "Dost kara günde belli olur.",
+    "author": "Atasözü"
   }
 }
