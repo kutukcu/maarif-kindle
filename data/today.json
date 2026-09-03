@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:46:01.781258+00:00",
+  "generated_at": "2026-09-03T02:31:38.970406+00:00",
   "date": {
     "day": 2,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:54"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -30,17 +30,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 98,
-        "temp_c": 37
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 96,
+        "temp_c": 36
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 95,
-        "temp_c": 35
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Cmt",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.293,
-    "gold_usd": 4386.299805,
-    "btc_usd": 77153.005
+    "gold_usd": 4416.600098,
+    "btc_usd": 77635.035
   },
   "history": {
     "title": "1945: Japonya teslim oldu, II. Dünya Savaşı bitti",
