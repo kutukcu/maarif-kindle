@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:21:49.925701+00:00",
+  "generated_at": "2026-09-04T14:41:48.326237+00:00",
   "date": {
     "day": 4,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:51"
   },
   "weather": {
-    "temp_f": 69,
-    "temp_c": 21,
+    "temp_f": 81,
+    "temp_c": 27,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,45 +30,45 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 94,
-        "temp_c": 34
+        "temp_f": 92,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
-    "usd_try": 48.315,
-    "gold_usd": 4472.399902,
-    "btc_usd": 80843.435
+    "usd_try": 48.443,
+    "gold_usd": 4430.0,
+    "btc_usd": 79159.955
   },
   "history": {
     "title": "1998: Google, bir California garajında kuruldu",
