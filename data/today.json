@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-09-04T00:37:46.695229+00:00",
+  "generated_at": "2026-09-04T05:20:53.474179+00:00",
   "date": {
-    "day": 3,
+    "day": 4,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-09-03"
+    "weekday_tr": "CUMA",
+    "iso": "2026-09-04"
   },
   "prayer_times": {
-    "imsak": "05:14",
-    "gunes": "06:40",
-    "ogle": "13:09",
-    "ikindi": "16:48",
-    "aksam": "19:37",
-    "yatsi": "20:53"
+    "imsak": "05:15",
+    "gunes": "06:41",
+    "ogle": "13:08",
+    "ikindi": "16:47",
+    "aksam": "19:35",
+    "yatsi": "20:51"
   },
   "weather": {
-    "temp_f": 84,
-    "temp_c": 29,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "drizzle",
+    "condition_code": 55,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 91,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition_code": 55,
         "temp_f": 92,
         "temp_c": 33
       },
       {
-        "day_tr": "Cmt",
+        "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 55,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Paz",
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 85,
         "temp_c": 29
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 92,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
     "usd_try": 48.315,
-    "gold_usd": 4480.100098,
-    "btc_usd": 81354.28
+    "gold_usd": 4474.899902,
+    "btc_usd": 81033.535
   },
   "history": {
-    "title": "1939: İngiltere ve Fransa, Almanya'ya savaş ilan etti",
+    "title": "1998: Google, bir California garajında kuruldu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Dost kara günde belli olur.",
-    "author": "Atasözü"
+    "text": "Aynı dili konuşanlar değil, aynı duyguları paylaşanlar anlaşabilir.",
+    "author": "Mevlânâ"
   }
 }
