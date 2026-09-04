@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T20:32:33.573583+00:00",
+  "generated_at": "2026-09-04T22:43:00.441590+00:00",
   "date": {
     "day": 4,
     "month": 9,
@@ -16,16 +16,16 @@
     "yatsi": "20:51"
   },
   "weather": {
-    "temp_f": 90,
-    "temp_c": 32,
-    "condition": "drizzle",
-    "condition_code": 53,
+    "temp_f": 81,
+    "temp_c": 27,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 90,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.443,
-    "gold_usd": 4430.399902,
-    "btc_usd": 79757.995
+    "gold_usd": 4431.100098,
+    "btc_usd": 79719.28
   },
   "history": {
     "title": "1998: Google, bir California garajında kuruldu",
