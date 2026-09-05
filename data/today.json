@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:43:00.441590+00:00",
+  "generated_at": "2026-09-05T00:33:07.576064+00:00",
   "date": {
     "day": 4,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:51"
   },
   "weather": {
-    "temp_f": 81,
-    "temp_c": 27,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -44,10 +44,10 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Sal",
@@ -60,15 +60,15 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
+        "temp_f": 92,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
     "usd_try": 48.443,
     "gold_usd": 4431.100098,
-    "btc_usd": 79719.28
+    "btc_usd": 79665.185
   },
   "history": {
     "title": "1998: Google, bir California garajında kuruldu",
