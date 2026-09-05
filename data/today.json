@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:53:29.317623+00:00",
+  "generated_at": "2026-09-05T22:34:26.477711+00:00",
   "date": {
     "day": 5,
     "month": 9,
@@ -16,16 +16,16 @@
     "yatsi": "20:49"
   },
   "weather": {
-    "temp_f": 83,
-    "temp_c": 28,
+    "temp_f": 80,
+    "temp_c": 27,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
+        "temp_f": 82,
         "temp_c": 28
       },
       {
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.443,
     "gold_usd": 4431.100098,
-    "btc_usd": 79748.275
+    "btc_usd": 79835.685
   },
   "history": {
     "title": "1972: Münih Olimpiyatları'nda rehin krizi yaşandı",
