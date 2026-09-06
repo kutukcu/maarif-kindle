@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:24:51.162211+00:00",
+  "generated_at": "2026-09-06T10:05:45.627157+00:00",
   "date": {
     "day": 6,
     "month": 9,
@@ -11,13 +11,13 @@
     "imsak": "05:17",
     "gunes": "06:43",
     "ogle": "13:08",
-    "ikindi": "16:45",
+    "ikindi": "16:46",
     "aksam": "19:32",
     "yatsi": "20:47"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
+    "temp_f": 64,
+    "temp_c": 18,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Sal",
@@ -46,29 +46,29 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
+        "temp_f": 92,
         "temp_c": 33
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 94,
         "temp_c": 34
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 85,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 48.443,
     "gold_usd": 4431.100098,
-    "btc_usd": 79853.995
+    "btc_usd": 79930.725
   },
   "history": {
     "title": "1997: Prenses Diana'nın cenazesi düzenlendi",
