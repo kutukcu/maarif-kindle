@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-09-06T00:29:25.575455+00:00",
+  "generated_at": "2026-09-06T05:24:51.162211+00:00",
   "date": {
-    "day": 5,
+    "day": 6,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-09-05"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-09-06"
   },
   "prayer_times": {
-    "imsak": "05:16",
-    "gunes": "06:42",
+    "imsak": "05:17",
+    "gunes": "06:43",
     "ogle": "13:08",
-    "ikindi": "16:46",
-    "aksam": "19:34",
-    "yatsi": "20:49"
+    "ikindi": "16:45",
+    "aksam": "19:32",
+    "yatsi": "20:47"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 68,
+    "temp_c": 20,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "sun",
+        "condition_code": 1,
         "temp_f": 82,
         "temp_c": 28
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
-      },
-      {
-        "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 83,
@@ -62,21 +55,28 @@
         "condition_code": 53,
         "temp_f": 94,
         "temp_c": 34
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 91,
+        "temp_c": 33
       }
     ]
   },
   "finance": {
     "usd_try": 48.443,
     "gold_usd": 4431.100098,
-    "btc_usd": 79935.855
+    "btc_usd": 79853.995
   },
   "history": {
-    "title": "1972: Münih Olimpiyatları'nda rehin krizi yaşandı",
+    "title": "1997: Prenses Diana'nın cenazesi düzenlendi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Hiç kimse rastlantıyla doğru ve akıllı olmaz.",
-    "author": "Aristoteles"
+    "text": "Güzel söz kılıçtan keskindir.",
+    "author": "Atasözü"
   }
 }
