@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T22:34:26.477711+00:00",
+  "generated_at": "2026-09-06T00:29:25.575455+00:00",
   "date": {
     "day": 5,
     "month": 9,
@@ -16,15 +16,15 @@
     "yatsi": "20:49"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 82,
         "temp_c": 28
       },
@@ -39,36 +39,36 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 92,
+        "temp_f": 91,
         "temp_c": 33
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 92,
-        "temp_c": 33
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 94,
+        "temp_c": 34
       }
     ]
   },
   "finance": {
     "usd_try": 48.443,
     "gold_usd": 4431.100098,
-    "btc_usd": 79835.685
+    "btc_usd": 79935.855
   },
   "history": {
     "title": "1972: Münih Olimpiyatları'nda rehin krizi yaşandı",
