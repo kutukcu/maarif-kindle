@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:59:57.211697+00:00",
+  "generated_at": "2026-09-06T22:50:24.563905+00:00",
   "date": {
     "day": 6,
     "month": 9,
@@ -16,15 +16,15 @@
     "yatsi": "20:47"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 80,
+    "temp_c": 27,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 83,
         "temp_c": 28
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.443,
-    "gold_usd": 4431.100098,
-    "btc_usd": 79893.075
+    "gold_usd": 4435.100098,
+    "btc_usd": 79997.895
   },
   "history": {
     "title": "1997: Prenses Diana'nın cenazesi düzenlendi",
