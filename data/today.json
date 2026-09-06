@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T16:39:04.227139+00:00",
+  "generated_at": "2026-09-06T18:48:02.813887+00:00",
   "date": {
     "day": 6,
     "month": 9,
@@ -16,15 +16,15 @@
     "yatsi": "20:47"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
+    "temp_f": 82,
+    "temp_c": 28,
     "condition": "sun",
     "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "sun",
+        "condition_code": 1,
         "temp_f": 83,
         "temp_c": 28
       },
@@ -39,8 +39,8 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Çar",
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 80,
+        "temp_c": 27
       }
     ]
   },
   "finance": {
     "usd_try": 48.443,
     "gold_usd": 4431.100098,
-    "btc_usd": 79711.395
+    "btc_usd": 79909.995
   },
   "history": {
     "title": "1997: Prenses Diana'nın cenazesi düzenlendi",
