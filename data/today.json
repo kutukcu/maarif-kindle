@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T22:50:24.563905+00:00",
+  "generated_at": "2026-09-07T00:36:52.788021+00:00",
   "date": {
     "day": 6,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:47"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -46,29 +46,29 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Per",
         "condition": "rain",
         "condition_code": 81,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 78,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 48.443,
-    "gold_usd": 4435.100098,
-    "btc_usd": 79997.895
+    "gold_usd": 4420.899902,
+    "btc_usd": 80174.985
   },
   "history": {
     "title": "1997: Prenses Diana'nın cenazesi düzenlendi",
