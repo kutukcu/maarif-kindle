@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:20:16.945567+00:00",
+  "generated_at": "2026-09-07T17:02:37.611076+00:00",
   "date": {
     "day": 7,
     "month": 9,
@@ -11,13 +11,13 @@
     "imsak": "05:18",
     "gunes": "06:44",
     "ogle": "13:07",
-    "ikindi": "16:45",
+    "ikindi": "16:44",
     "aksam": "19:30",
     "yatsi": "20:46"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
+    "temp_f": 81,
+    "temp_c": 27,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,50 +25,50 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
+        "temp_f": 88,
         "temp_c": 31
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
+        "temp_f": 92,
         "temp_c": 33
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "rain",
+        "condition_code": 81,
         "temp_f": 85,
         "temp_c": 29
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 77,
-        "temp_c": 25
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 79,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
-    "usd_try": 48.443,
-    "gold_usd": 4393.399902,
-    "btc_usd": 79422.405
+    "usd_try": 48.433,
+    "gold_usd": 4416.100098,
+    "btc_usd": 79010.705
   },
   "history": {
     "title": "Emek Günü / Labor Day (Resmi Tatil, Okullar Başlıyor)",
