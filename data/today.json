@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T20:59:39.643216+00:00",
+  "generated_at": "2026-09-07T23:22:55.481633+00:00",
   "date": {
     "day": 7,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:46"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
+    "temp_f": 77,
+    "temp_c": 25,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,7 +25,7 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 82,
+        "temp_f": 83,
         "temp_c": 28
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.433,
-    "gold_usd": 4407.100098,
-    "btc_usd": 79208.275
+    "gold_usd": 4412.799805,
+    "btc_usd": 79050.215
   },
   "history": {
     "title": "Emek Günü / Labor Day (Resmi Tatil, Okullar Başlıyor)",
