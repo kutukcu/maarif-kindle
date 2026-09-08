@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T16:59:18.262033+00:00",
+  "generated_at": "2026-09-08T19:47:21.157869+00:00",
   "date": {
     "day": 8,
     "month": 9,
@@ -16,17 +16,17 @@
     "yatsi": "20:44"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 86,
+    "temp_c": 30,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 81,
+        "condition": "drizzle",
+        "condition_code": 55,
         "temp_f": 86,
         "temp_c": 30
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 71,
+        "temp_c": 22
       }
     ]
   },
   "finance": {
     "usd_try": 48.46,
-    "gold_usd": 4395.899902,
-    "btc_usd": 78732.015
+    "gold_usd": 4366.5,
+    "btc_usd": 78372.775
   },
   "history": {
     "title": "1966: Star Trek dizisinin ilk bölümü yayınlandı",
