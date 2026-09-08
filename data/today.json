@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-09-08T02:34:57.729291+00:00",
+  "generated_at": "2026-09-08T07:41:59.936175+00:00",
   "date": {
-    "day": 7,
+    "day": 8,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-09-07"
+    "weekday_tr": "SALI",
+    "iso": "2026-09-08"
   },
   "prayer_times": {
-    "imsak": "05:18",
-    "gunes": "06:44",
+    "imsak": "05:19",
+    "gunes": "06:45",
     "ogle": "13:07",
     "ikindi": "16:44",
-    "aksam": "19:30",
-    "yatsi": "20:46"
+    "aksam": "19:29",
+    "yatsi": "20:44"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
+    "temp_f": 59,
+    "temp_c": 15,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 88,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 91,
@@ -44,39 +37,46 @@
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 85,
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 84,
         "temp_c": 29
       },
       {
         "day_tr": "Cum",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition_code": 80,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 75,
-        "temp_c": 24
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 74,
+        "temp_c": 23
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 82,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 48.433,
-    "gold_usd": 4424.700195,
-    "btc_usd": 79170.825
+    "gold_usd": 4397.100098,
+    "btc_usd": 78500.835
   },
   "history": {
-    "title": "Emek Günü / Labor Day (Resmi Tatil, Okullar Başlıyor)",
+    "title": "1966: Star Trek dizisinin ilk bölümü yayınlandı",
     "turkish": null,
-    "us": "Emek Günü / Labor Day (Resmi Tatil, Okullar Başlıyor)"
+    "us": null
   },
   "quote": {
-    "text": "Köleliğin zincire vurduğu kişi azdır; kendini köleliğe zincirleyense daha çoktur.",
-    "author": "Seneca"
+    "text": "İlkelerde uyuşmamış olanlar birbirlerine öğüt veremezler.",
+    "author": "Konfüçyüs"
   }
 }
