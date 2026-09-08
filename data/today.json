@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:22:55.481633+00:00",
+  "generated_at": "2026-09-08T02:34:57.729291+00:00",
   "date": {
     "day": 7,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:46"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
+    "temp_f": 66,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,36 +39,36 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 93,
-        "temp_c": 34
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Per",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 90,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 80,
         "temp_f": 85,
         "temp_c": 29
       },
       {
+        "day_tr": "Cum",
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 83,
+        "temp_c": 28
+      },
+      {
         "day_tr": "Cmt",
         "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition_code": 81,
+        "temp_f": 75,
+        "temp_c": 24
       }
     ]
   },
   "finance": {
     "usd_try": 48.433,
-    "gold_usd": 4412.799805,
-    "btc_usd": 79050.215
+    "gold_usd": 4424.700195,
+    "btc_usd": 79170.825
   },
   "history": {
     "title": "Emek Günü / Labor Day (Resmi Tatil, Okullar Başlıyor)",
