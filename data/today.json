@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T07:41:59.936175+00:00",
+  "generated_at": "2026-09-08T16:59:18.262033+00:00",
   "date": {
     "day": 8,
     "month": 9,
@@ -11,13 +11,13 @@
     "imsak": "05:19",
     "gunes": "06:45",
     "ogle": "13:07",
-    "ikindi": "16:44",
+    "ikindi": "16:43",
     "aksam": "19:29",
     "yatsi": "20:44"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
+    "temp_f": 82,
+    "temp_c": 28,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,50 +25,50 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
+        "temp_f": 92,
         "temp_c": 33
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Cum",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 74,
-        "temp_c": 23
+        "condition_code": 51,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Paz",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 82,
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 83,
         "temp_c": 28
       }
     ]
   },
   "finance": {
-    "usd_try": 48.433,
-    "gold_usd": 4397.100098,
-    "btc_usd": 78500.835
+    "usd_try": 48.46,
+    "gold_usd": 4395.899902,
+    "btc_usd": 78732.015
   },
   "history": {
     "title": "1966: Star Trek dizisinin ilk bölümü yayınlandı",
