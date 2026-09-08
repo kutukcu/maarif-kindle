@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T19:47:21.157869+00:00",
+  "generated_at": "2026-09-08T22:16:52.699888+00:00",
   "date": {
     "day": 8,
     "month": 9,
@@ -16,17 +16,17 @@
     "yatsi": "20:44"
   },
   "weather": {
-    "temp_f": 86,
-    "temp_c": 30,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 85,
+    "temp_c": 29,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.46,
-    "gold_usd": 4366.5,
-    "btc_usd": 78372.775
+    "gold_usd": 4358.299805,
+    "btc_usd": 78457.745
   },
   "history": {
     "title": "1966: Star Trek dizisinin ilk bölümü yayınlandı",
