@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T18:22:11.055663+00:00",
+  "generated_at": "2026-09-09T21:27:30.180110+00:00",
   "date": {
     "day": 9,
     "month": 9,
@@ -16,29 +16,29 @@
     "yatsi": "20:42"
   },
   "weather": {
-    "temp_f": 89,
+    "temp_f": 90,
     "temp_c": 32,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "sun",
+        "condition_code": 1,
         "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "heavy_rain",
+        "condition_code": 65,
         "temp_f": 84,
         "temp_c": 29
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.478,
-    "gold_usd": 4419.899902,
-    "btc_usd": 78627.845
+    "gold_usd": 4402.799805,
+    "btc_usd": 78279.905
   },
   "history": {
     "title": "1976: Çin lideri Mao Zedung öldü",
