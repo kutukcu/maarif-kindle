@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:50:33.317175+00:00",
+  "generated_at": "2026-09-10T19:25:35.023863+00:00",
   "date": {
     "day": 10,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:40"
   },
   "weather": {
-    "temp_f": 85,
-    "temp_c": 29,
+    "temp_f": 87,
+    "temp_c": 31,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -44,31 +44,31 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "storm",
+        "condition_code": 95,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 89,
-        "temp_c": 32
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
+        "temp_f": 84,
         "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 48.495,
-    "gold_usd": 4361.0,
-    "btc_usd": 77159.375
+    "gold_usd": 4330.700195,
+    "btc_usd": 77215.97
   },
   "history": {
     "title": "2008: CERN Hadron Çarpıştırıcısı çalıştırıldı",
