@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:46:25.093583+00:00",
+  "generated_at": "2026-09-10T12:36:53.457122+00:00",
   "date": {
     "day": 10,
     "month": 9,
@@ -11,34 +11,34 @@
     "imsak": "05:21",
     "gunes": "06:46",
     "ogle": "13:06",
-    "ikindi": "16:42",
+    "ikindi": "16:41",
     "aksam": "19:26",
     "yatsi": "20:40"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 76,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 91,
-        "temp_c": 33
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition_code": 51,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "storm",
+        "condition_code": 95,
         "temp_f": 82,
         "temp_c": 28
       },
@@ -53,22 +53,22 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 85,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 48.478,
-    "gold_usd": 4410.200195,
-    "btc_usd": 78018.075
+    "gold_usd": 4342.600098,
+    "btc_usd": 77411.535
   },
   "history": {
     "title": "2008: CERN Hadron Çarpıştırıcısı çalıştırıldı",
