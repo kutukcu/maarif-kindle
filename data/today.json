@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-09-10T02:37:42.541623+00:00",
+  "generated_at": "2026-09-10T07:46:25.093583+00:00",
   "date": {
-    "day": 9,
+    "day": 10,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-09-09"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-09-10"
   },
   "prayer_times": {
-    "imsak": "05:20",
+    "imsak": "05:21",
     "gunes": "06:46",
-    "ogle": "13:07",
+    "ogle": "13:06",
     "ikindi": "16:42",
-    "aksam": "19:27",
-    "yatsi": "20:42"
+    "aksam": "19:26",
+    "yatsi": "20:40"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 90,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 51,
         "temp_f": 91,
         "temp_c": 33
       },
       {
-        "day_tr": "Cum",
+        "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 55,
         "temp_f": 82,
@@ -44,39 +37,46 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 83,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 87,
+        "temp_c": 31
       }
     ]
   },
   "finance": {
     "usd_try": 48.478,
-    "gold_usd": 4416.700195,
-    "btc_usd": 78120.085
+    "gold_usd": 4410.200195,
+    "btc_usd": 78018.075
   },
   "history": {
-    "title": "1976: Çin lideri Mao Zedung öldü",
+    "title": "2008: CERN Hadron Çarpıştırıcısı çalıştırıldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Ne söylediğini, kime söylediğini ve ne zaman söylediğini unutma.",
-    "author": "Hz. Ebu Bekir"
+    "text": "Ayağını yorganına göre uzat.",
+    "author": "Atasözü"
   }
 }
