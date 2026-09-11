@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:31:51.761854+00:00",
+  "generated_at": "2026-09-11T10:25:41.408081+00:00",
   "date": {
     "day": 11,
     "month": 9,
@@ -16,59 +16,59 @@
     "yatsi": "20:39"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
+    "temp_f": 72,
+    "temp_c": 22,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 83,
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 82,
         "temp_c": 28
       },
       {
         "day_tr": "Yarın",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 80,
-        "temp_c": 27
-      },
-      {
-        "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 86,
-        "temp_c": 30
-      },
-      {
-        "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 81,
-        "temp_c": 27
-      },
-      {
-        "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 82,
         "temp_c": 28
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Paz",
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 85,
+        "temp_c": 29
+      },
+      {
+        "day_tr": "Pzt",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 89,
-        "temp_c": 32
+        "condition_code": 55,
+        "temp_f": 78,
+        "temp_c": 26
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 79,
+        "temp_c": 26
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 83,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 48.495,
-    "gold_usd": 4338.600098,
-    "btc_usd": 77107.985
+    "gold_usd": 4349.0,
+    "btc_usd": 77051.865
   },
   "history": {
     "title": "2001: İkiz Kuleler'e terör saldırısı düzenlendi",
