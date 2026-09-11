@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T22:10:59.401397+00:00",
+  "generated_at": "2026-09-11T00:45:55.650300+00:00",
   "date": {
     "day": 10,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:40"
   },
   "weather": {
-    "temp_f": 86,
-    "temp_c": 30,
+    "temp_f": 78,
+    "temp_c": 26,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 82,
         "temp_c": 28
       },
@@ -46,13 +46,13 @@
         "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 81,
-        "temp_f": 85,
-        "temp_c": 29
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 81,
         "temp_c": 27
       },
@@ -60,15 +60,15 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 82,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 48.495,
-    "gold_usd": 4323.899902,
-    "btc_usd": 77148.555
+    "gold_usd": 4328.399902,
+    "btc_usd": 76751.225
   },
   "history": {
     "title": "2008: CERN Hadron Çarpıştırıcısı çalıştırıldı",
