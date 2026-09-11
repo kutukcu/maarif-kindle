@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-09-11T00:45:55.650300+00:00",
+  "generated_at": "2026-09-11T05:31:51.761854+00:00",
   "date": {
-    "day": 10,
+    "day": 11,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-09-10"
+    "weekday_tr": "CUMA",
+    "iso": "2026-09-11"
   },
   "prayer_times": {
-    "imsak": "05:21",
-    "gunes": "06:46",
+    "imsak": "05:22",
+    "gunes": "06:47",
     "ogle": "13:06",
     "ikindi": "16:41",
-    "aksam": "19:26",
-    "yatsi": "20:40"
+    "aksam": "19:24",
+    "yatsi": "20:39"
   },
   "weather": {
-    "temp_f": 78,
-    "temp_c": 26,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 77,
+    "temp_c": 25,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 82,
-        "temp_c": 28
-      },
-      {
-        "day_tr": "Cmt",
         "condition": "storm",
         "condition_code": 95,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Paz",
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 82,
         "temp_c": 28
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 89,
+        "temp_c": 32
       }
     ]
   },
   "finance": {
     "usd_try": 48.495,
-    "gold_usd": 4328.399902,
-    "btc_usd": 76751.225
+    "gold_usd": 4338.600098,
+    "btc_usd": 77107.985
   },
   "history": {
-    "title": "2008: CERN Hadron Çarpıştırıcısı çalıştırıldı",
+    "title": "2001: İkiz Kuleler'e terör saldırısı düzenlendi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Ayağını yorganına göre uzat.",
-    "author": "Atasözü"
+    "text": "Hiç ellerin taşı bana değmez, ille dostun gülü yaralar beni.",
+    "author": "Pir Sultan Abdal"
   }
 }
