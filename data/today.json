@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:49:39.695899+00:00",
+  "generated_at": "2026-09-12T17:37:21.155671+00:00",
   "date": {
     "day": 12,
     "month": 9,
@@ -16,15 +16,15 @@
     "yatsi": "20:37"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
+    "temp_f": 78,
+    "temp_c": 26,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "heavy_rain",
-        "condition_code": 82,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 82,
         "temp_c": 28
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.596,
     "gold_usd": 4349.700195,
-    "btc_usd": 77469.455
+    "btc_usd": 77247.435
   },
   "history": {
     "title": "1940: Fransa'da Lascaux Mağara resimleri keşfedildi",
