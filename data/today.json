@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:01:02.502530+00:00",
+  "generated_at": "2026-09-12T22:45:33.371662+00:00",
   "date": {
     "day": 12,
     "month": 9,
@@ -16,24 +16,24 @@
     "yatsi": "20:37"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 77,
+    "temp_c": 25,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 79,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 78,
         "temp_c": 26
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition_code": 51,
+        "temp_f": 88,
+        "temp_c": 31
       },
       {
         "day_tr": "Pzt",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.596,
     "gold_usd": 4349.700195,
-    "btc_usd": 77121.705
+    "btc_usd": 77183.695
   },
   "history": {
     "title": "1940: Fransa'da Lascaux Mağara resimleri keşfedildi",
