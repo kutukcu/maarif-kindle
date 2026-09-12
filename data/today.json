@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:47:33.912217+00:00",
+  "generated_at": "2026-09-12T02:40:08.748192+00:00",
   "date": {
     "day": 11,
     "month": 9,
@@ -11,13 +11,13 @@
     "imsak": "05:22",
     "gunes": "06:47",
     "ogle": "13:06",
-    "ikindi": "16:40",
+    "ikindi": "16:41",
     "aksam": "19:24",
     "yatsi": "20:39"
   },
   "weather": {
-    "temp_f": 75,
-    "temp_c": 24,
+    "temp_f": 71,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -30,24 +30,24 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 80,
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 81,
         "temp_c": 27
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 80,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 78,
+        "temp_c": 26
       },
       {
         "day_tr": "Sal",
@@ -60,15 +60,15 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 78,
-        "temp_c": 26
+        "temp_f": 83,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 48.596,
     "gold_usd": 4349.700195,
-    "btc_usd": 77194.965
+    "btc_usd": 77237.015
   },
   "history": {
     "title": "2001: İkiz Kuleler'e terör saldırısı düzenlendi",
