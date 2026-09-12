@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:53:29.926357+00:00",
+  "generated_at": "2026-09-12T14:49:39.695899+00:00",
   "date": {
     "day": 12,
     "month": 9,
@@ -11,34 +11,34 @@
     "imsak": "05:24",
     "gunes": "06:48",
     "ogle": "13:06",
-    "ikindi": "16:40",
+    "ikindi": "16:39",
     "aksam": "19:22",
     "yatsi": "20:37"
   },
   "weather": {
-    "temp_f": 69,
-    "temp_c": 21,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 76,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 82,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Yarın",
+        "condition": "heavy_rain",
+        "condition_code": 82,
         "temp_f": 84,
         "temp_c": 29
       },
       {
-        "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 83,
-        "temp_c": 28
-      },
-      {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 78,
         "temp_c": 26
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.596,
     "gold_usd": 4349.700195,
-    "btc_usd": 77329.225
+    "btc_usd": 77469.455
   },
   "history": {
     "title": "1940: Fransa'da Lascaux Mağara resimleri keşfedildi",
