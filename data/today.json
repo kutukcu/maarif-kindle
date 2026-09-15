@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T10:51:07.486818+00:00",
+  "generated_at": "2026-09-15T15:23:27.138738+00:00",
   "date": {
     "day": 15,
     "month": 9,
@@ -11,36 +11,36 @@
     "imsak": "05:27",
     "gunes": "06:51",
     "ogle": "13:05",
-    "ikindi": "16:37",
+    "ikindi": "16:36",
     "aksam": "19:18",
     "yatsi": "20:32"
   },
   "weather": {
-    "temp_f": 53,
-    "temp_c": 12,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 71,
+    "temp_c": 22,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 79,
         "temp_c": 26
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
-        "condition_code": 1,
+        "condition_code": 0,
         "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Cum",
@@ -53,22 +53,22 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 83,
+        "condition_code": 51,
+        "temp_f": 82,
         "temp_c": 28
       }
     ]
   },
   "finance": {
-    "usd_try": 48.623,
-    "gold_usd": 4278.5,
-    "btc_usd": 77114.015
+    "usd_try": 48.64,
+    "gold_usd": 4283.899902,
+    "btc_usd": 76016.915
   },
   "history": {
     "title": "1935: Nazi Almanyası Nürnberg Yasaları'nı kabul etti",
