@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:40:45.023731+00:00",
+  "generated_at": "2026-09-15T10:51:07.486818+00:00",
   "date": {
     "day": 15,
     "month": 9,
@@ -16,24 +16,24 @@
     "yatsi": "20:32"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
+    "temp_f": 53,
+    "temp_c": 12,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "sun",
+        "condition_code": 0,
         "temp_f": 79,
         "temp_c": 26
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Per",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.623,
-    "gold_usd": 4295.100098,
-    "btc_usd": 77441.715
+    "gold_usd": 4278.5,
+    "btc_usd": 77114.015
   },
   "history": {
     "title": "1935: Nazi Almanyası Nürnberg Yasaları'nı kabul etti",
