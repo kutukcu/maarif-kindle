@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T21:17:54.996505+00:00",
+  "generated_at": "2026-09-15T00:09:03.375826+00:00",
   "date": {
     "day": 14,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:33"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
+    "temp_f": 70,
+    "temp_c": 21,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,36 +39,36 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 84,
+        "temp_f": 85,
         "temp_c": 29
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 88,
-        "temp_c": 31
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 77,
+        "temp_c": 25
       }
     ]
   },
   "finance": {
     "usd_try": 48.623,
-    "gold_usd": 4300.200195,
-    "btc_usd": 78815.465
+    "gold_usd": 4288.299805,
+    "btc_usd": 78194.78
   },
   "history": {
     "title": "1901: ABD Başkanı William McKinley suikast sonucu öldü",
