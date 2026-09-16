@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:40:07.959232+00:00",
+  "generated_at": "2026-09-16T15:16:32.396628+00:00",
   "date": {
     "day": 16,
     "month": 9,
@@ -11,20 +11,20 @@
     "imsak": "05:28",
     "gunes": "06:52",
     "ogle": "13:04",
-    "ikindi": "16:36",
+    "ikindi": "16:35",
     "aksam": "19:16",
     "yatsi": "20:30"
   },
   "weather": {
-    "temp_f": 57,
-    "temp_c": 14,
+    "temp_f": 75,
+    "temp_c": 24,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 87,
         "temp_c": 31
       },
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 65,
-        "temp_f": 92,
-        "temp_c": 33
+        "temp_f": 93,
+        "temp_c": 34
       },
       {
         "day_tr": "Cum",
@@ -46,29 +46,29 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 80,
-        "temp_c": 27
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 81,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 78,
-        "temp_c": 26
+        "condition_code": 51,
+        "temp_f": 71,
+        "temp_c": 22
       }
     ]
   },
   "finance": {
-    "usd_try": 48.64,
-    "gold_usd": 4348.600098,
-    "btc_usd": 75911.215
+    "usd_try": 48.657,
+    "gold_usd": 4354.0,
+    "btc_usd": 75614.98
   },
   "history": {
     "title": "1620: Mayflower gemisi Amerika'ya yola çıktı",
