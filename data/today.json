@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:51:00.558655+00:00",
+  "generated_at": "2026-09-17T23:19:06.421000+00:00",
   "date": {
     "day": 17,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:28"
   },
   "weather": {
-    "temp_f": 80,
-    "temp_c": 27,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 76,
+    "temp_c": 24,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.675,
-    "gold_usd": 4343.200195,
-    "btc_usd": 76448.175
+    "gold_usd": 4343.299805,
+    "btc_usd": 76420.135
   },
   "history": {
     "title": "1787: ABD Anayasası, Philadelphia'da imzalandı",
