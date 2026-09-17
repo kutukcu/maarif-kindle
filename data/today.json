@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:33:48.172488+00:00",
+  "generated_at": "2026-09-17T01:01:08.387060+00:00",
   "date": {
     "day": 16,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:30"
   },
   "weather": {
-    "temp_f": 83,
-    "temp_c": 28,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Cum",
@@ -46,29 +46,29 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 81,
-        "temp_c": 27
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 70,
+        "temp_c": 21
       }
     ]
   },
   "finance": {
     "usd_try": 48.657,
-    "gold_usd": 4267.700195,
-    "btc_usd": 75656.145
+    "gold_usd": 4280.899902,
+    "btc_usd": 76182.695
   },
   "history": {
     "title": "1620: Mayflower gemisi Amerika'ya yola çıktı",
