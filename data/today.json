@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T17:28:51.483868+00:00",
+  "generated_at": "2026-09-17T20:51:00.558655+00:00",
   "date": {
     "day": 17,
     "month": 9,
@@ -16,36 +16,36 @@
     "yatsi": "20:28"
   },
   "weather": {
-    "temp_f": 88,
-    "temp_c": 31,
-    "condition": "sun",
-    "condition_code": 1,
+    "temp_f": 80,
+    "temp_c": 27,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 90,
-        "temp_c": 32
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 78,
+        "temp_f": 79,
         "temp_c": 26
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 85,
         "temp_c": 29
       },
@@ -53,22 +53,22 @@
         "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Sal",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition_code": 53,
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
     "usd_try": 48.675,
-    "gold_usd": 4362.299805,
-    "btc_usd": 76829.915
+    "gold_usd": 4343.200195,
+    "btc_usd": 76448.175
   },
   "history": {
     "title": "1787: ABD Anayasası, Philadelphia'da imzalandı",
