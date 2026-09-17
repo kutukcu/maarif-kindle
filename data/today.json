@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:01:19.813428+00:00",
+  "generated_at": "2026-09-17T12:57:05.867409+00:00",
   "date": {
     "day": 17,
     "month": 9,
@@ -11,20 +11,20 @@
     "imsak": "05:29",
     "gunes": "06:53",
     "ogle": "13:04",
-    "ikindi": "16:35",
+    "ikindi": "16:34",
     "aksam": "19:14",
     "yatsi": "20:28"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
+    "temp_f": 72,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 55,
         "temp_f": 92,
         "temp_c": 33
       },
@@ -32,43 +32,43 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 80,
-        "temp_c": 27
+        "temp_f": 83,
+        "temp_c": 28
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 76,
-        "temp_c": 24
+        "temp_f": 78,
+        "temp_c": 26
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 55,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 85,
         "temp_c": 29
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 72,
-        "temp_c": 22
+        "condition_code": 51,
+        "temp_f": 70,
+        "temp_c": 21
       },
       {
         "day_tr": "Sal",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition_code": 51,
+        "temp_f": 62,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
     "usd_try": 48.657,
-    "gold_usd": 4312.0,
-    "btc_usd": 76425.545
+    "gold_usd": 4373.299805,
+    "btc_usd": 76685.005
   },
   "history": {
     "title": "1787: ABD Anayasası, Philadelphia'da imzalandı",
