@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-09-17T01:01:08.387060+00:00",
+  "generated_at": "2026-09-17T07:01:19.813428+00:00",
   "date": {
-    "day": 16,
+    "day": 17,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-09-16"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-09-17"
   },
   "prayer_times": {
-    "imsak": "05:28",
-    "gunes": "06:52",
+    "imsak": "05:29",
+    "gunes": "06:53",
     "ogle": "13:04",
     "ikindi": "16:35",
-    "aksam": "19:16",
-    "yatsi": "20:30"
+    "aksam": "19:14",
+    "yatsi": "20:28"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
+    "temp_f": 68,
+    "temp_c": 20,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 92,
+        "temp_c": 33
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 91,
-        "temp_c": 33
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 70,
-        "temp_c": 21
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 72,
+        "temp_c": 22
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 64,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 48.657,
-    "gold_usd": 4280.899902,
-    "btc_usd": 76182.695
+    "gold_usd": 4312.0,
+    "btc_usd": 76425.545
   },
   "history": {
-    "title": "1620: Mayflower gemisi Amerika'ya yola çıktı",
+    "title": "1787: ABD Anayasası, Philadelphia'da imzalandı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Kimse, korktuğu adamı sevmez.",
-    "author": "Aristoteles"
+    "text": "Sevmeyene karınca yük, sevene filler karınca.",
+    "author": "Şems-i Tebrizi"
   }
 }
