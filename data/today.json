@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T16:52:29.366928+00:00",
+  "generated_at": "2026-09-18T19:22:38.740382+00:00",
   "date": {
     "day": 18,
     "month": 9,
@@ -16,17 +16,17 @@
     "yatsi": "20:27"
   },
   "weather": {
-    "temp_f": 84,
+    "temp_f": 85,
     "temp_c": 29,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 81,
-        "temp_c": 27
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "drizzle",
+        "condition_code": 55,
         "temp_f": 70,
         "temp_c": 21
       },
       {
         "day_tr": "Sal",
         "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition_code": 81,
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Çar",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 60,
+        "condition_code": 51,
+        "temp_f": 61,
         "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 48.785,
-    "gold_usd": 4380.100098,
-    "btc_usd": 80857.005
+    "gold_usd": 4384.0,
+    "btc_usd": 81126.98
   },
   "history": {
     "title": "1851: New York Times gazetesi ilk kez yayımlandı",
