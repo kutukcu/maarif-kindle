@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:10:16.601514+00:00",
+  "generated_at": "2026-09-19T00:52:41.252347+00:00",
   "date": {
     "day": 18,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:27"
   },
   "weather": {
-    "temp_f": 82,
-    "temp_c": 28,
+    "temp_f": 75,
+    "temp_c": 24,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Paz",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.785,
     "gold_usd": 4379.0,
-    "btc_usd": 81332.255
+    "btc_usd": 81259.285
   },
   "history": {
     "title": "1851: New York Times gazetesi ilk kez yayımlandı",
