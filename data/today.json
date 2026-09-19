@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:24:21.153967+00:00",
+  "generated_at": "2026-09-19T10:08:12.303271+00:00",
   "date": {
     "day": 19,
     "month": 9,
@@ -11,64 +11,64 @@
     "imsak": "05:31",
     "gunes": "06:54",
     "ogle": "13:03",
-    "ikindi": "16:32",
+    "ikindi": "16:33",
     "aksam": "19:11",
     "yatsi": "20:25"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 64,
+    "temp_c": 18,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
+        "temp_f": 83,
         "temp_c": 28
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 80,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 83,
         "temp_c": 28
       },
       {
         "day_tr": "Pzt",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 70,
-        "temp_c": 21
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Sal",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Çar",
         "condition": "rain",
-        "condition_code": 80,
+        "condition_code": 81,
         "temp_f": 58,
         "temp_c": 14
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 56,
-        "temp_c": 13
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 61,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 48.785,
     "gold_usd": 4379.0,
-    "btc_usd": 81037.145
+    "btc_usd": 81211.65
   },
   "history": {
     "title": "1893: Yeni Zelanda kadınlara oy hakkı tanıdı",
