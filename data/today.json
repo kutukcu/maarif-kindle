@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T17:40:40.362874+00:00",
+  "generated_at": "2026-09-19T19:54:06.525257+00:00",
   "date": {
     "day": 19,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:25"
   },
   "weather": {
-    "temp_f": 77,
-    "temp_c": 25,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 79,
+    "temp_c": 26,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.785,
     "gold_usd": 4379.0,
-    "btc_usd": 81467.875
+    "btc_usd": 81353.905
   },
   "history": {
     "title": "1893: Yeni Zelanda kadınlara oy hakkı tanıdı",
