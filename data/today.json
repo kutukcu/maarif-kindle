@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:26:34.969373+00:00",
+  "generated_at": "2026-09-20T14:24:58.176938+00:00",
   "date": {
     "day": 20,
     "month": 9,
@@ -11,64 +11,64 @@
     "imsak": "05:32",
     "gunes": "06:55",
     "ogle": "13:03",
-    "ikindi": "16:32",
+    "ikindi": "16:31",
     "aksam": "19:10",
     "yatsi": "20:23"
   },
   "weather": {
-    "temp_f": 71,
-    "temp_c": 22,
-    "condition": "sun",
-    "condition_code": 1,
+    "temp_f": 77,
+    "temp_c": 25,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 76,
-        "temp_c": 24
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Sal",
         "condition": "rain",
-        "condition_code": 61,
+        "condition_code": 63,
         "temp_f": 62,
         "temp_c": 17
       },
       {
         "day_tr": "Çar",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 57,
-        "temp_c": 14
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 57,
-        "temp_c": 14
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 61,
-        "temp_c": 16
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 48.785,
     "gold_usd": 4379.0,
-    "btc_usd": 80306.585
+    "btc_usd": 80462.345
   },
   "history": {
     "title": "1519: Macellan, dünya turu için İspanya'dan yola çıktı",
