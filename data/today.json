@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-09-20T00:33:24.260800+00:00",
+  "generated_at": "2026-09-20T05:37:08.966195+00:00",
   "date": {
-    "day": 19,
+    "day": 20,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-09-19"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-09-20"
   },
   "prayer_times": {
-    "imsak": "05:31",
-    "gunes": "06:54",
+    "imsak": "05:32",
+    "gunes": "06:55",
     "ogle": "13:03",
-    "ikindi": "16:32",
-    "aksam": "19:11",
-    "yatsi": "20:25"
+    "ikindi": "16:31",
+    "aksam": "19:10",
+    "yatsi": "20:23"
   },
   "weather": {
     "temp_f": 72,
     "temp_c": 22,
-    "condition": "sun",
-    "condition_code": 0,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 81,
-        "temp_c": 27
-      },
-      {
-        "day_tr": "Pzt",
-        "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 73,
-        "temp_c": 23
+        "temp_f": 78,
+        "temp_c": 26
       },
       {
         "day_tr": "Sal",
@@ -62,21 +55,28 @@
         "condition_code": 80,
         "temp_f": 57,
         "temp_c": 14
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
     "usd_try": 48.785,
     "gold_usd": 4379.0,
-    "btc_usd": 81289.995
+    "btc_usd": 80469.005
   },
   "history": {
-    "title": "1893: Yeni Zelanda kadınlara oy hakkı tanıdı",
+    "title": "1519: Macellan, dünya turu için İspanya'dan yola çıktı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Bana arkadaşını söyle, sana kim olduğunu söyleyeyim.",
-    "author": "Atasözü"
+    "text": "İdare etmek dürüstlük demektir.",
+    "author": "Konfüçyüs"
   }
 }
