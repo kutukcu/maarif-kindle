@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T11:43:24.862528+00:00",
+  "generated_at": "2026-09-21T21:33:51.210439+00:00",
   "date": {
     "day": 21,
     "month": 9,
@@ -18,29 +18,29 @@
   "weather": {
     "temp_f": 66,
     "temp_c": 19,
-    "condition": "sun",
-    "condition_code": 1,
+    "condition": "drizzle",
+    "condition_code": 51,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 78,
-        "temp_c": 26
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 65,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Çar",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Per",
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Cum",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 69,
-        "temp_c": 21
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Cmt",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 74,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
-    "usd_try": 48.785,
-    "gold_usd": 4363.299805,
-    "btc_usd": 84798.005
+    "usd_try": 48.799,
+    "gold_usd": 4344.799805,
+    "btc_usd": 86758.855
   },
   "history": {
     "title": "1937: J.R.R. Tolkien'in 'Hobbit' romanı yayımlandı",
