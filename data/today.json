@@ -1,59 +1,52 @@
 {
-  "generated_at": "2026-09-22T00:29:40.724820+00:00",
+  "generated_at": "2026-09-22T05:44:20.338914+00:00",
   "date": {
-    "day": 21,
+    "day": 22,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-09-21"
+    "weekday_tr": "SALI",
+    "iso": "2026-09-22"
   },
   "prayer_times": {
-    "imsak": "05:33",
-    "gunes": "06:56",
+    "imsak": "05:34",
+    "gunes": "06:57",
     "ogle": "13:02",
-    "ikindi": "16:30",
-    "aksam": "19:08",
-    "yatsi": "20:21"
+    "ikindi": "16:29",
+    "aksam": "19:06",
+    "yatsi": "20:20"
   },
   "weather": {
-    "temp_f": 64,
-    "temp_c": 18,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 63,
+    "temp_c": 17,
+    "condition": "drizzle",
+    "condition_code": 51,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 74,
-        "temp_c": 23
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 63,
+        "condition_code": 61,
         "temp_f": 64,
         "temp_c": 18
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 55,
-        "temp_f": 63,
+        "temp_f": 62,
         "temp_c": 17
       },
       {
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 71,
+        "temp_f": 72,
         "temp_c": 22
       },
       {
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 74,
         "temp_c": 23
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 78,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 48.799,
-    "gold_usd": 4359.5,
-    "btc_usd": 86391.915
+    "gold_usd": 4326.899902,
+    "btc_usd": 85399.945
   },
   "history": {
-    "title": "1937: J.R.R. Tolkien'in 'Hobbit' romanı yayımlandı",
+    "title": "1862: Lincoln köleliği kaldıran bildiriyi taslakladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Kitaplar, akıllı kişilerin bahçeleri, faziletli kişilerin çiçeklikleridir.",
-    "author": "Hz. Ebu Bekir"
+    "text": "Öğüt veren çok, yardım eden az olur.",
+    "author": "Atasözü"
   }
 }
