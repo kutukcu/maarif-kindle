@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T19:29:03.292900+00:00",
+  "generated_at": "2026-09-22T22:37:49.420588+00:00",
   "date": {
     "day": 22,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:20"
   },
   "weather": {
-    "temp_f": 60,
-    "temp_c": 16,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 59,
+    "temp_c": 15,
+    "condition": "drizzle",
+    "condition_code": 51,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -31,7 +31,7 @@
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 55,
+        "condition_code": 51,
         "temp_f": 59,
         "temp_c": 15
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.808,
-    "gold_usd": 4358.600098,
-    "btc_usd": 86606.275
+    "gold_usd": 4364.799805,
+    "btc_usd": 86212.715
   },
   "history": {
     "title": "1862: Lincoln köleliği kaldıran bildiriyi taslakladı",
