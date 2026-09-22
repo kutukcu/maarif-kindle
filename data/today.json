@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:33:51.210439+00:00",
+  "generated_at": "2026-09-22T00:29:40.724820+00:00",
   "date": {
     "day": 21,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:21"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
-    "condition": "drizzle",
-    "condition_code": 51,
+    "temp_f": 64,
+    "temp_c": 18,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition": "rain",
+        "condition_code": 63,
         "temp_f": 64,
         "temp_c": 18
       },
@@ -58,8 +58,8 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 74,
         "temp_c": 23
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.799,
-    "gold_usd": 4344.799805,
-    "btc_usd": 86758.855
+    "gold_usd": 4359.5,
+    "btc_usd": 86391.915
   },
   "history": {
     "title": "1937: J.R.R. Tolkien'in 'Hobbit' romanı yayımlandı",
