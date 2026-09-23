@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:09:11.383065+00:00",
+  "generated_at": "2026-09-23T21:57:07.458027+00:00",
   "date": {
     "day": 23,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:18"
   },
   "weather": {
-    "temp_f": 57,
-    "temp_c": 14,
+    "temp_f": 62,
+    "temp_c": 17,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 60,
+        "temp_f": 61,
         "temp_c": 16
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Cum",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.837,
-    "gold_usd": 4291.700195,
-    "btc_usd": 84300.345
+    "gold_usd": 4288.0,
+    "btc_usd": 84448.475
   },
   "history": {
     "title": "1846: Gezegen Neptün, matematiksel hesaplarla keşfedildi",
