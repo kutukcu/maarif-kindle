@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:56:19.804709+00:00",
+  "generated_at": "2026-09-24T15:41:43.011238+00:00",
   "date": {
     "day": 24,
     "month": 9,
@@ -11,22 +11,22 @@
     "imsak": "05:36",
     "gunes": "06:59",
     "ogle": "13:01",
-    "ikindi": "16:27",
+    "ikindi": "16:26",
     "aksam": "19:03",
     "yatsi": "20:16"
   },
   "weather": {
-    "temp_f": 51,
-    "temp_c": 11,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 59,
+    "temp_c": 15,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Yarın",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 76,
-        "temp_c": 24
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 70,
+        "temp_c": 21
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 78,
-        "temp_c": 26
+        "temp_f": 75,
+        "temp_c": 24
       }
     ]
   },
   "finance": {
-    "usd_try": 48.837,
-    "gold_usd": 4257.700195,
-    "btc_usd": 83446.855
+    "usd_try": 48.855,
+    "gold_usd": 4253.700195,
+    "btc_usd": 84306.67
   },
   "history": {
     "title": "1789: ABD Yüksek Mahkemesi, Adalet Yasası ile kuruldu",
