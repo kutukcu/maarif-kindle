@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:57:07.458027+00:00",
+  "generated_at": "2026-09-24T00:14:59.833294+00:00",
   "date": {
     "day": 23,
     "month": 9,
@@ -16,17 +16,17 @@
     "yatsi": "20:18"
   },
   "weather": {
-    "temp_f": 62,
-    "temp_c": 17,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 60,
+    "temp_c": 16,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 61,
-        "temp_c": 16
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
@@ -44,17 +44,17 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 75,
-        "temp_c": 24
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Pzt",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.837,
-    "gold_usd": 4288.0,
-    "btc_usd": 84448.475
+    "gold_usd": 4290.5,
+    "btc_usd": 84348.165
   },
   "history": {
     "title": "1846: Gezegen Neptün, matematiksel hesaplarla keşfedildi",
