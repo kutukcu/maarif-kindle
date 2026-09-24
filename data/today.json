@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T19:42:53.484849+00:00",
+  "generated_at": "2026-09-24T22:55:26.263592+00:00",
   "date": {
     "day": 24,
     "month": 9,
@@ -16,23 +16,23 @@
     "yatsi": "20:16"
   },
   "weather": {
-    "temp_f": 63,
-    "temp_c": 17,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 60,
+    "temp_c": 16,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 69,
+        "temp_f": 70,
         "temp_c": 21
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 48.855,
-    "gold_usd": 4275.100098,
-    "btc_usd": 84425.945
+    "gold_usd": 4273.200195,
+    "btc_usd": 84235.535
   },
   "history": {
     "title": "1789: ABD Yüksek Mahkemesi, Adalet Yasası ile kuruldu",
