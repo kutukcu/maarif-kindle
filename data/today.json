@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:59:19.675881+00:00",
+  "generated_at": "2026-09-25T12:39:56.040036+00:00",
   "date": {
     "day": 25,
     "month": 9,
@@ -11,64 +11,64 @@
     "imsak": "05:37",
     "gunes": "07:00",
     "ogle": "13:01",
-    "ikindi": "16:26",
+    "ikindi": "16:25",
     "aksam": "19:01",
     "yatsi": "20:15"
   },
   "weather": {
-    "temp_f": 52,
-    "temp_c": 11,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 53,
+    "temp_c": 12,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 69,
+        "temp_f": 70,
         "temp_c": 21
       },
       {
         "day_tr": "Yarın",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 71,
-        "temp_c": 22
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 63,
+        "condition_code": 55,
+        "temp_f": 62,
         "temp_c": 17
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition_code": 53,
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Sal",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 76,
-        "temp_c": 24
+        "temp_f": 77,
+        "temp_c": 25
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 80,
-        "temp_c": 27
+        "temp_f": 83,
+        "temp_c": 28
       }
     ]
   },
   "finance": {
     "usd_try": 48.855,
-    "gold_usd": 4279.0,
-    "btc_usd": 84026.645
+    "gold_usd": 4302.0,
+    "btc_usd": 84485.375
   },
   "history": {
     "title": "1978: PSA Uçuşu 182, San Diego'da çarpışarak düştü",
