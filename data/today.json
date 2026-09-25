@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:43:00.414115+00:00",
+  "generated_at": "2026-09-25T20:59:06.564965+00:00",
   "date": {
     "day": 25,
     "month": 9,
@@ -11,64 +11,64 @@
     "imsak": "05:37",
     "gunes": "07:00",
     "ogle": "13:01",
-    "ikindi": "16:25",
+    "ikindi": "16:26",
     "aksam": "19:01",
     "yatsi": "20:15"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 72,
+    "temp_c": 22,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition_code": 53,
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 69,
         "temp_c": 21
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 77,
-        "temp_c": 25
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
-        "temp_c": 28
+        "temp_f": 85,
+        "temp_c": 29
       }
     ]
   },
   "finance": {
     "usd_try": 48.933,
-    "gold_usd": 4288.200195,
-    "btc_usd": 83811.935
+    "gold_usd": 4287.100098,
+    "btc_usd": 83865.875
   },
   "history": {
     "title": "1978: PSA Uçuşu 182, San Diego'da çarpışarak düştü",
