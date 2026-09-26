@@ -1,51 +1,44 @@
 {
-  "generated_at": "2026-09-26T03:02:07.682456+00:00",
+  "generated_at": "2026-09-26T08:59:04.082931+00:00",
   "date": {
-    "day": 25,
+    "day": 26,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "CUMA",
-    "iso": "2026-09-25"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-09-26"
   },
   "prayer_times": {
-    "imsak": "05:37",
-    "gunes": "07:00",
+    "imsak": "05:38",
+    "gunes": "07:01",
     "ogle": "13:01",
-    "ikindi": "16:26",
-    "aksam": "19:01",
-    "yatsi": "20:15"
+    "ikindi": "16:25",
+    "aksam": "19:00",
+    "yatsi": "20:13"
   },
   "weather": {
-    "temp_f": 60,
-    "temp_c": 16,
+    "temp_f": 58,
+    "temp_c": 14,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 72,
-        "temp_c": 22
-      },
-      {
-        "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 55,
+        "condition_code": 51,
         "temp_f": 68,
         "temp_c": 20
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 55,
         "temp_f": 68,
         "temp_c": 20
       },
@@ -53,14 +46,21 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 75,
+        "temp_c": 24
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
+        "temp_f": 82,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Per",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 82,
         "temp_c": 28
       }
     ]
@@ -68,15 +68,15 @@
   "finance": {
     "usd_try": 48.933,
     "gold_usd": 4286.200195,
-    "btc_usd": 83980.405
+    "btc_usd": 84194.915
   },
   "history": {
-    "title": "1978: PSA Uçuşu 182, San Diego'da çarpışarak düştü",
+    "title": "1960: Kennedy-Nixon ilk TV münazarasını yaptı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Kitaplar, akıllı kişilerin bahçeleri, faziletli kişilerin çiçeklikleridir.",
+    "text": "Doğruluk emanet, yalancılık hıyanettir.",
     "author": "Hz. Ebu Bekir"
   }
 }
