@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:53:43.383996+00:00",
+  "generated_at": "2026-09-26T03:02:07.682456+00:00",
   "date": {
     "day": 25,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:15"
   },
   "weather": {
-    "temp_f": 62,
-    "temp_c": 17,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 60,
+    "temp_c": 16,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,17 +30,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "rain",
+        "condition_code": 63,
         "temp_f": 72,
         "temp_c": 22
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition_code": 55,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Pzt",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.933,
     "gold_usd": 4286.200195,
-    "btc_usd": 84073.465
+    "btc_usd": 83980.405
   },
   "history": {
     "title": "1978: PSA Uçuşu 182, San Diego'da çarpışarak düştü",
