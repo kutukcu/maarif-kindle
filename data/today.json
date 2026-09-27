@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:56:30.768429+00:00",
+  "generated_at": "2026-09-27T18:53:22.205670+00:00",
   "date": {
     "day": 27,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:11"
   },
   "weather": {
-    "temp_f": 65,
-    "temp_c": 18,
+    "temp_f": 62,
+    "temp_c": 17,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -25,8 +25,8 @@
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
@@ -39,7 +39,7 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 75,
+        "temp_f": 76,
         "temp_c": 24
       },
       {
@@ -59,16 +59,16 @@
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition_code": 53,
+        "temp_f": 89,
+        "temp_c": 32
       }
     ]
   },
   "finance": {
     "usd_try": 48.933,
     "gold_usd": 4286.200195,
-    "btc_usd": 84617.635
+    "btc_usd": 84727.115
   },
   "history": {
     "title": "1825: İlk demiryolu hattı İngiltere'de açıldı",
