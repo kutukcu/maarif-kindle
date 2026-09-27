@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:53:22.205670+00:00",
+  "generated_at": "2026-09-27T21:48:17.849052+00:00",
   "date": {
     "day": 27,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:11"
   },
   "weather": {
-    "temp_f": 62,
-    "temp_c": 17,
+    "temp_f": 61,
+    "temp_c": 16,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -37,8 +37,8 @@
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 76,
         "temp_c": 24
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.933,
     "gold_usd": 4286.200195,
-    "btc_usd": 84727.115
+    "btc_usd": 84640.885
   },
   "history": {
     "title": "1825: İlk demiryolu hattı İngiltere'de açıldı",
