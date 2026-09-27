@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T23:19:30.785989+00:00",
+  "generated_at": "2026-09-27T03:07:39.424327+00:00",
   "date": {
     "day": 26,
     "month": 9,
@@ -31,21 +31,21 @@
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 72,
-        "temp_c": 22
-      },
-      {
-        "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 67,
+        "condition_code": 51,
+        "temp_f": 66,
         "temp_c": 19
       },
       {
-        "day_tr": "Sal",
+        "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 51,
+        "temp_f": 70,
+        "temp_c": 21
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 74,
         "temp_c": 23
       },
@@ -53,14 +53,14 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 80,
+        "temp_f": 81,
         "temp_c": 27
       },
       {
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
+        "temp_f": 88,
         "temp_c": 31
       }
     ]
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 48.933,
     "gold_usd": 4286.200195,
-    "btc_usd": 84354.335
+    "btc_usd": 84498.285
   },
   "history": {
     "title": "1960: Kennedy-Nixon ilk TV münazarasını yaptı",
