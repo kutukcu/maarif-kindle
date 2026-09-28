@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:14:17.094280+00:00",
+  "generated_at": "2026-09-28T14:51:22.532853+00:00",
   "date": {
     "day": 28,
     "month": 9,
@@ -11,29 +11,29 @@
     "imsak": "05:39",
     "gunes": "07:03",
     "ogle": "13:00",
-    "ikindi": "16:23",
+    "ikindi": "16:22",
     "aksam": "18:57",
     "yatsi": "20:10"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 64,
+    "temp_c": 18,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 70,
+        "temp_f": 69,
         "temp_c": 21
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 75,
-        "temp_c": 24
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Çar",
@@ -46,29 +46,29 @@
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
+        "temp_f": 88,
         "temp_c": 31
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 89,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 73,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
-    "usd_try": 48.933,
-    "gold_usd": 4180.700195,
-    "btc_usd": 83242.895
+    "usd_try": 48.982,
+    "gold_usd": 4116.399902,
+    "btc_usd": 82999.005
   },
   "history": {
     "title": "MÖ 551: Konfüçyüs'ün doğduğu tahmin edilen yıl",
