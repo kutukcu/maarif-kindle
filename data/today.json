@@ -1,52 +1,45 @@
 {
-  "generated_at": "2026-09-28T00:14:35.380684+00:00",
+  "generated_at": "2026-09-28T06:14:17.094280+00:00",
   "date": {
-    "day": 27,
+    "day": 28,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-09-27"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-09-28"
   },
   "prayer_times": {
-    "imsak": "05:38",
-    "gunes": "07:02",
+    "imsak": "05:39",
+    "gunes": "07:03",
     "ogle": "13:00",
     "ikindi": "16:23",
-    "aksam": "18:58",
-    "yatsi": "20:11"
+    "aksam": "18:57",
+    "yatsi": "20:10"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 59,
+    "temp_c": 15,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 65,
-        "temp_c": 18
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 70,
         "temp_c": 21
       },
       {
-        "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 76,
+        "day_tr": "Yarın",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 75,
         "temp_c": 24
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 82,
+        "temp_f": 83,
         "temp_c": 28
       },
       {
@@ -58,25 +51,32 @@
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 88,
-        "temp_c": 31
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 89,
+        "temp_c": 32
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 64,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 48.933,
-    "gold_usd": 4257.100098,
-    "btc_usd": 84399.345
+    "gold_usd": 4180.700195,
+    "btc_usd": 83242.895
   },
   "history": {
-    "title": "1825: İlk demiryolu hattı İngiltere'de açıldı",
+    "title": "MÖ 551: Konfüçyüs'ün doğduğu tahmin edilen yıl",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Ben, manevi miras olarak hiçbir ayet, hiçbir dogma, hiçbir donmuş kural bırakmıyorum. Benim manevi mirasım, bilim ve akıldır.",
-    "author": "Mustafa Kemal Atatürk"
+    "text": "Mutlu bir yaşam için çok az şey gerekir. Hepsi de içinizde, düşünme şeklinizde gizlidir.",
+    "author": "Marcus Aurelius"
   }
 }
