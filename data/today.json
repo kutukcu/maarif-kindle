@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:51:22.532853+00:00",
+  "generated_at": "2026-09-28T21:00:15.457672+00:00",
   "date": {
     "day": 28,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:10"
   },
   "weather": {
-    "temp_f": 64,
-    "temp_c": 18,
+    "temp_f": 68,
+    "temp_c": 20,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -32,14 +32,14 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 70,
+        "temp_c": 21
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 83,
+        "temp_f": 82,
         "temp_c": 28
       },
       {
@@ -53,22 +53,22 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 90,
-        "temp_c": 32
+        "temp_f": 91,
+        "temp_c": 33
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 73,
-        "temp_c": 23
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 77,
+        "temp_c": 25
       }
     ]
   },
   "finance": {
     "usd_try": 48.982,
-    "gold_usd": 4116.399902,
-    "btc_usd": 82999.005
+    "gold_usd": 4116.299805,
+    "btc_usd": 83501.485
   },
   "history": {
     "title": "MÖ 551: Konfüçyüs'ün doğduğu tahmin edilen yıl",
