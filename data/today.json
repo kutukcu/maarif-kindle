@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:44:00.667910+00:00",
+  "generated_at": "2026-09-29T23:21:08.045578+00:00",
   "date": {
     "day": 29,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:08"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 67,
+    "temp_c": 19,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -32,7 +32,7 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 81,
+        "temp_f": 80,
         "temp_c": 27
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.0,
-    "gold_usd": 4172.700195,
-    "btc_usd": 83464.275
+    "gold_usd": 4183.700195,
+    "btc_usd": 83740.535
   },
   "history": {
     "title": "1954: CERN, Avrupa Nükleer Araştırma Merkezi kuruldu",
