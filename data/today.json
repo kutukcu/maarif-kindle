@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T07:46:06.515050+00:00",
+  "generated_at": "2026-09-29T14:31:24.446655+00:00",
   "date": {
     "day": 29,
     "month": 9,
@@ -11,28 +11,28 @@
     "imsak": "05:40",
     "gunes": "07:04",
     "ogle": "13:00",
-    "ikindi": "16:22",
+    "ikindi": "16:21",
     "aksam": "18:55",
     "yatsi": "20:08"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
+    "temp_f": 68,
+    "temp_c": 20,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 80,
+        "temp_f": 81,
         "temp_c": 27
       },
       {
@@ -44,31 +44,31 @@
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 74,
-        "temp_c": 23
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 63,
+        "condition_code": 61,
+        "temp_f": 62,
         "temp_c": 17
       }
     ]
   },
   "finance": {
-    "usd_try": 48.982,
-    "gold_usd": 4143.299805,
-    "btc_usd": 84007.815
+    "usd_try": 49.0,
+    "gold_usd": 4175.0,
+    "btc_usd": 83957.995
   },
   "history": {
     "title": "1954: CERN, Avrupa Nükleer Araştırma Merkezi kuruldu",
