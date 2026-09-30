@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:12:12.301737+00:00",
+  "generated_at": "2026-09-30T16:37:06.446274+00:00",
   "date": {
     "day": 30,
     "month": 9,
@@ -16,8 +16,8 @@
     "yatsi": "20:07"
   },
   "weather": {
-    "temp_f": 57,
-    "temp_c": 14,
+    "temp_f": 76,
+    "temp_c": 24,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,20 +25,20 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 90,
         "temp_c": 32
       },
@@ -46,29 +46,29 @@
         "day_tr": "Cmt",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 69,
-        "temp_c": 21
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 75,
-        "temp_c": 24
+        "temp_f": 73,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
-    "usd_try": 49.0,
-    "gold_usd": 4188.100098,
-    "btc_usd": 83714.655
+    "usd_try": 49.018,
+    "gold_usd": 4158.399902,
+    "btc_usd": 84167.885
   },
   "history": {
     "title": "1938: Münih Antlaşması Çekoslovakya'yı parçaladı",
