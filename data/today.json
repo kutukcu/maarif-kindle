@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-09-30T03:32:01.195479+00:00",
+  "generated_at": "2026-09-30T10:12:12.301737+00:00",
   "date": {
-    "day": 29,
+    "day": 30,
     "month": 9,
     "month_tr": "EYLÜL",
-    "weekday_tr": "SALI",
-    "iso": "2026-09-29"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-09-30"
   },
   "prayer_times": {
-    "imsak": "05:40",
+    "imsak": "05:41",
     "gunes": "07:04",
-    "ogle": "13:00",
-    "ikindi": "16:21",
-    "aksam": "18:55",
-    "yatsi": "20:08"
+    "ogle": "12:59",
+    "ikindi": "16:20",
+    "aksam": "18:54",
+    "yatsi": "20:07"
   },
   "weather": {
-    "temp_f": 63,
-    "temp_c": 17,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 57,
+    "temp_c": 14,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 79,
         "temp_c": 26
       },
       {
-        "day_tr": "Per",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 91,
-        "temp_c": 33
+        "condition_code": 53,
+        "temp_f": 90,
+        "temp_c": 32
       },
       {
         "day_tr": "Cmt",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 68,
+        "temp_c": 20
+      },
+      {
+        "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 69,
         "temp_c": 21
       },
       {
-        "day_tr": "Paz",
+        "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 75,
+        "temp_c": 24
       }
     ]
   },
   "finance": {
     "usd_try": 49.0,
-    "gold_usd": 4181.100098,
-    "btc_usd": 83231.725
+    "gold_usd": 4188.100098,
+    "btc_usd": 83714.655
   },
   "history": {
-    "title": "1954: CERN, Avrupa Nükleer Araştırma Merkezi kuruldu",
+    "title": "1938: Münih Antlaşması Çekoslovakya'yı parçaladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Akıllı insan düşündüğü her şeyi söylemez, fakat söyleyeceği her şeyi düşünerek söyler.",
+    "text": "Hayatı bir şölen sofrası gibi bırakmalı, ne susuz ne de sarhoş olarak.",
     "author": "Aristoteles"
   }
 }
