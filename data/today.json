@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-10-01T01:00:23.105966+00:00",
+  "generated_at": "2026-10-01T08:08:59.041970+00:00",
   "date": {
-    "day": 30,
-    "month": 9,
-    "month_tr": "EYLÜL",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-09-30"
+    "day": 1,
+    "month": 10,
+    "month_tr": "EKİM",
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-10-01"
   },
   "prayer_times": {
-    "imsak": "05:41",
-    "gunes": "07:04",
+    "imsak": "05:42",
+    "gunes": "07:05",
     "ogle": "12:59",
-    "ikindi": "16:20",
-    "aksam": "18:54",
-    "yatsi": "20:07"
+    "ikindi": "16:19",
+    "aksam": "18:52",
+    "yatsi": "20:05"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 61,
+    "temp_c": 16,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 87,
-        "temp_c": 31
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
         "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 60,
-        "temp_c": 16
+        "condition_code": 63,
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 72,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 71,
         "temp_c": 22
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 61,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 49.018,
-    "gold_usd": 4146.5,
-    "btc_usd": 83454.455
+    "gold_usd": 4166.200195,
+    "btc_usd": 83330.005
   },
   "history": {
-    "title": "1938: Münih Antlaşması Çekoslovakya'yı parçaladı",
+    "title": "1949: Mao, Çin Halk Cumhuriyeti'ni ilan etti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Hayatı bir şölen sofrası gibi bırakmalı, ne susuz ne de sarhoş olarak.",
+    "text": "Mizahın sırrı şaşırtmasıdır.",
     "author": "Aristoteles"
   }
 }
