@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:08:59.041970+00:00",
+  "generated_at": "2026-10-01T15:54:10.070255+00:00",
   "date": {
     "day": 1,
     "month": 10,
@@ -16,38 +16,38 @@
     "yatsi": "20:05"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 75,
+    "temp_c": 24,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 85,
+        "temp_f": 84,
         "temp_c": 29
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 89,
+        "temp_f": 90,
         "temp_c": 32
       },
       {
         "day_tr": "Cmt",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition_code": 51,
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition_code": 61,
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Pzt",
@@ -60,15 +60,15 @@
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 61,
-        "temp_c": 16
+        "temp_f": 63,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
-    "usd_try": 49.018,
-    "gold_usd": 4166.200195,
-    "btc_usd": 83330.005
+    "usd_try": 49.034,
+    "gold_usd": 4163.899902,
+    "btc_usd": 84085.41
   },
   "history": {
     "title": "1949: Mao, Çin Halk Cumhuriyeti'ni ilan etti",
