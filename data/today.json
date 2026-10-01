@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:09:41.556911+00:00",
+  "generated_at": "2026-10-01T01:00:23.105966+00:00",
   "date": {
     "day": 30,
     "month": 9,
@@ -16,10 +16,10 @@
     "yatsi": "20:07"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 68,
+    "temp_c": 20,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -39,36 +39,36 @@
         "day_tr": "Cum",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 90,
+        "temp_f": 89,
         "temp_c": 32
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition_code": 81,
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 72,
+        "temp_c": 22
       }
     ]
   },
   "finance": {
     "usd_try": 49.018,
-    "gold_usd": 4158.100098,
-    "btc_usd": 83698.245
+    "gold_usd": 4146.5,
+    "btc_usd": 83454.455
   },
   "history": {
     "title": "1938: Münih Antlaşması Çekoslovakya'yı parçaladı",
