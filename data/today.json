@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T20:43:54.853621+00:00",
+  "generated_at": "2026-10-02T00:25:34.922701+00:00",
   "date": {
     "day": 1,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "20:05"
   },
   "weather": {
-    "temp_f": 85,
-    "temp_c": 29,
+    "temp_f": 74,
+    "temp_c": 23,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -44,17 +44,17 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 61,
-        "temp_c": 16
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Sal",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.034,
-    "gold_usd": 4175.5,
-    "btc_usd": 84584.585
+    "gold_usd": 4167.799805,
+    "btc_usd": 84842.085
   },
   "history": {
     "title": "1949: Mao, Çin Halk Cumhuriyeti'ni ilan etti",
