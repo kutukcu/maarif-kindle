@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-02T00:25:34.922701+00:00",
+  "generated_at": "2026-10-02T06:33:39.699785+00:00",
   "date": {
-    "day": 1,
+    "day": 2,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-10-01"
+    "weekday_tr": "CUMA",
+    "iso": "2026-10-02"
   },
   "prayer_times": {
-    "imsak": "05:42",
-    "gunes": "07:05",
+    "imsak": "05:43",
+    "gunes": "07:06",
     "ogle": "12:59",
-    "ikindi": "16:19",
-    "aksam": "18:52",
-    "yatsi": "20:05"
+    "ikindi": "16:18",
+    "aksam": "18:50",
+    "yatsi": "20:03"
   },
   "weather": {
-    "temp_f": 74,
-    "temp_c": 23,
+    "temp_f": 66,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,58 +25,58 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 86,
-        "temp_c": 30
+        "temp_f": 89,
+        "temp_c": 32
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 89,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Paz",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 76,
-        "temp_c": 24
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
     "usd_try": 49.034,
-    "gold_usd": 4167.799805,
-    "btc_usd": 84842.085
+    "gold_usd": 4188.0,
+    "btc_usd": 86048.115
   },
   "history": {
-    "title": "1949: Mao, Çin Halk Cumhuriyeti'ni ilan etti",
+    "title": "1869: Mahatma Gandhi doğdu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Mizahın sırrı şaşırtmasıdır.",
-    "author": "Aristoteles"
+    "text": "Vazgeçmeye hazır olanlar dışında kimse hayatın gerçek tadını alamaz.",
+    "author": "Seneca"
   }
 }
