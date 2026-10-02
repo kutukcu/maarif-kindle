@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:53:03.238077+00:00",
+  "generated_at": "2026-10-02T22:45:12.037477+00:00",
   "date": {
     "day": 2,
     "month": 10,
@@ -16,29 +16,29 @@
     "yatsi": "20:03"
   },
   "weather": {
-    "temp_f": 88,
-    "temp_c": 31,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 81,
+    "temp_c": 27,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 88,
+        "temp_f": 87,
         "temp_c": 31
       },
       {
         "day_tr": "Yarın",
         "condition": "rain",
         "condition_code": 61,
-        "temp_f": 70,
+        "temp_f": 69,
         "temp_c": 21
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 80,
+        "condition_code": 61,
         "temp_f": 64,
         "temp_c": 18
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.145,
-    "gold_usd": 4144.5,
-    "btc_usd": 84186.55
+    "gold_usd": 4141.799805,
+    "btc_usd": 84490.885
   },
   "history": {
     "title": "1869: Mahatma Gandhi doğdu",
