@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T13:27:27.246524+00:00",
+  "generated_at": "2026-10-02T18:53:03.238077+00:00",
   "date": {
     "day": 2,
     "month": 10,
@@ -11,64 +11,64 @@
     "imsak": "05:43",
     "gunes": "07:06",
     "ogle": "12:59",
-    "ikindi": "16:17",
+    "ikindi": "16:18",
     "aksam": "18:50",
     "yatsi": "20:03"
   },
   "weather": {
-    "temp_f": 70,
-    "temp_c": 21,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 88,
+    "temp_c": 31,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 88,
         "temp_c": 31
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 74,
-        "temp_c": 23
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 70,
+        "temp_c": 21
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition_code": 80,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 67,
-        "temp_c": 19
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
-    "usd_try": 49.034,
-    "gold_usd": 4190.700195,
-    "btc_usd": 86613.795
+    "usd_try": 49.145,
+    "gold_usd": 4144.5,
+    "btc_usd": 84186.55
   },
   "history": {
     "title": "1869: Mahatma Gandhi doğdu",
