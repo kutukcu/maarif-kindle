@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T19:43:07.606438+00:00",
+  "generated_at": "2026-10-03T22:36:14.613351+00:00",
   "date": {
     "day": 3,
     "month": 10,
@@ -16,10 +16,10 @@
     "yatsi": "20:02"
   },
   "weather": {
-    "temp_f": 64,
-    "temp_c": 18,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 63,
+    "temp_c": 17,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -37,8 +37,8 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "fog",
+        "condition_code": 45,
         "temp_f": 71,
         "temp_c": 22
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.145,
     "gold_usd": 4141.799805,
-    "btc_usd": 84794.095
+    "btc_usd": 84779.395
   },
   "history": {
     "title": "1990: Doğu ve Batı Almanya resmen birleşti",
