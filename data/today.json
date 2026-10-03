@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:56:45.675996+00:00",
+  "generated_at": "2026-10-03T19:43:07.606438+00:00",
   "date": {
     "day": 3,
     "month": 10,
@@ -11,27 +11,27 @@
     "imsak": "05:44",
     "gunes": "07:07",
     "ogle": "12:58",
-    "ikindi": "16:16",
+    "ikindi": "16:17",
     "aksam": "18:49",
     "yatsi": "20:02"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
+    "temp_f": 64,
+    "temp_c": 18,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
-        "condition_code": 63,
+        "condition_code": 61,
         "temp_f": 69,
         "temp_c": 21
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 63,
         "temp_c": 17
       },
@@ -39,8 +39,8 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Sal",
@@ -53,14 +53,14 @@
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 73,
-        "temp_c": 23
+        "temp_f": 75,
+        "temp_c": 24
       },
       {
         "day_tr": "Per",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 81,
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 80,
         "temp_c": 27
       }
     ]
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.145,
     "gold_usd": 4141.799805,
-    "btc_usd": 84887.155
+    "btc_usd": 84794.095
   },
   "history": {
     "title": "1990: Doğu ve Batı Almanya resmen birleşti",
