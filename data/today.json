@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-04T02:19:34.810387+00:00",
+  "generated_at": "2026-10-04T09:14:43.324681+00:00",
   "date": {
-    "day": 3,
+    "day": 4,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-10-03"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-10-04"
   },
   "prayer_times": {
-    "imsak": "05:44",
-    "gunes": "07:07",
+    "imsak": "05:45",
+    "gunes": "07:08",
     "ogle": "12:58",
-    "ikindi": "16:17",
-    "aksam": "18:49",
-    "yatsi": "20:02"
+    "ikindi": "16:16",
+    "aksam": "18:47",
+    "yatsi": "20:00"
   },
   "weather": {
     "temp_f": 61,
@@ -23,20 +23,13 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 69,
-        "temp_c": 21
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 63,
-        "temp_c": 17
-      },
-      {
-        "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 69,
@@ -58,25 +51,32 @@
       },
       {
         "day_tr": "Per",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 81,
-        "temp_c": 27
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 83,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 73,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
     "usd_try": 49.145,
     "gold_usd": 4141.799805,
-    "btc_usd": 84823.575
+    "btc_usd": 85123.995
   },
   "history": {
-    "title": "1990: Doğu ve Batı Almanya resmen birleşti",
+    "title": "1957: SSCB, ilk uydu Sputnik'i fırlattı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Umut, uyanık adamın rüyasıdır.",
-    "author": "Aristoteles"
+    "text": "Sana bir şeyi nasıl bilebileceğini öğreteyim mi? Bildiğini bil, bilmediğini de bil.",
+    "author": "Konfüçyüs"
   }
 }
