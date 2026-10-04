@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:05:23.904765+00:00",
+  "generated_at": "2026-10-04T18:56:26.525399+00:00",
   "date": {
     "day": 4,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "20:00"
   },
   "weather": {
-    "temp_f": 60,
-    "temp_c": 16,
+    "temp_f": 63,
+    "temp_c": 17,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "fog",
+        "condition_code": 45,
         "temp_f": 68,
         "temp_c": 20
       },
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.145,
     "gold_usd": 4141.799805,
-    "btc_usd": 85314.005
+    "btc_usd": 85344.885
   },
   "history": {
     "title": "1957: SSCB, ilk uydu Sputnik'i fırlattı",
