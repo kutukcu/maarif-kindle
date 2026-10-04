@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:14:43.324681+00:00",
+  "generated_at": "2026-10-04T15:05:23.904765+00:00",
   "date": {
     "day": 4,
     "month": 10,
@@ -11,12 +11,12 @@
     "imsak": "05:45",
     "gunes": "07:08",
     "ogle": "12:58",
-    "ikindi": "16:16",
+    "ikindi": "16:15",
     "aksam": "18:47",
     "yatsi": "20:00"
   },
   "weather": {
-    "temp_f": 61,
+    "temp_f": 60,
     "temp_c": 16,
     "condition": "cloud",
     "condition_code": 3,
@@ -24,16 +24,16 @@
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition_code": 53,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 69,
-        "temp_c": 21
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Sal",
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Per",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 83,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 85,
+        "temp_c": 29
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
+        "temp_f": 72,
+        "temp_c": 22
       }
     ]
   },
   "finance": {
     "usd_try": 49.145,
     "gold_usd": 4141.799805,
-    "btc_usd": 85123.995
+    "btc_usd": 85314.005
   },
   "history": {
     "title": "1957: SSCB, ilk uydu Sputnik'i fırlattı",
