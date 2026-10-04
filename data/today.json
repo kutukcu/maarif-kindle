@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T22:36:14.613351+00:00",
+  "generated_at": "2026-10-04T02:19:34.810387+00:00",
   "date": {
     "day": 3,
     "month": 10,
@@ -16,10 +16,10 @@
     "yatsi": "20:02"
   },
   "weather": {
-    "temp_f": 63,
-    "temp_c": 17,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 61,
+    "temp_c": 16,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -37,30 +37,30 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 71,
-        "temp_c": 22
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 75,
+        "temp_f": 76,
         "temp_c": 24
       },
       {
         "day_tr": "Per",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 80,
+        "temp_f": 81,
         "temp_c": 27
       }
     ]
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.145,
     "gold_usd": 4141.799805,
-    "btc_usd": 84779.395
+    "btc_usd": 84823.575
   },
   "history": {
     "title": "1990: Doğu ve Batı Almanya resmen birleşti",
