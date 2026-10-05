@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T17:42:46.474552+00:00",
+  "generated_at": "2026-10-05T23:35:33.499123+00:00",
   "date": {
     "day": 5,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:59"
   },
   "weather": {
-    "temp_f": 69,
-    "temp_c": 21,
+    "temp_f": 63,
+    "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,50 +25,50 @@
         "day_tr": "Bugün",
         "condition": "fog",
         "condition_code": 45,
-        "temp_f": 71,
-        "temp_c": 22
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 75,
-        "temp_c": 24
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Per",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
+        "temp_f": 71,
         "temp_c": 22
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 70,
+        "temp_c": 21
       }
     ]
   },
   "finance": {
     "usd_try": 49.157,
-    "gold_usd": 4132.5,
-    "btc_usd": 85331.165
+    "gold_usd": 4140.899902,
+    "btc_usd": 85870.195
   },
   "history": {
     "title": "1962: The Beatles ilk single'ı 'Love Me Do'yu yayımladı",
