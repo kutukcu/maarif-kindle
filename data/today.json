@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T22:11:46.713297+00:00",
+  "generated_at": "2026-10-05T01:29:12.491667+00:00",
   "date": {
     "day": 4,
     "month": 10,
@@ -30,23 +30,23 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 69,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 70,
         "temp_c": 21
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 76,
+        "temp_f": 75,
         "temp_c": 24
       },
       {
@@ -60,15 +60,15 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 74,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
     "usd_try": 49.145,
-    "gold_usd": 4144.100098,
-    "btc_usd": 86253.045
+    "gold_usd": 4156.100098,
+    "btc_usd": 86991.155
   },
   "history": {
     "title": "1957: SSCB, ilk uydu Sputnik'i fırlattı",
