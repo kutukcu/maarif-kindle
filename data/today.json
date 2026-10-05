@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-10-05T01:29:12.491667+00:00",
+  "generated_at": "2026-10-05T08:06:20.521593+00:00",
   "date": {
-    "day": 4,
+    "day": 5,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-10-04"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-10-05"
   },
   "prayer_times": {
-    "imsak": "05:45",
-    "gunes": "07:08",
+    "imsak": "05:46",
+    "gunes": "07:09",
     "ogle": "12:58",
-    "ikindi": "16:16",
-    "aksam": "18:47",
-    "yatsi": "20:00"
+    "ikindi": "16:15",
+    "aksam": "18:46",
+    "yatsi": "19:59"
   },
   "weather": {
-    "temp_f": 62,
-    "temp_c": 17,
+    "temp_f": 58,
+    "temp_c": 14,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
-      },
-      {
-        "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 75,
+        "temp_f": 76,
         "temp_c": 24
       },
       {
         "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 85,
-        "temp_c": 29
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Cum",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 73,
+        "temp_c": 23
+      },
+      {
+        "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 75,
+        "temp_c": 24
       }
     ]
   },
   "finance": {
     "usd_try": 49.145,
-    "gold_usd": 4156.100098,
-    "btc_usd": 86991.155
+    "gold_usd": 4165.700195,
+    "btc_usd": 86358.535
   },
   "history": {
-    "title": "1957: SSCB, ilk uydu Sputnik'i fırlattı",
+    "title": "1962: The Beatles ilk single'ı 'Love Me Do'yu yayımladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Sana bir şeyi nasıl bilebileceğini öğreteyim mi? Bildiğini bil, bilmediğini de bil.",
-    "author": "Konfüçyüs"
+    "text": "Hafif acılar konuşabilir, ama derin acılar dilsizdir.",
+    "author": "Seneca"
   }
 }
