@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:45:44.560732+00:00",
+  "generated_at": "2026-10-06T22:09:05.233260+00:00",
   "date": {
     "day": 6,
     "month": 10,
@@ -16,7 +16,7 @@
     "yatsi": "19:57"
   },
   "weather": {
-    "temp_f": 62,
+    "temp_f": 63,
     "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 64,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Per",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.179,
-    "gold_usd": 4166.200195,
-    "btc_usd": 85611.415
+    "gold_usd": 4167.399902,
+    "btc_usd": 85622.845
   },
   "history": {
     "title": "1927: İlk sesli film 'Jazz Singer' çıktı",
