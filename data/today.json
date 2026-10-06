@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-10-05T23:35:33.499123+00:00",
+  "generated_at": "2026-10-06T04:21:22.537132+00:00",
   "date": {
-    "day": 5,
+    "day": 6,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-10-05"
+    "weekday_tr": "SALI",
+    "iso": "2026-10-06"
   },
   "prayer_times": {
-    "imsak": "05:46",
-    "gunes": "07:09",
-    "ogle": "12:58",
+    "imsak": "05:47",
+    "gunes": "07:10",
+    "ogle": "12:57",
     "ikindi": "16:14",
-    "aksam": "18:46",
-    "yatsi": "19:59"
+    "aksam": "18:44",
+    "yatsi": "19:57"
   },
   "weather": {
-    "temp_f": 63,
-    "temp_c": 17,
+    "temp_f": 54,
+    "temp_c": 12,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 73,
-        "temp_c": 23
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 64,
         "temp_c": 18
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 74,
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 70,
         "temp_c": 21
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 63,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
     "usd_try": 49.157,
-    "gold_usd": 4140.899902,
-    "btc_usd": 85870.195
+    "gold_usd": 4128.600098,
+    "btc_usd": 85597.125
   },
   "history": {
-    "title": "1962: The Beatles ilk single'ı 'Love Me Do'yu yayımladı",
+    "title": "1927: İlk sesli film 'Jazz Singer' çıktı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Hafif acılar konuşabilir, ama derin acılar dilsizdir.",
-    "author": "Seneca"
+    "text": "Yüz kişinin içinde aşık, gökte yıldızlar arasındaki ay gibi belli olur.",
+    "author": "Mevlânâ"
   }
 }
