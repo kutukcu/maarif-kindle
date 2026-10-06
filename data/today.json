@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:21:22.537132+00:00",
+  "generated_at": "2026-10-06T11:40:59.862885+00:00",
   "date": {
     "day": 6,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:57"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
+    "temp_f": 45,
+    "temp_c": 7,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,36 +39,36 @@
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 84,
-        "temp_c": 29
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 71,
-        "temp_c": 22
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
-        "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 73,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
     "usd_try": 49.157,
-    "gold_usd": 4128.600098,
-    "btc_usd": 85597.125
+    "gold_usd": 4171.399902,
+    "btc_usd": 86329.89
   },
   "history": {
     "title": "1927: İlk sesli film 'Jazz Singer' çıktı",
