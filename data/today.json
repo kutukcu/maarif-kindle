@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-07T01:58:08.233253+00:00",
+  "generated_at": "2026-10-07T08:16:41.281922+00:00",
   "date": {
-    "day": 6,
+    "day": 7,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "SALI",
-    "iso": "2026-10-06"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-10-07"
   },
   "prayer_times": {
-    "imsak": "05:47",
-    "gunes": "07:10",
+    "imsak": "05:48",
+    "gunes": "07:11",
     "ogle": "12:57",
     "ikindi": "16:13",
-    "aksam": "18:44",
-    "yatsi": "19:57"
+    "aksam": "18:43",
+    "yatsi": "19:56"
   },
   "weather": {
-    "temp_f": 51,
-    "temp_c": 11,
+    "temp_f": 42,
+    "temp_c": 6,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,36 +25,29 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 70,
+        "temp_c": 21
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 73,
-        "temp_c": 23
-      },
-      {
-        "day_tr": "Per",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 79,
-        "temp_c": 26
+        "temp_f": 76,
+        "temp_c": 24
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 77,
-        "temp_c": 25
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Paz",
@@ -62,21 +55,28 @@
         "condition_code": 80,
         "temp_f": 64,
         "temp_c": 18
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 79,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 49.179,
-    "gold_usd": 4148.799805,
-    "btc_usd": 84790.275
+    "gold_usd": 4132.299805,
+    "btc_usd": 84010.13
   },
   "history": {
-    "title": "1927: İlk sesli film 'Jazz Singer' çıktı",
+    "title": "1985: Filistinli militanlar Achille Lauro'yu ele geçirdi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Yüz kişinin içinde aşık, gökte yıldızlar arasındaki ay gibi belli olur.",
-    "author": "Mevlânâ"
+    "text": "Doğru söyleyeni dokuz köyden kovarlar.",
+    "author": "Atasözü"
   }
 }
