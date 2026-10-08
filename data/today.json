@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:02:05.059277+00:00",
+  "generated_at": "2026-10-08T21:43:14.823054+00:00",
   "date": {
     "day": 8,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:54"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
+    "temp_f": 76,
+    "temp_c": 24,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,27 +25,27 @@
         "day_tr": "Bugün",
         "condition": "cloud_sun",
         "condition_code": 2,
-        "temp_f": 77,
-        "temp_c": 25
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 75,
+        "temp_c": 24
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 63,
+        "condition_code": 81,
         "temp_f": 64,
         "temp_c": 18
       },
@@ -53,22 +53,22 @@
         "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 53,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 84,
-        "temp_c": 29
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 79,
+        "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 49.215,
-    "gold_usd": 4112.200195,
-    "btc_usd": 80913.005
+    "gold_usd": 4134.5,
+    "btc_usd": 81637.565
   },
   "history": {
     "title": "1871: Chicago'yu kül eden büyük yangın başladı",
