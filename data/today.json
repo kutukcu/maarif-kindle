@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:59:47.913348+00:00",
+  "generated_at": "2026-10-08T01:29:34.219750+00:00",
   "date": {
     "day": 7,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:56"
   },
   "weather": {
-    "temp_f": 64,
-    "temp_c": 18,
+    "temp_f": 60,
+    "temp_c": 16,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,15 +39,15 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 71,
-        "temp_c": 22
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
@@ -58,17 +58,17 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 76,
-        "temp_c": 24
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 71,
+        "temp_c": 22
       }
     ]
   },
   "finance": {
     "usd_try": 49.192,
-    "gold_usd": 4107.600098,
-    "btc_usd": 83409.145
+    "gold_usd": 4128.700195,
+    "btc_usd": 83221.025
   },
   "history": {
     "title": "1985: Filistinli militanlar Achille Lauro'yu ele geçirdi",
