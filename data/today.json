@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:43:14.823054+00:00",
+  "generated_at": "2026-10-09T01:38:33.634976+00:00",
   "date": {
     "day": 8,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:54"
   },
   "weather": {
-    "temp_f": 76,
-    "temp_c": 24,
+    "temp_f": 62,
+    "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,36 +39,36 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 81,
+        "condition_code": 61,
         "temp_f": 64,
         "temp_c": 18
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 64,
+        "condition_code": 51,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 79,
+        "temp_f": 78,
         "temp_c": 26
       }
     ]
   },
   "finance": {
     "usd_try": 49.215,
-    "gold_usd": 4134.5,
-    "btc_usd": 81637.565
+    "gold_usd": 4171.200195,
+    "btc_usd": 81725.315
   },
   "history": {
     "title": "1871: Chicago'yu kül eden büyük yangın başladı",
