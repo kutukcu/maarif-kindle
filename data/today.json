@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-09T01:38:33.634976+00:00",
+  "generated_at": "2026-10-09T08:19:03.304539+00:00",
   "date": {
-    "day": 8,
+    "day": 9,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-10-08"
+    "weekday_tr": "CUMA",
+    "iso": "2026-10-09"
   },
   "prayer_times": {
-    "imsak": "05:49",
-    "gunes": "07:12",
+    "imsak": "05:50",
+    "gunes": "07:13",
     "ogle": "12:57",
-    "ikindi": "16:11",
-    "aksam": "18:41",
-    "yatsi": "19:54"
+    "ikindi": "16:10",
+    "aksam": "18:40",
+    "yatsi": "19:53"
   },
   "weather": {
-    "temp_f": 62,
-    "temp_c": 17,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 51,
+    "temp_c": 11,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Yarın",
@@ -36,47 +36,47 @@
         "temp_c": 24
       },
       {
-        "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
-      },
-      {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition_code": 63,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Sal",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 82,
+        "temp_c": 28
+      },
+      {
+        "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 78,
-        "temp_c": 26
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
     "usd_try": 49.215,
-    "gold_usd": 4171.200195,
-    "btc_usd": 81725.315
+    "gold_usd": 4199.100098,
+    "btc_usd": 82608.785
   },
   "history": {
-    "title": "1871: Chicago'yu kül eden büyük yangın başladı",
+    "title": "1967: Devrimci lider Che Guevara Bolivya'da öldürüldü",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Altın ateşle sınanır, güçlü insanlar zorluklarla.",
+    "text": "Kendisiyle dost olan, herkesle dost olur.",
     "author": "Seneca"
   }
 }
