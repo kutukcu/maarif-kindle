@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:19:03.304539+00:00",
+  "generated_at": "2026-10-09T15:44:14.205585+00:00",
   "date": {
     "day": 9,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:53"
   },
   "weather": {
-    "temp_f": 51,
-    "temp_c": 11,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -25,50 +25,50 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "temp_f": 75,
+        "temp_c": 24
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 75,
-        "temp_c": 24
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 63,
+        "condition_code": 61,
+        "temp_f": 62,
         "temp_c": 17
       },
       {
         "day_tr": "Pzt",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Sal",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 82,
-        "temp_c": 28
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 70,
+        "temp_c": 21
       }
     ]
   },
   "finance": {
-    "usd_try": 49.215,
-    "gold_usd": 4199.100098,
-    "btc_usd": 82608.785
+    "usd_try": 49.173,
+    "gold_usd": 4192.0,
+    "btc_usd": 82904.395
   },
   "history": {
     "title": "1967: Devrimci lider Che Guevara Bolivya'da öldürüldü",
