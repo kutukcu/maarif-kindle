@@ -1,51 +1,44 @@
 {
-  "generated_at": "2026-10-10T00:25:57.304736+00:00",
+  "generated_at": "2026-10-10T06:36:11.288381+00:00",
   "date": {
-    "day": 9,
+    "day": 10,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-10-09"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-10-10"
   },
   "prayer_times": {
-    "imsak": "05:50",
-    "gunes": "07:13",
-    "ogle": "12:57",
-    "ikindi": "16:10",
-    "aksam": "18:40",
-    "yatsi": "19:53"
+    "imsak": "05:51",
+    "gunes": "07:14",
+    "ogle": "12:56",
+    "ikindi": "16:09",
+    "aksam": "18:38",
+    "yatsi": "19:51"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 52,
+    "temp_c": 11,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 74,
-        "temp_c": 23
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
-      },
-      {
-        "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 80,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "rain",
+        "condition_code": 81,
         "temp_f": 68,
         "temp_c": 20
       },
@@ -53,30 +46,37 @@
         "day_tr": "Sal",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 82,
-        "temp_c": 28
+        "temp_f": 81,
+        "temp_c": 27
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 70,
+        "temp_c": 21
+      },
+      {
+        "day_tr": "Per",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 64,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.173,
     "gold_usd": 4195.600098,
-    "btc_usd": 82500.005
+    "btc_usd": 82718.715
   },
   "history": {
-    "title": "1967: Devrimci lider Che Guevara Bolivya'da öldürüldü",
+    "title": "1911: Çin'de Xinhai Devrimi başladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Kendisiyle dost olan, herkesle dost olur.",
-    "author": "Seneca"
+    "text": "Mümin kardeşine tebessüm etmen sadakadır.",
+    "author": "Hz. Muhammed (s.a.v.)"
   }
 }
