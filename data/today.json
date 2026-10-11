@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:15:38.539224+00:00",
+  "generated_at": "2026-10-11T19:51:08.180345+00:00",
   "date": {
     "day": 11,
     "month": 10,
@@ -11,22 +11,22 @@
     "imsak": "05:52",
     "gunes": "07:15",
     "ogle": "12:56",
-    "ikindi": "16:07",
+    "ikindi": "16:08",
     "aksam": "18:37",
     "yatsi": "19:50"
   },
   "weather": {
-    "temp_f": 62,
+    "temp_f": 63,
     "temp_c": 17,
-    "condition": "rain",
-    "condition_code": 61,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
@@ -39,7 +39,7 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 80,
+        "temp_f": 81,
         "temp_c": 27
       },
       {
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 61,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 71,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition_code": 51,
+        "temp_f": 77,
+        "temp_c": 25
       }
     ]
   },
   "finance": {
     "usd_try": 49.173,
     "gold_usd": 4195.600098,
-    "btc_usd": 83045.525
+    "btc_usd": 83643.235
   },
   "history": {
     "title": "1962: II. Vatikan Konsili başladı",
