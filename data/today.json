@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-10-12T03:48:58.656687+00:00",
+  "generated_at": "2026-10-12T11:33:56.411908+00:00",
   "date": {
-    "day": 11,
+    "day": 12,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-10-11"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-10-12"
   },
   "prayer_times": {
-    "imsak": "05:52",
-    "gunes": "07:15",
+    "imsak": "05:53",
+    "gunes": "07:16",
     "ogle": "12:56",
-    "ikindi": "16:08",
-    "aksam": "18:37",
-    "yatsi": "19:50"
+    "ikindi": "16:07",
+    "aksam": "18:35",
+    "yatsi": "19:48"
   },
   "weather": {
-    "temp_f": 60,
-    "temp_c": 16,
+    "temp_f": 59,
+    "temp_c": 15,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
-        "condition_code": 63,
-        "temp_f": 63,
-        "temp_c": 17
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "rain",
         "condition_code": 61,
         "temp_f": 72,
         "temp_c": 22
       },
       {
-        "day_tr": "Sal",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 77,
-        "temp_c": 25
+        "temp_f": 78,
+        "temp_c": 26
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 86,
         "temp_c": 30
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 73,
-        "temp_c": 23
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 80,
-        "temp_c": 27
+        "condition_code": 55,
+        "temp_f": 78,
+        "temp_c": 26
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 52,
+        "temp_c": 11
       }
     ]
   },
   "finance": {
     "usd_try": 49.173,
-    "gold_usd": 4208.899902,
-    "btc_usd": 83531.215
+    "gold_usd": 4173.399902,
+    "btc_usd": 83314.775
   },
   "history": {
-    "title": "1962: II. Vatikan Konsili başladı",
+    "title": "Columbus Günü (Resmi Tatil)",
     "turkish": null,
-    "us": null
+    "us": "Columbus Günü (Resmi Tatil)"
   },
   "quote": {
-    "text": "Sanatsız kalan bir milletin hayat damarlarından biri kopmuş demektir.",
-    "author": "Mustafa Kemal Atatürk"
+    "text": "Haramı terk etmek, helali talep etmekten hayırlıdır.",
+    "author": "Hz. Ebu Bekir"
   }
 }
