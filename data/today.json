@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:58:33.287812+00:00",
+  "generated_at": "2026-10-13T17:25:30.614720+00:00",
   "date": {
     "day": 13,
     "month": 10,
@@ -11,22 +11,22 @@
     "imsak": "05:54",
     "gunes": "07:17",
     "ogle": "12:56",
-    "ikindi": "16:06",
+    "ikindi": "16:05",
     "aksam": "18:34",
     "yatsi": "19:47"
   },
   "weather": {
-    "temp_f": 55,
-    "temp_c": 13,
+    "temp_f": 77,
+    "temp_c": 25,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 77,
-        "temp_c": 25
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 79,
+        "temp_c": 26
       },
       {
         "day_tr": "Yarın",
@@ -37,38 +37,38 @@
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 70,
-        "temp_c": 21
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Cum",
-        "condition": "rain",
-        "condition_code": 81,
+        "condition": "drizzle",
+        "condition_code": 51,
         "temp_f": 84,
         "temp_c": 29
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 54,
-        "temp_c": 12
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 55,
+        "temp_c": 13
       },
       {
         "day_tr": "Paz",
         "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition_code": 1,
+        "temp_f": 61,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
-    "usd_try": 49.337,
-    "gold_usd": 4187.0,
-    "btc_usd": 83485.775
+    "usd_try": 49.367,
+    "gold_usd": 4157.100098,
+    "btc_usd": 83154.535
   },
   "history": {
     "title": "1307: Fransa Templier şövalyelerini tutukladı",
