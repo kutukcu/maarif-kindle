@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T17:25:30.614720+00:00",
+  "generated_at": "2026-10-13T22:10:41.368196+00:00",
   "date": {
     "day": 13,
     "month": 10,
@@ -23,29 +23,29 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 84,
+        "temp_c": 29
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 84,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 85,
         "temp_c": 29
       },
       {
         "day_tr": "Per",
         "condition": "rain",
         "condition_code": 61,
-        "temp_f": 71,
+        "temp_f": 72,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 84,
         "temp_c": 29
       },
@@ -53,22 +53,22 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 55,
+        "temp_f": 56,
         "temp_c": 13
       },
       {
         "day_tr": "Paz",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 61,
-        "temp_c": 16
+        "condition_code": 0,
+        "temp_f": 62,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
     "usd_try": 49.367,
-    "gold_usd": 4157.100098,
-    "btc_usd": 83154.535
+    "gold_usd": 4162.899902,
+    "btc_usd": 83349.965
   },
   "history": {
     "title": "1307: Fransa Templier şövalyelerini tutukladı",
