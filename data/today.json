@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:44:47.350330+00:00",
+  "generated_at": "2026-10-13T02:21:17.603253+00:00",
   "date": {
     "day": 12,
     "month": 10,
@@ -16,43 +16,43 @@
     "yatsi": "19:48"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
+    "temp_f": 62,
+    "temp_c": 17,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
         "condition_code": 61,
-        "temp_f": 73,
+        "temp_f": 74,
         "temp_c": 23
       },
       {
         "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 78,
         "temp_c": 26
       },
       {
         "day_tr": "Çar",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition_code": 53,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 72,
+        "condition_code": 51,
+        "temp_f": 71,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 53,
+        "condition_code": 51,
         "temp_f": 84,
         "temp_c": 29
       },
@@ -60,15 +60,15 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 52,
-        "temp_c": 11
+        "temp_f": 54,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 49.337,
-    "gold_usd": 4170.899902,
-    "btc_usd": 83014.505
+    "gold_usd": 4170.200195,
+    "btc_usd": 82671.015
   },
   "history": {
     "title": "Columbus Günü (Resmi Tatil)",
