@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:45:58.021640+00:00",
+  "generated_at": "2026-10-14T17:43:57.293572+00:00",
   "date": {
     "day": 14,
     "month": 10,
@@ -16,24 +16,24 @@
     "yatsi": "19:45"
   },
   "weather": {
-    "temp_f": 69,
-    "temp_c": 21,
+    "temp_f": 86,
+    "temp_c": 30,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 86,
-        "temp_c": 30
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 87,
+        "temp_c": 31
       },
       {
         "day_tr": "Yarın",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Cum",
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 49.367,
-    "gold_usd": 4093.899902,
-    "btc_usd": 82692.945
+    "usd_try": 49.39,
+    "gold_usd": 4086.600098,
+    "btc_usd": 81721.49
   },
   "history": {
     "title": "1066: Hastings'te Fatih William İngiltere'yi aldı",
