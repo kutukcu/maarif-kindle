@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:59:21.212925+00:00",
+  "generated_at": "2026-10-14T12:45:58.021640+00:00",
   "date": {
     "day": 14,
     "month": 10,
@@ -11,35 +11,35 @@
     "imsak": "05:55",
     "gunes": "07:18",
     "ogle": "12:55",
-    "ikindi": "16:05",
+    "ikindi": "16:04",
     "aksam": "18:32",
     "yatsi": "19:45"
   },
   "weather": {
-    "temp_f": 67,
-    "temp_c": 19,
+    "temp_f": 69,
+    "temp_c": 21,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 87,
-        "temp_c": 31
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 86,
+        "temp_c": 30
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "rain",
+        "condition_code": 63,
         "temp_f": 72,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
-        "condition": "storm",
-        "condition_code": 95,
-        "temp_f": 82,
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 83,
         "temp_c": 28
       },
       {
@@ -58,17 +58,17 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 67,
+        "temp_c": 19
       }
     ]
   },
   "finance": {
     "usd_try": 49.367,
-    "gold_usd": 4148.399902,
-    "btc_usd": 83367.155
+    "gold_usd": 4093.899902,
+    "btc_usd": 82692.945
   },
   "history": {
     "title": "1066: Hastings'te Fatih William İngiltere'yi aldı",
