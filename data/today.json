@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T05:28:18.205586+00:00",
+  "generated_at": "2026-10-15T10:42:23.536788+00:00",
   "date": {
     "day": 15,
     "month": 10,
@@ -16,10 +16,10 @@
     "yatsi": "19:44"
   },
   "weather": {
-    "temp_f": 73,
-    "temp_c": 23,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 66,
+    "temp_c": 19,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,8 +30,8 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 65,
+        "condition": "rain",
+        "condition_code": 63,
         "temp_f": 80,
         "temp_c": 27
       },
@@ -39,36 +39,36 @@
         "day_tr": "Cmt",
         "condition": "rain",
         "condition_code": 80,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Paz",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 60,
-        "temp_c": 16
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 66,
+        "temp_c": 19
       }
     ]
   },
   "finance": {
     "usd_try": 49.39,
-    "gold_usd": 4141.899902,
-    "btc_usd": 81041.225
+    "gold_usd": 4154.600098,
+    "btc_usd": 80891.615
   },
   "history": {
     "title": "1997: Cassini uzay aracı, Satürn'e doğru fırlatıldı",
