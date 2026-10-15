@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-10-15T00:14:51.353608+00:00",
+  "generated_at": "2026-10-15T05:28:18.205586+00:00",
   "date": {
-    "day": 14,
+    "day": 15,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-10-14"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-10-15"
   },
   "prayer_times": {
-    "imsak": "05:55",
-    "gunes": "07:18",
+    "imsak": "05:56",
+    "gunes": "07:19",
     "ogle": "12:55",
     "ikindi": "16:04",
-    "aksam": "18:32",
-    "yatsi": "19:45"
+    "aksam": "18:31",
+    "yatsi": "19:44"
   },
   "weather": {
-    "temp_f": 79,
-    "temp_c": 26,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 73,
+    "temp_c": 23,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 89,
-        "temp_c": 32
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 75,
+        "condition_code": 51,
+        "temp_f": 76,
         "temp_c": 24
       },
       {
-        "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 83,
-        "temp_c": 28
+        "day_tr": "Yarın",
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 80,
+        "temp_c": 27
       },
       {
         "day_tr": "Cmt",
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 66,
         "temp_c": 19
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
     "usd_try": 49.39,
-    "gold_usd": 4127.600098,
-    "btc_usd": 81707.435
+    "gold_usd": 4141.899902,
+    "btc_usd": 81041.225
   },
   "history": {
-    "title": "1066: Hastings'te Fatih William İngiltere'yi aldı",
+    "title": "1997: Cassini uzay aracı, Satürn'e doğru fırlatıldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Doğrunun ne olduğunu görüp de yapmamak, cesaret eksikliğidir.",
-    "author": "Konfüçyüs"
+    "text": "Eğitim görmüş aklın işareti, bir düşünceyi kabul etmeden önce ona açık olmaktır.",
+    "author": "Aristoteles"
   }
 }
