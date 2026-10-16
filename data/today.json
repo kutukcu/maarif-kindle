@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-16T00:56:58.070777+00:00",
+  "generated_at": "2026-10-16T05:28:09.406415+00:00",
   "date": {
-    "day": 15,
+    "day": 16,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-10-15"
+    "weekday_tr": "CUMA",
+    "iso": "2026-10-16"
   },
   "prayer_times": {
-    "imsak": "05:56",
-    "gunes": "07:19",
+    "imsak": "05:57",
+    "gunes": "07:20",
     "ogle": "12:55",
-    "ikindi": "16:03",
-    "aksam": "18:31",
-    "yatsi": "19:44"
+    "ikindi": "16:02",
+    "aksam": "18:29",
+    "yatsi": "19:43"
   },
   "weather": {
     "temp_f": 61,
@@ -23,60 +23,60 @@
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 76,
-        "temp_c": 24
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 82,
-        "temp_c": 28
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 58,
-        "temp_c": 14
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Paz",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 58,
-        "temp_c": 14
+        "temp_f": 56,
+        "temp_c": 13
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 61,
+        "temp_f": 60,
         "temp_c": 16
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 66,
+        "temp_c": 19
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.417,
-    "gold_usd": 4158.100098,
-    "btc_usd": 82214.545
+    "gold_usd": 4175.200195,
+    "btc_usd": 82106.215
   },
   "history": {
-    "title": "1997: Cassini uzay aracı, Satürn'e doğru fırlatıldı",
+    "title": "1793: Kraliçe Marie Antoinette idam edildi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Eğitim görmüş aklın işareti, bir düşünceyi kabul etmeden önce ona açık olmaktır.",
-    "author": "Aristoteles"
+    "text": "Cahil insan kendinin bile düşmanı iken, başkasına dost olması nasıl beklenir?",
+    "author": "Sokrates"
   }
 }
