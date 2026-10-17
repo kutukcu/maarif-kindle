@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T21:20:22.544558+00:00",
+  "generated_at": "2026-10-17T23:41:59.984117+00:00",
   "date": {
     "day": 17,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:41"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
+    "temp_f": 49,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -39,36 +39,36 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 63,
+        "temp_f": 62,
         "temp_c": 17
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Per",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.527,
     "gold_usd": 4166.100098,
-    "btc_usd": 81520.665
+    "btc_usd": 81209.535
   },
   "history": {
     "title": "1989: San Francisco'da Loma Prieta depremi meydana geldi",
