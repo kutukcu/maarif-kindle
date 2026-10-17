@@ -1,45 +1,38 @@
 {
-  "generated_at": "2026-10-17T00:58:08.786594+00:00",
+  "generated_at": "2026-10-17T05:21:32.701888+00:00",
   "date": {
-    "day": 16,
+    "day": 17,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-10-16"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-10-17"
   },
   "prayer_times": {
-    "imsak": "05:57",
-    "gunes": "07:20",
+    "imsak": "05:58",
+    "gunes": "07:21",
     "ogle": "12:55",
-    "ikindi": "16:02",
-    "aksam": "18:29",
-    "yatsi": "19:43"
+    "ikindi": "16:01",
+    "aksam": "18:28",
+    "yatsi": "19:41"
   },
   "weather": {
-    "temp_f": 63,
-    "temp_c": 17,
+    "temp_f": 58,
+    "temp_c": 14,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 82,
-        "temp_c": 28
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "rain",
-        "condition_code": 61,
+        "condition": "drizzle",
+        "condition_code": 53,
         "temp_f": 60,
         "temp_c": 16
       },
       {
-        "day_tr": "Paz",
+        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 58,
+        "temp_f": 57,
         "temp_c": 14
       },
       {
@@ -62,21 +55,28 @@
         "condition_code": 0,
         "temp_f": 64,
         "temp_c": 18
+      },
+      {
+        "day_tr": "Per",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 60,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 49.527,
     "gold_usd": 4166.100098,
-    "btc_usd": 81439.135
+    "btc_usd": 81498.475
   },
   "history": {
-    "title": "1793: Kraliçe Marie Antoinette idam edildi",
+    "title": "1989: San Francisco'da Loma Prieta depremi meydana geldi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Cahil insan kendinin bile düşmanı iken, başkasına dost olması nasıl beklenir?",
-    "author": "Sokrates"
+    "text": "Fakir insan bazı şeylerden mahrumdur; cimri ise her şeyden mahrumdur.",
+    "author": "Seneca"
   }
 }
