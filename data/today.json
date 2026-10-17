@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T10:00:00.665640+00:00",
+  "generated_at": "2026-10-17T13:34:33.394380+00:00",
   "date": {
     "day": 17,
     "month": 10,
@@ -11,20 +11,20 @@
     "imsak": "05:58",
     "gunes": "07:21",
     "ogle": "12:55",
-    "ikindi": "16:02",
+    "ikindi": "16:01",
     "aksam": "18:28",
     "yatsi": "19:41"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
+    "temp_f": 52,
+    "temp_c": 11,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 60,
         "temp_c": 16
       },
@@ -39,15 +39,15 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Çar",
@@ -60,15 +60,15 @@
         "day_tr": "Per",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 66,
+        "temp_c": 19
       }
     ]
   },
   "finance": {
     "usd_try": 49.527,
     "gold_usd": 4166.100098,
-    "btc_usd": 81461.975
+    "btc_usd": 81412.965
   },
   "history": {
     "title": "1989: San Francisco'da Loma Prieta depremi meydana geldi",
