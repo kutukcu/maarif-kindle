@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:12:09.207166+00:00",
+  "generated_at": "2026-10-17T00:58:08.786594+00:00",
   "date": {
     "day": 16,
     "month": 10,
@@ -16,17 +16,17 @@
     "yatsi": "19:43"
   },
   "weather": {
-    "temp_f": 78,
-    "temp_c": 26,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 63,
+    "temp_c": 17,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 79,
-        "temp_c": 26
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 82,
+        "temp_c": 28
       },
       {
         "day_tr": "Yarın",
@@ -46,29 +46,29 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 66,
+        "temp_f": 67,
         "temp_c": 19
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.527,
-    "gold_usd": 4163.299805,
-    "btc_usd": 81203.665
+    "gold_usd": 4166.100098,
+    "btc_usd": 81439.135
   },
   "history": {
     "title": "1793: Kraliçe Marie Antoinette idam edildi",
