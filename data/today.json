@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-10-18T02:36:08.764068+00:00",
+  "generated_at": "2026-10-18T07:40:54.361930+00:00",
   "date": {
-    "day": 17,
+    "day": 18,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-10-17"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-10-18"
   },
   "prayer_times": {
-    "imsak": "05:58",
-    "gunes": "07:21",
+    "imsak": "05:59",
+    "gunes": "07:22",
     "ogle": "12:55",
-    "ikindi": "16:01",
-    "aksam": "18:28",
-    "yatsi": "19:41"
+    "ikindi": "16:00",
+    "aksam": "18:26",
+    "yatsi": "19:40"
   },
   "weather": {
-    "temp_f": 46,
-    "temp_c": 8,
+    "temp_f": 41,
+    "temp_c": 5,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 60,
-        "temp_c": 16
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 59,
         "temp_c": 15
       },
       {
-        "day_tr": "Pzt",
+        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 64,
@@ -46,8 +39,8 @@
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Çar",
@@ -59,8 +52,15 @@
       {
         "day_tr": "Per",
         "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 65,
+        "condition_code": 1,
+        "temp_f": 66,
+        "temp_c": 19
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 64,
         "temp_c": 18
       }
     ]
@@ -68,15 +68,15 @@
   "finance": {
     "usd_try": 49.527,
     "gold_usd": 4166.100098,
-    "btc_usd": 81654.655
+    "btc_usd": 81589.115
   },
   "history": {
-    "title": "1989: San Francisco'da Loma Prieta depremi meydana geldi",
+    "title": "1867: ABD, Alaska'yı Rusya'dan resmen devraldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Fakir insan bazı şeylerden mahrumdur; cimri ise her şeyden mahrumdur.",
-    "author": "Seneca"
+    "text": "Hayatta en hakiki mürşit ilimdir.",
+    "author": "Mustafa Kemal Atatürk"
   }
 }
