@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:10:45.163853+00:00",
+  "generated_at": "2026-10-18T22:09:39.112063+00:00",
   "date": {
     "day": 18,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:40"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
+    "temp_f": 58,
+    "temp_c": 14,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Sal",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.527,
-    "gold_usd": 4166.100098,
-    "btc_usd": 81088.885
+    "gold_usd": 4171.5,
+    "btc_usd": 81483.965
   },
   "history": {
     "title": "1867: ABD, Alaska'yı Rusya'dan resmen devraldı",
