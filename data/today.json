@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T06:59:55.930825+00:00",
+  "generated_at": "2026-10-20T12:38:45.111376+00:00",
   "date": {
     "day": 20,
     "month": 10,
@@ -11,13 +11,13 @@
     "imsak": "06:00",
     "gunes": "07:24",
     "ogle": "12:54",
-    "ikindi": "15:58",
+    "ikindi": "15:57",
     "aksam": "18:24",
     "yatsi": "19:37"
   },
   "weather": {
-    "temp_f": 48,
-    "temp_c": 9,
+    "temp_f": 47,
+    "temp_c": 8,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,21 +25,21 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Per",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 67,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 66,
         "temp_c": 19
       },
       {
@@ -58,8 +58,8 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud_sun",
+        "condition_code": 2,
         "temp_f": 65,
         "temp_c": 18
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.553,
-    "gold_usd": 4135.799805,
-    "btc_usd": 81707.395
+    "gold_usd": 4118.200195,
+    "btc_usd": 81403.325
   },
   "history": {
     "title": "1973: Sidney Opera Binası resmen açıldı",
