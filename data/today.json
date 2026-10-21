@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T11:00:00.161217+00:00",
+  "generated_at": "2026-10-21T15:54:45.463251+00:00",
   "date": {
     "day": 21,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:36"
   },
   "weather": {
-    "temp_f": 46,
-    "temp_c": 8,
+    "temp_f": 61,
+    "temp_c": 16,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,20 +25,20 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Cum",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 62,
         "temp_c": 17
       },
@@ -59,16 +59,16 @@
       {
         "day_tr": "Pzt",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 67,
-        "temp_c": 19
+        "condition_code": 0,
+        "temp_f": 68,
+        "temp_c": 20
       }
     ]
   },
   "finance": {
-    "usd_try": 49.577,
-    "gold_usd": 4127.899902,
-    "btc_usd": 83294.775
+    "usd_try": 49.602,
+    "gold_usd": 4133.899902,
+    "btc_usd": 84447.495
   },
   "history": {
     "title": "1805: Trafalgar'da İngiliz donanması galip geldi",
