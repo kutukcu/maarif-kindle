@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:08:01.332197+00:00",
+  "generated_at": "2026-10-21T00:19:18.889730+00:00",
   "date": {
     "day": 20,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:37"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
+    "temp_f": 59,
+    "temp_c": 15,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -53,22 +53,22 @@
         "day_tr": "Cmt",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 63,
+        "temp_f": 62,
         "temp_c": 17
       },
       {
         "day_tr": "Paz",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 65,
+        "temp_f": 64,
         "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.577,
-    "gold_usd": 4126.100098,
-    "btc_usd": 82794.625
+    "gold_usd": 4120.100098,
+    "btc_usd": 83079.635
   },
   "history": {
     "title": "1973: Sidney Opera Binası resmen açıldı",
