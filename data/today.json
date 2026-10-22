@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:57:47.678948+00:00",
+  "generated_at": "2026-10-22T12:49:01.385307+00:00",
   "date": {
     "day": 22,
     "month": 10,
@@ -11,12 +11,12 @@
     "imsak": "06:02",
     "gunes": "07:26",
     "ogle": "12:54",
-    "ikindi": "15:56",
+    "ikindi": "15:55",
     "aksam": "18:21",
     "yatsi": "19:35"
   },
   "weather": {
-    "temp_f": 44,
+    "temp_f": 45,
     "temp_c": 7,
     "condition": "sun",
     "condition_code": 0,
@@ -25,13 +25,13 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 67,
+        "temp_f": 66,
         "temp_c": 19
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "sun",
+        "condition_code": 0,
         "temp_f": 60,
         "temp_c": 16
       },
@@ -39,7 +39,7 @@
         "day_tr": "Cmt",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
@@ -52,23 +52,23 @@
       {
         "day_tr": "Pzt",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 69,
-        "temp_c": 21
+        "condition_code": 0,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
+        "temp_f": 64,
         "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.602,
-    "gold_usd": 4096.100098,
-    "btc_usd": 82422.605
+    "gold_usd": 4090.699951,
+    "btc_usd": 81708.895
   },
   "history": {
     "title": "1962: Küba Füze Krizi zirveye çıktı",
