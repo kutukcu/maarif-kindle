@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:05:49.669464+00:00",
+  "generated_at": "2026-10-23T00:20:28.304174+00:00",
   "date": {
     "day": 22,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:35"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
+    "temp_f": 56,
+    "temp_c": 13,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -51,15 +51,15 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 67,
-        "temp_c": 19
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud_sun",
+        "condition_code": 2,
         "temp_f": 66,
         "temp_c": 19
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.628,
-    "gold_usd": 4025.300049,
-    "btc_usd": 81155.235
+    "gold_usd": 4023.300049,
+    "btc_usd": 81092.835
   },
   "history": {
     "title": "1962: Küba Füze Krizi zirveye çıktı",
