@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-10-23T00:20:28.304174+00:00",
+  "generated_at": "2026-10-23T05:39:29.908884+00:00",
   "date": {
-    "day": 22,
+    "day": 23,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-10-22"
+    "weekday_tr": "CUMA",
+    "iso": "2026-10-23"
   },
   "prayer_times": {
-    "imsak": "06:02",
-    "gunes": "07:26",
+    "imsak": "06:03",
+    "gunes": "07:27",
     "ogle": "12:54",
-    "ikindi": "15:56",
-    "aksam": "18:21",
-    "yatsi": "19:35"
+    "ikindi": "15:55",
+    "aksam": "18:20",
+    "yatsi": "19:34"
   },
   "weather": {
-    "temp_f": 56,
-    "temp_c": 13,
+    "temp_f": 48,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 68,
-        "temp_c": 20
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 63,
         "temp_c": 17
       },
       {
-        "day_tr": "Cmt",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 62,
-        "temp_c": 17
+        "day_tr": "Yarın",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Paz",
@@ -51,32 +44,39 @@
       },
       {
         "day_tr": "Pzt",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 67,
+        "temp_c": 19
+      },
+      {
+        "day_tr": "Sal",
         "condition": "cloud_sun",
         "condition_code": 2,
         "temp_f": 68,
         "temp_c": 20
       },
       {
-        "day_tr": "Sal",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 66,
-        "temp_c": 19
+        "day_tr": "Çar",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 62,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
     "usd_try": 49.628,
-    "gold_usd": 4023.300049,
-    "btc_usd": 81092.835
+    "gold_usd": 4023.5,
+    "btc_usd": 81663.525
   },
   "history": {
-    "title": "1962: Küba Füze Krizi zirveye çıktı",
+    "title": "42 MÖ: Filippi Muharebesi'nde Brutus ve Cassius yenildi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Yetinmesini bilenler mutludur.",
-    "author": "Aristoteles"
+    "text": "Zulüm ile abad olanın akıbeti berbad olur.",
+    "author": "Yunus Emre"
   }
 }
