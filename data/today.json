@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:52:04.570979+00:00",
+  "generated_at": "2026-10-23T15:35:52.465446+00:00",
   "date": {
     "day": 23,
     "month": 10,
@@ -11,22 +11,22 @@
     "imsak": "06:03",
     "gunes": "07:27",
     "ogle": "12:54",
-    "ikindi": "15:55",
+    "ikindi": "15:54",
     "aksam": "18:20",
     "yatsi": "19:34"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
+    "temp_f": 59,
+    "temp_c": 15,
     "condition": "sun",
-    "condition_code": 0,
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Yarın",
@@ -38,7 +38,7 @@
       {
         "day_tr": "Paz",
         "condition": "sun",
-        "condition_code": 0,
+        "condition_code": 1,
         "temp_f": 64,
         "temp_c": 18
       },
@@ -51,10 +51,10 @@
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 68,
-        "temp_c": 20
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Çar",
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 49.628,
-    "gold_usd": 4024.5,
-    "btc_usd": 81624.625
+    "usd_try": 49.738,
+    "gold_usd": 3997.899902,
+    "btc_usd": 81525.095
   },
   "history": {
     "title": "42 MÖ: Filippi Muharebesi'nde Brutus ve Cassius yenildi",
