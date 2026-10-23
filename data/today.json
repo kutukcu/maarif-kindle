@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T19:42:57.403841+00:00",
+  "generated_at": "2026-10-23T22:49:51.450089+00:00",
   "date": {
     "day": 23,
     "month": 10,
@@ -16,10 +16,10 @@
     "yatsi": "19:34"
   },
   "weather": {
-    "temp_f": 63,
-    "temp_c": 17,
+    "temp_f": 56,
+    "temp_c": 13,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,15 +30,15 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 61,
-        "temp_c": 16
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Paz",
-        "condition": "sun",
-        "condition_code": 1,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 64,
         "temp_c": 18
       },
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.738,
-    "gold_usd": 4000.800049,
-    "btc_usd": 81194.735
+    "gold_usd": 3996.899902,
+    "btc_usd": 80813.975
   },
   "history": {
     "title": "42 MÖ: Filippi Muharebesi'nde Brutus ve Cassius yenildi",
