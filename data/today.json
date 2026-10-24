@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:13:43.479090+00:00",
+  "generated_at": "2026-10-24T21:22:45.382237+00:00",
   "date": {
     "day": 24,
     "month": 10,
@@ -11,28 +11,28 @@
     "imsak": "06:04",
     "gunes": "07:28",
     "ogle": "12:54",
-    "ikindi": "15:53",
+    "ikindi": "15:54",
     "aksam": "18:18",
     "yatsi": "19:32"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 63,
+    "temp_c": 17,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 64,
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
@@ -53,8 +53,8 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Per",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.738,
     "gold_usd": 3996.899902,
-    "btc_usd": 79715.665
+    "btc_usd": 80280.445
   },
   "history": {
     "title": "1945: Birleşmiş Milletler resmen kuruldu",
