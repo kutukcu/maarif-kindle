@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-10-24T01:19:10.692637+00:00",
+  "generated_at": "2026-10-24T06:46:39.765351+00:00",
   "date": {
-    "day": 23,
+    "day": 24,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-10-23"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-10-24"
   },
   "prayer_times": {
-    "imsak": "06:03",
-    "gunes": "07:27",
+    "imsak": "06:04",
+    "gunes": "07:28",
     "ogle": "12:54",
-    "ikindi": "15:55",
-    "aksam": "18:20",
-    "yatsi": "19:34"
+    "ikindi": "15:54",
+    "aksam": "18:18",
+    "yatsi": "19:32"
   },
   "weather": {
-    "temp_f": 49,
-    "temp_c": 9,
+    "temp_f": 41,
+    "temp_c": 5,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 61,
+        "temp_c": 16
+      },
+      {
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 63,
         "temp_c": 17
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 62,
-        "temp_c": 17
-      },
-      {
-        "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
       },
       {
         "day_tr": "Pzt",
@@ -52,8 +45,8 @@
       {
         "day_tr": "Sal",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 64,
+        "condition_code": 0,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
@@ -62,21 +55,28 @@
         "condition_code": 3,
         "temp_f": 60,
         "temp_c": 16
+      },
+      {
+        "day_tr": "Per",
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 64,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.738,
     "gold_usd": 3996.899902,
-    "btc_usd": 80745.315
+    "btc_usd": 80665.335
   },
   "history": {
-    "title": "42 MÖ: Filippi Muharebesi'nde Brutus ve Cassius yenildi",
+    "title": "1945: Birleşmiş Milletler resmen kuruldu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Zulüm ile abad olanın akıbeti berbad olur.",
-    "author": "Yunus Emre"
+    "text": "Gençliği yetiştiriniz. Onlara ilim ve irfanın müsbet fikirlerini veriniz.",
+    "author": "Mustafa Kemal Atatürk"
   }
 }
