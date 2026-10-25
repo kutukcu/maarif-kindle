@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:55:41.812744+00:00",
+  "generated_at": "2026-10-25T02:56:43.281006+00:00",
   "date": {
     "day": 24,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:32"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
+    "temp_f": 47,
+    "temp_c": 8,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.738,
     "gold_usd": 3996.899902,
-    "btc_usd": 80812.465
+    "btc_usd": 80825.785
   },
   "history": {
     "title": "1945: Birleşmiş Milletler resmen kuruldu",
