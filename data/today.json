@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-10-25T02:56:43.281006+00:00",
+  "generated_at": "2026-10-25T08:06:44.566119+00:00",
   "date": {
-    "day": 24,
+    "day": 25,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-10-24"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-10-25"
   },
   "prayer_times": {
-    "imsak": "06:04",
-    "gunes": "07:28",
-    "ogle": "12:54",
-    "ikindi": "15:54",
-    "aksam": "18:18",
-    "yatsi": "19:32"
+    "imsak": "06:05",
+    "gunes": "07:29",
+    "ogle": "12:53",
+    "ikindi": "15:53",
+    "aksam": "18:17",
+    "yatsi": "19:31"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
+    "temp_f": 41,
+    "temp_c": 5,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 64,
-        "temp_c": 18
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
-        "condition_code": 1,
+        "condition_code": 0,
         "temp_f": 65,
         "temp_c": 18
       },
       {
-        "day_tr": "Pzt",
+        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 69,
@@ -53,30 +46,37 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 69,
+        "temp_c": 21
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 76,
+        "temp_c": 24
       }
     ]
   },
   "finance": {
     "usd_try": 49.738,
     "gold_usd": 3996.899902,
-    "btc_usd": 80825.785
+    "btc_usd": 80568.325
   },
   "history": {
-    "title": "1945: Birleşmiş Milletler resmen kuruldu",
+    "title": "1415: İngiltere, Agincourt Muharebesi'nde Fransa'yı yendi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Gençliği yetiştiriniz. Onlara ilim ve irfanın müsbet fikirlerini veriniz.",
-    "author": "Mustafa Kemal Atatürk"
+    "text": "Mutlu olmak, kendi kendine yeter olmak demektir.",
+    "author": "Aristoteles"
   }
 }
