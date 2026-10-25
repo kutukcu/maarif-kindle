@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:30:08.284183+00:00",
+  "generated_at": "2026-10-25T17:21:33.906208+00:00",
   "date": {
     "day": 25,
     "month": 10,
@@ -11,28 +11,28 @@
     "imsak": "06:05",
     "gunes": "07:29",
     "ogle": "12:53",
-    "ikindi": "15:52",
+    "ikindi": "15:53",
     "aksam": "18:17",
     "yatsi": "19:31"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 62,
+    "temp_c": 17,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 65,
         "temp_c": 18
       },
       {
         "day_tr": "Yarın",
         "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 69,
+        "condition_code": 1,
+        "temp_f": 70,
         "temp_c": 21
       },
       {
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.738,
     "gold_usd": 3996.899902,
-    "btc_usd": 80255.555
+    "btc_usd": 80707.015
   },
   "history": {
     "title": "1415: İngiltere, Agincourt Muharebesi'nde Fransa'yı yendi",
