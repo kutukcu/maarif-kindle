@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-26T01:02:50.477028+00:00",
+  "generated_at": "2026-10-26T07:18:51.219329+00:00",
   "date": {
-    "day": 25,
+    "day": 26,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-10-25"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-10-26"
   },
   "prayer_times": {
-    "imsak": "06:05",
-    "gunes": "07:29",
+    "imsak": "06:06",
+    "gunes": "07:30",
     "ogle": "12:53",
-    "ikindi": "15:53",
-    "aksam": "18:17",
-    "yatsi": "19:31"
+    "ikindi": "15:52",
+    "aksam": "18:16",
+    "yatsi": "19:30"
   },
   "weather": {
-    "temp_f": 52,
-    "temp_c": 11,
+    "temp_f": 41,
+    "temp_c": 5,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,58 +25,58 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 70,
+        "temp_f": 69,
         "temp_c": 21
       },
       {
-        "day_tr": "Sal",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
+        "temp_f": 66,
         "temp_c": 19
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Cum",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 76,
         "temp_c": 24
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.738,
-    "gold_usd": 3983.600098,
-    "btc_usd": 80131.87
+    "gold_usd": 4005.199951,
+    "btc_usd": 80009.875
   },
   "history": {
-    "title": "1415: İngiltere, Agincourt Muharebesi'nde Fransa'yı yendi",
+    "title": "1881: OK Corral Çatışması yaşandı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Mutlu olmak, kendi kendine yeter olmak demektir.",
-    "author": "Aristoteles"
+    "text": "Bilge kişinin kaybedeceği hiçbir şey yoktur; sahip olduğu her şeyi kendinde taşır.",
+    "author": "Seneca"
   }
 }
