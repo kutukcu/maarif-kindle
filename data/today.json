@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:14:17.948047+00:00",
+  "generated_at": "2026-10-27T21:42:24.093809+00:00",
   "date": {
     "day": 27,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:29"
   },
   "weather": {
-    "temp_f": 68,
-    "temp_c": 20,
+    "temp_f": 70,
+    "temp_c": 21,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,21 +25,21 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
         "condition": "fog",
         "condition_code": 45,
-        "temp_f": 66,
+        "temp_f": 67,
         "temp_c": 19
       },
       {
         "day_tr": "Per",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 72,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 71,
         "temp_c": 22
       },
       {
@@ -53,22 +53,22 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 61,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 49.787,
-    "gold_usd": 4059.800049,
-    "btc_usd": 80502.265
+    "gold_usd": 4061.300049,
+    "btc_usd": 81001.905
   },
   "history": {
     "title": "1904: New York metrosu ilk hattıyla hizmete girdi",
