@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-10-27T00:10:11.991365+00:00",
+  "generated_at": "2026-10-27T05:52:09.706129+00:00",
   "date": {
-    "day": 26,
+    "day": 27,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-10-26"
+    "weekday_tr": "SALI",
+    "iso": "2026-10-27"
   },
   "prayer_times": {
-    "imsak": "06:06",
-    "gunes": "07:30",
+    "imsak": "06:07",
+    "gunes": "07:31",
     "ogle": "12:53",
-    "ikindi": "15:52",
-    "aksam": "18:16",
-    "yatsi": "19:30"
+    "ikindi": "15:51",
+    "aksam": "18:15",
+    "yatsi": "19:29"
   },
   "weather": {
-    "temp_f": 59,
-    "temp_c": 15,
+    "temp_f": 50,
+    "temp_c": 10,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 70,
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 69,
         "temp_c": 21
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
-      },
-      {
-        "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 71,
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 72,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 75,
-        "temp_c": 24
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
+        "temp_c": 17
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 63,
         "temp_c": 17
       }
     ]
   },
   "finance": {
     "usd_try": 49.763,
-    "gold_usd": 4016.399902,
-    "btc_usd": 80114.495
+    "gold_usd": 4011.5,
+    "btc_usd": 79862.435
   },
   "history": {
-    "title": "1881: OK Corral Çatışması yaşandı",
+    "title": "1904: New York metrosu ilk hattıyla hizmete girdi",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Bilge kişinin kaybedeceği hiçbir şey yoktur; sahip olduğu her şeyi kendinde taşır.",
-    "author": "Seneca"
+    "text": "Doğruluk emanet, yalancılık hıyanettir.",
+    "author": "Hz. Ebu Bekir"
   }
 }
