@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:52:09.706129+00:00",
+  "generated_at": "2026-10-27T11:25:02.455959+00:00",
   "date": {
     "day": 27,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:29"
   },
   "weather": {
-    "temp_f": 50,
-    "temp_c": 10,
+    "temp_f": 49,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "sun",
         "condition_code": 1,
-        "temp_f": 69,
-        "temp_c": 21
+        "temp_f": 71,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Per",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.763,
-    "gold_usd": 4011.5,
-    "btc_usd": 79862.435
+    "gold_usd": 4012.399902,
+    "btc_usd": 79797.32
   },
   "history": {
     "title": "1904: New York metrosu ilk hattıyla hizmete girdi",
