@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T13:43:40.408324+00:00",
+  "generated_at": "2026-10-28T19:14:34.656820+00:00",
   "date": {
     "day": 28,
     "month": 10,
@@ -11,28 +11,28 @@
     "imsak": "06:08",
     "gunes": "07:32",
     "ogle": "12:53",
-    "ikindi": "15:49",
+    "ikindi": "15:50",
     "aksam": "18:13",
     "yatsi": "19:28"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 68,
+    "temp_c": 20,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Yarın",
         "condition": "fog",
         "condition_code": 45,
-        "temp_f": 72,
+        "temp_f": 71,
         "temp_c": 22
       },
       {
@@ -46,29 +46,29 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 60,
-        "temp_c": 16
+        "temp_f": 62,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
-    "usd_try": 49.787,
-    "gold_usd": 4049.800049,
-    "btc_usd": 80629.045
+    "usd_try": 49.838,
+    "gold_usd": 4049.100098,
+    "btc_usd": 81010.745
   },
   "history": {
     "title": "1886: Özgürlük Heykeli, New York limanında açıldı",
