@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T06:31:20.167530+00:00",
+  "generated_at": "2026-10-28T13:43:40.408324+00:00",
   "date": {
     "day": 28,
     "month": 10,
@@ -11,55 +11,55 @@
     "imsak": "06:08",
     "gunes": "07:32",
     "ogle": "12:53",
-    "ikindi": "15:50",
+    "ikindi": "15:49",
     "aksam": "18:13",
     "yatsi": "19:28"
   },
   "weather": {
-    "temp_f": 49,
-    "temp_c": 9,
+    "temp_f": 54,
+    "temp_c": 12,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 67,
-        "temp_c": 19
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 73,
-        "temp_c": 23
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 74,
-        "temp_c": 23
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
-      },
-      {
-        "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 66,
         "temp_c": 19
       },
       {
+        "day_tr": "Yarın",
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 72,
+        "temp_c": 22
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 73,
+        "temp_c": 23
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 63,
+        "temp_c": 17
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 65,
+        "temp_c": 18
+      },
+      {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 60,
         "temp_c": 16
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.787,
-    "gold_usd": 4034.0,
-    "btc_usd": 80804.045
+    "gold_usd": 4049.800049,
+    "btc_usd": 80629.045
   },
   "history": {
     "title": "1886: Özgürlük Heykeli, New York limanında açıldı",
