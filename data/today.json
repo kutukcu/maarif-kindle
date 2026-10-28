@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-10-28T00:52:53.074248+00:00",
+  "generated_at": "2026-10-28T06:31:20.167530+00:00",
   "date": {
-    "day": 27,
+    "day": 28,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "SALI",
-    "iso": "2026-10-27"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-10-28"
   },
   "prayer_times": {
-    "imsak": "06:07",
-    "gunes": "07:31",
+    "imsak": "06:08",
+    "gunes": "07:32",
     "ogle": "12:53",
-    "ikindi": "15:51",
-    "aksam": "18:15",
-    "yatsi": "19:29"
+    "ikindi": "15:50",
+    "aksam": "18:13",
+    "yatsi": "19:28"
   },
   "weather": {
-    "temp_f": 58,
-    "temp_c": 14,
+    "temp_f": 49,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 72,
-        "temp_c": 22
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "fog",
         "condition_code": 45,
         "temp_f": 67,
         "temp_c": 19
       },
       {
-        "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 71,
-        "temp_c": 22
+        "day_tr": "Yarın",
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Cum",
@@ -53,30 +46,37 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
+        "temp_f": 66,
         "temp_c": 19
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 60,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 49.787,
-    "gold_usd": 4066.300049,
-    "btc_usd": 80646.045
+    "gold_usd": 4034.0,
+    "btc_usd": 80804.045
   },
   "history": {
-    "title": "1904: New York metrosu ilk hattıyla hizmete girdi",
+    "title": "1886: Özgürlük Heykeli, New York limanında açıldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Doğruluk emanet, yalancılık hıyanettir.",
+    "text": "Kitaplar, akıllı kişilerin bahçeleri, faziletli kişilerin çiçeklikleridir.",
     "author": "Hz. Ebu Bekir"
   }
 }
