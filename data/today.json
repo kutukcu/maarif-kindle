@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-10-29T03:55:02.822052+00:00",
+  "generated_at": "2026-10-29T17:15:21.857582+00:00",
   "date": {
-    "day": 28,
+    "day": 29,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-10-28"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-10-29"
   },
   "prayer_times": {
-    "imsak": "06:08",
-    "gunes": "07:32",
+    "imsak": "06:09",
+    "gunes": "07:34",
     "ogle": "12:53",
-    "ikindi": "15:50",
-    "aksam": "18:13",
-    "yatsi": "19:28"
+    "ikindi": "15:49",
+    "aksam": "18:12",
+    "yatsi": "19:27"
   },
   "weather": {
-    "temp_f": 51,
-    "temp_c": 11,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "fog",
         "condition_code": 45,
         "temp_f": 70,
         "temp_c": 21
       },
       {
-        "day_tr": "Cum",
+        "day_tr": "Yarın",
         "condition": "cloud_sun",
         "condition_code": 2,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 57,
-        "temp_c": 14
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 60,
+        "temp_c": 16
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 69,
+        "temp_c": 21
       }
     ]
   },
   "finance": {
-    "usd_try": 49.838,
-    "gold_usd": 4042.5,
-    "btc_usd": 79719.865
+    "usd_try": 49.837,
+    "gold_usd": 4021.300049,
+    "btc_usd": 80871.805
   },
   "history": {
-    "title": "1886: Özgürlük Heykeli, New York limanında açıldı",
-    "turkish": null,
+    "title": "Cumhuriyet Bayramı",
+    "turkish": "Cumhuriyet Bayramı",
     "us": null
   },
   "quote": {
-    "text": "Kitaplar, akıllı kişilerin bahçeleri, faziletli kişilerin çiçeklikleridir.",
-    "author": "Hz. Ebu Bekir"
+    "text": "Dervişlik dedikleri, hırka ile taç değil. Gönlün derviş eyleyen hırkaya muhtaç değil.",
+    "author": "Yunus Emre"
   }
 }
