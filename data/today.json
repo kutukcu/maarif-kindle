@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:15:21.857582+00:00",
+  "generated_at": "2026-10-29T22:18:49.506389+00:00",
   "date": {
     "day": 29,
     "month": 10,
@@ -16,7 +16,7 @@
     "yatsi": "19:27"
   },
   "weather": {
-    "temp_f": 67,
+    "temp_f": 66,
     "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
@@ -25,13 +25,13 @@
         "day_tr": "Bugün",
         "condition": "fog",
         "condition_code": 45,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 72,
+        "temp_c": 22
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud_sun",
-        "condition_code": 2,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 72,
         "temp_c": 22
       },
@@ -51,10 +51,10 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 60,
-        "temp_c": 16
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 57,
+        "temp_c": 14
       },
       {
         "day_tr": "Sal",
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 49.837,
-    "gold_usd": 4021.300049,
-    "btc_usd": 80871.805
+    "gold_usd": 4022.800049,
+    "btc_usd": 78691.655
   },
   "history": {
     "title": "Cumhuriyet Bayramı",
