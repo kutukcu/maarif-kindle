@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-10-30T02:19:38.556616+00:00",
+  "generated_at": "2026-10-30T09:26:19.860752+00:00",
   "date": {
-    "day": 29,
+    "day": 30,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-10-29"
+    "weekday_tr": "CUMA",
+    "iso": "2026-10-30"
   },
   "prayer_times": {
-    "imsak": "06:09",
-    "gunes": "07:34",
+    "imsak": "06:10",
+    "gunes": "07:35",
     "ogle": "12:53",
-    "ikindi": "15:49",
-    "aksam": "18:12",
-    "yatsi": "19:27"
+    "ikindi": "15:48",
+    "aksam": "18:11",
+    "yatsi": "19:25"
   },
   "weather": {
-    "temp_f": 58,
-    "temp_c": 14,
+    "temp_f": 52,
+    "temp_c": 11,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 72,
-        "temp_c": 22
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 72,
         "temp_c": 22
       },
       {
-        "day_tr": "Cmt",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 61,
@@ -46,37 +39,44 @@
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 65,
+        "temp_c": 18
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 70,
+        "temp_c": 21
       }
     ]
   },
   "finance": {
     "usd_try": 49.837,
-    "gold_usd": 4013.300049,
-    "btc_usd": 76923.04
+    "gold_usd": 3992.600098,
+    "btc_usd": 77563.085
   },
   "history": {
-    "title": "Cumhuriyet Bayramı",
-    "turkish": "Cumhuriyet Bayramı",
+    "title": "1938: Orson Welles'in radyo oyunu paniğe yol açtı",
+    "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Dervişlik dedikleri, hırka ile taç değil. Gönlün derviş eyleyen hırkaya muhtaç değil.",
-    "author": "Yunus Emre"
+    "text": "Dostluk gül olmaktır, yaprağı ile de dikeni ile de.",
+    "author": "Şems-i Tebrizi"
   }
 }
