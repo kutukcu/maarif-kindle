@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:26:19.860752+00:00",
+  "generated_at": "2026-10-30T16:26:40.716967+00:00",
   "date": {
     "day": 30,
     "month": 10,
@@ -16,15 +16,15 @@
     "yatsi": "19:25"
   },
   "weather": {
-    "temp_f": 52,
-    "temp_c": 11,
+    "temp_f": 71,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "sun",
-        "condition_code": 0,
+        "condition_code": 1,
         "temp_f": 72,
         "temp_c": 22
       },
@@ -39,7 +39,7 @@
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
+        "temp_f": 64,
         "temp_c": 18
       },
       {
@@ -53,22 +53,22 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 69,
+        "temp_c": 21
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 66,
+        "temp_c": 19
       }
     ]
   },
   "finance": {
-    "usd_try": 49.837,
-    "gold_usd": 3992.600098,
-    "btc_usd": 77563.085
+    "usd_try": 49.948,
+    "gold_usd": 3898.100098,
+    "btc_usd": 77415.965
   },
   "history": {
     "title": "1938: Orson Welles'in radyo oyunu paniğe yol açtı",
