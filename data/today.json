@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-10-31T01:21:01.777039+00:00",
+  "generated_at": "2026-10-31T07:52:50.065698+00:00",
   "date": {
-    "day": 30,
+    "day": 31,
     "month": 10,
     "month_tr": "EKİM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-10-30"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-10-31"
   },
   "prayer_times": {
-    "imsak": "06:10",
-    "gunes": "07:35",
+    "imsak": "06:11",
+    "gunes": "07:36",
     "ogle": "12:53",
-    "ikindi": "15:48",
-    "aksam": "18:11",
-    "yatsi": "19:25"
+    "ikindi": "15:47",
+    "aksam": "18:10",
+    "yatsi": "19:24"
   },
   "weather": {
-    "temp_f": 60,
-    "temp_c": 16,
+    "temp_f": 48,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 76,
-        "temp_c": 24
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
-        "day_tr": "Paz",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 64,
@@ -46,8 +39,8 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 61,
-        "temp_c": 16
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Sal",
@@ -60,23 +53,30 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 71,
-        "temp_c": 22
+        "temp_f": 73,
+        "temp_c": 23
+      },
+      {
+        "day_tr": "Per",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 74,
+        "temp_c": 23
       }
     ]
   },
   "finance": {
     "usd_try": 49.948,
     "gold_usd": 3876.399902,
-    "btc_usd": 77360.345
+    "btc_usd": 77209.915
   },
   "history": {
-    "title": "1938: Orson Welles'in radyo oyunu paniğe yol açtı",
+    "title": "Halloween",
     "turkish": null,
-    "us": null
+    "us": "Halloween"
   },
   "quote": {
-    "text": "Dostluk gül olmaktır, yaprağı ile de dikeni ile de.",
-    "author": "Şems-i Tebrizi"
+    "text": "Küçük hanımlar, küçük beyler; sizler hepiniz geleceğin bir gülü, yıldızı ve ikbal ışığısınız.",
+    "author": "Mustafa Kemal Atatürk"
   }
 }
