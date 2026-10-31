@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T21:18:16.504370+00:00",
+  "generated_at": "2026-10-31T01:21:01.777039+00:00",
   "date": {
     "day": 30,
     "month": 10,
@@ -16,8 +16,8 @@
     "yatsi": "19:25"
   },
   "weather": {
-    "temp_f": 69,
-    "temp_c": 21,
+    "temp_f": 60,
+    "temp_c": 16,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -53,14 +53,14 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 69,
+        "temp_f": 70,
         "temp_c": 21
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 72,
+        "temp_f": 71,
         "temp_c": 22
       }
     ]
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.948,
     "gold_usd": 3876.399902,
-    "btc_usd": 76626.235
+    "btc_usd": 77360.345
   },
   "history": {
     "title": "1938: Orson Welles'in radyo oyunu paniğe yol açtı",
