@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T18:59:25.493145+00:00",
+  "generated_at": "2026-10-31T22:22:23.234544+00:00",
   "date": {
     "day": 31,
     "month": 10,
@@ -16,31 +16,31 @@
     "yatsi": "19:24"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 56,
+    "temp_c": 13,
+    "condition": "sun",
+    "condition_code": 1,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Sal",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 49.948,
     "gold_usd": 3876.399902,
-    "btc_usd": 77484.815
+    "btc_usd": 77471.995
   },
   "history": {
     "title": "Halloween",
