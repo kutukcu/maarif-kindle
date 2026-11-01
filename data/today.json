@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-01T01:46:01.031169+00:00",
+  "generated_at": "2026-11-01T08:33:58.302758+00:00",
   "date": {
-    "day": 31,
-    "month": 10,
-    "month_tr": "EKİM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-10-31"
+    "day": 1,
+    "month": 11,
+    "month_tr": "KASIM",
+    "weekday_tr": "PAZAR",
+    "iso": "2026-11-01"
   },
   "prayer_times": {
-    "imsak": "06:11",
-    "gunes": "07:36",
-    "ogle": "12:53",
-    "ikindi": "15:47",
-    "aksam": "18:10",
-    "yatsi": "19:24"
+    "imsak": "05:12",
+    "gunes": "06:37",
+    "ogle": "11:53",
+    "ikindi": "14:47",
+    "aksam": "17:09",
+    "yatsi": "18:23"
   },
   "weather": {
-    "temp_f": 52,
-    "temp_c": 11,
+    "temp_f": 47,
+    "temp_c": 8,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -25,22 +25,15 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 61,
+        "temp_f": 60,
         "temp_c": 16
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
-      },
-      {
-        "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Sal",
@@ -58,25 +51,32 @@
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 71,
         "temp_c": 22
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 49.948,
     "gold_usd": 3876.399902,
-    "btc_usd": 77610.365
+    "btc_usd": 77899.995
   },
   "history": {
-    "title": "Halloween",
+    "title": "1755: Lizbon'u yerle bir eden büyük deprem meydana geldi",
     "turkish": null,
-    "us": "Halloween"
+    "us": null
   },
   "quote": {
-    "text": "Küçük hanımlar, küçük beyler; sizler hepiniz geleceğin bir gülü, yıldızı ve ikbal ışığısınız.",
-    "author": "Mustafa Kemal Atatürk"
+    "text": "Kendi mutluluğunuz sadece kendinize bağlıdır.",
+    "author": "Marcus Aurelius"
   }
 }
