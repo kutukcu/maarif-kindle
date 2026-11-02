@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T20:03:31.544048+00:00",
+  "generated_at": "2026-11-02T00:08:28.130432+00:00",
   "date": {
     "day": 1,
     "month": 11,
@@ -16,10 +16,10 @@
     "yatsi": "18:23"
   },
   "weather": {
-    "temp_f": 65,
-    "temp_c": 18,
+    "temp_f": 54,
+    "temp_c": 12,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -32,7 +32,7 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 66,
+        "temp_f": 67,
         "temp_c": 19
       },
       {
@@ -46,29 +46,29 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 73,
+        "temp_c": 23
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 66,
+        "temp_c": 19
       }
     ]
   },
   "finance": {
     "usd_try": 49.948,
-    "gold_usd": 3876.399902,
-    "btc_usd": 77695.995
+    "gold_usd": 3903.100098,
+    "btc_usd": 78194.885
   },
   "history": {
     "title": "1755: Lizbon'u yerle bir eden büyük deprem meydana geldi",
