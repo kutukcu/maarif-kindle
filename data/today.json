@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:42:48.250239+00:00",
+  "generated_at": "2026-11-03T21:25:31.043012+00:00",
   "date": {
     "day": 3,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:21"
   },
   "weather": {
-    "temp_f": 62,
-    "temp_c": 17,
+    "temp_f": 72,
+    "temp_c": 22,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,8 +25,8 @@
         "day_tr": "Bugün",
         "condition": "cloud_sun",
         "condition_code": 2,
-        "temp_f": 72,
-        "temp_c": 22
+        "temp_f": 74,
+        "temp_c": 23
       },
       {
         "day_tr": "Yarın",
@@ -38,37 +38,37 @@
       {
         "day_tr": "Per",
         "condition": "drizzle",
-        "condition_code": 53,
+        "condition_code": 51,
         "temp_f": 76,
         "temp_c": 24
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 69,
-        "temp_c": 21
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 58,
-        "temp_c": 14
+        "temp_f": 53,
+        "temp_c": 12
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 60,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 49.997,
-    "gold_usd": 3937.0,
-    "btc_usd": 77482.485
+    "gold_usd": 3925.600098,
+    "btc_usd": 77815.015
   },
   "history": {
     "title": "1957: Sovyet köpeği Laika, uzaya çıkan ilk canlı oldu",
