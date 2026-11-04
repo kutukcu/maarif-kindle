@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:44:48.152894+00:00",
+  "generated_at": "2026-11-04T22:19:49.292934+00:00",
   "date": {
     "day": 4,
     "month": 11,
@@ -16,44 +16,44 @@
     "yatsi": "18:21"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 69,
+    "temp_c": 21,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 75,
+        "temp_f": 76,
         "temp_c": 24
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 71,
+        "condition_code": 51,
+        "temp_f": 72,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
-        "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition": "heavy_rain",
+        "condition_code": 65,
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 57,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 58,
         "temp_c": 14
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 61,
+        "temp_f": 60,
         "temp_c": 16
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 50.022,
-    "gold_usd": 4059.399902,
-    "btc_usd": 80559.195
+    "gold_usd": 4061.199951,
+    "btc_usd": 80454.115
   },
   "history": {
     "title": "1922: Carter, Tutanhamon'un mezarını keşfetti",
