@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:27:02.594849+00:00",
+  "generated_at": "2026-11-04T16:44:48.152894+00:00",
   "date": {
     "day": 4,
     "month": 11,
@@ -11,64 +11,64 @@
     "imsak": "05:15",
     "gunes": "06:40",
     "ogle": "11:53",
-    "ikindi": "14:44",
+    "ikindi": "14:43",
     "aksam": "17:05",
     "yatsi": "18:21"
   },
   "weather": {
-    "temp_f": 52,
-    "temp_c": 11,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 72,
+    "temp_c": 22,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 73,
-        "temp_c": 23
+        "temp_f": 75,
+        "temp_c": 24
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 72,
+        "condition_code": 53,
+        "temp_f": 71,
         "temp_c": 22
       },
       {
         "day_tr": "Cum",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition_code": 80,
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 57,
+        "temp_c": 14
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 60,
+        "temp_f": 61,
         "temp_c": 16
       },
       {
         "day_tr": "Pzt",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 64,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
-    "usd_try": 49.997,
-    "gold_usd": 4031.300049,
-    "btc_usd": 78225.435
+    "usd_try": 50.022,
+    "gold_usd": 4059.399902,
+    "btc_usd": 80559.195
   },
   "history": {
     "title": "1922: Carter, Tutanhamon'un mezarını keşfetti",
