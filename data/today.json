@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:33:10.200288+00:00",
+  "generated_at": "2026-11-06T21:12:38.807635+00:00",
   "date": {
     "day": 6,
     "month": 11,
@@ -18,57 +18,57 @@
   "weather": {
     "temp_f": 65,
     "temp_c": 18,
-    "condition": "drizzle",
-    "condition_code": 55,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 69,
+        "condition_code": 63,
+        "temp_f": 70,
         "temp_c": 21
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 57,
+        "temp_c": 14
       },
       {
         "day_tr": "Paz",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 62,
+        "condition_code": 0,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 65,
-        "temp_c": 18
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 62,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
-    "usd_try": 50.047,
-    "gold_usd": 4044.5,
-    "btc_usd": 75282.725
+    "usd_try": 50.153,
+    "gold_usd": 4067.600098,
+    "btc_usd": 75788.025
   },
   "history": {
     "title": "1860: Abraham Lincoln, ABD başkanı seçildi",
