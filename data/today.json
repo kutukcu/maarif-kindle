@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T19:20:51.500664+00:00",
+  "generated_at": "2026-11-06T00:38:57.988734+00:00",
   "date": {
     "day": 5,
     "month": 11,
@@ -16,24 +16,24 @@
     "yatsi": "18:20"
   },
   "weather": {
-    "temp_f": 72,
-    "temp_c": 22,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 69,
+    "temp_c": 21,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 55,
+        "condition": "rain",
+        "condition_code": 80,
         "temp_f": 74,
         "temp_c": 23
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Cmt",
@@ -46,7 +46,7 @@
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 60,
+        "temp_f": 61,
         "temp_c": 16
       },
       {
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 50.047,
-    "gold_usd": 4105.399902,
-    "btc_usd": 76086.435
+    "gold_usd": 4100.5,
+    "btc_usd": 76217.655
   },
   "history": {
     "title": "1605: İngiltere'de 'Barut Komplosu' engellendi",
