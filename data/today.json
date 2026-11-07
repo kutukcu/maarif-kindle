@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T21:12:38.807635+00:00",
+  "generated_at": "2026-11-07T01:30:12.627459+00:00",
   "date": {
     "day": 6,
     "month": 11,
@@ -16,10 +16,10 @@
     "yatsi": "18:19"
   },
   "weather": {
-    "temp_f": 65,
-    "temp_c": 18,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 59,
+    "temp_c": 15,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -60,15 +60,15 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 50.153,
-    "gold_usd": 4067.600098,
-    "btc_usd": 75788.025
+    "gold_usd": 4072.100098,
+    "btc_usd": 75795.025
   },
   "history": {
     "title": "1860: Abraham Lincoln, ABD başkanı seçildi",
