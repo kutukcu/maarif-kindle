@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:47:17.664832+00:00",
+  "generated_at": "2026-11-07T23:18:58.011652+00:00",
   "date": {
     "day": 7,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:18"
   },
   "weather": {
-    "temp_f": 57,
-    "temp_c": 14,
+    "temp_f": 49,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -31,9 +31,9 @@
       {
         "day_tr": "Yarın",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 61,
-        "temp_c": 16
+        "condition_code": 0,
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Pzt",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 50.153,
     "gold_usd": 4072.100098,
-    "btc_usd": 75646.015
+    "btc_usd": 75658.205
   },
   "history": {
     "title": "1917: Rusya'da Bolşevik Devrimi gerçekleşti",
