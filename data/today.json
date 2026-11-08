@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:56:38.975197+00:00",
+  "generated_at": "2026-11-08T20:56:57.131984+00:00",
   "date": {
     "day": 8,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:17"
   },
   "weather": {
-    "temp_f": 57,
-    "temp_c": 14,
+    "temp_f": 62,
+    "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 58,
-        "temp_c": 14
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Sal",
@@ -52,15 +52,15 @@
       {
         "day_tr": "Per",
         "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition_code": 61,
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Cum",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 52,
+        "condition": "heavy_rain",
+        "condition_code": 82,
+        "temp_f": 51,
         "temp_c": 11
       }
     ]
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 50.153,
     "gold_usd": 4072.100098,
-    "btc_usd": 75656.705
+    "btc_usd": 75670.825
   },
   "history": {
     "title": "1895: Wilhelm Röntgen, X-ışınlarını keşfetti",
