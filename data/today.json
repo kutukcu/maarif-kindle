@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-11-08T03:53:03.350071+00:00",
+  "generated_at": "2026-11-08T10:58:41.844002+00:00",
   "date": {
-    "day": 7,
+    "day": 8,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-11-07"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-11-08"
   },
   "prayer_times": {
-    "imsak": "05:18",
-    "gunes": "06:43",
+    "imsak": "05:19",
+    "gunes": "06:44",
     "ogle": "11:53",
     "ikindi": "14:41",
-    "aksam": "17:02",
-    "yatsi": "18:18"
+    "aksam": "17:01",
+    "yatsi": "18:17"
   },
   "weather": {
-    "temp_f": 46,
-    "temp_c": 8,
+    "temp_f": 43,
+    "temp_c": 6,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 59,
-        "temp_c": 15
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 62,
+        "condition_code": 1,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
-        "day_tr": "Pzt",
+        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 58,
@@ -46,37 +39,44 @@
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
+        "temp_f": 66,
         "temp_c": 19
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Per",
         "condition": "rain",
         "condition_code": 61,
-        "temp_f": 54,
-        "temp_c": 12
+        "temp_f": 66,
+        "temp_c": 19
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 52,
+        "temp_c": 11
       }
     ]
   },
   "finance": {
     "usd_try": 50.153,
     "gold_usd": 4072.100098,
-    "btc_usd": 75763.635
+    "btc_usd": 75786.435
   },
   "history": {
-    "title": "1917: Rusya'da Bolşevik Devrimi gerçekleşti",
+    "title": "1895: Wilhelm Röntgen, X-ışınlarını keşfetti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Hafif acılar konuşabilir, ama derin acılar dilsizdir.",
+    "text": "Vazgeçmeye hazır olanlar dışında kimse hayatın gerçek tadını alamaz.",
     "author": "Seneca"
   }
 }
