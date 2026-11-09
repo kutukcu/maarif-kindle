@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-09T00:33:44.498079+00:00",
+  "generated_at": "2026-11-09T07:31:51.322160+00:00",
   "date": {
-    "day": 8,
+    "day": 9,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "PAZAR",
-    "iso": "2026-11-08"
+    "weekday_tr": "PAZARTESİ",
+    "iso": "2026-11-09"
   },
   "prayer_times": {
-    "imsak": "05:19",
-    "gunes": "06:44",
+    "imsak": "05:20",
+    "gunes": "06:46",
     "ogle": "11:53",
     "ikindi": "14:40",
-    "aksam": "17:01",
-    "yatsi": "18:17"
+    "aksam": "17:00",
+    "yatsi": "18:16"
   },
   "weather": {
-    "temp_f": 53,
-    "temp_c": 12,
+    "temp_f": 51,
+    "temp_c": 11,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,58 +25,58 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 59,
-        "temp_c": 15
-      },
-      {
-        "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 70,
+        "temp_c": 21
       },
       {
         "day_tr": "Çar",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 64,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 65,
         "temp_c": 18
       },
       {
         "day_tr": "Per",
         "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 57,
-        "temp_c": 14
+        "condition_code": 81,
+        "temp_f": 55,
+        "temp_c": 13
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
         "condition_code": 51,
-        "temp_f": 52,
+        "temp_f": 51,
         "temp_c": 11
+      },
+      {
+        "day_tr": "Cmt",
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 48,
+        "temp_c": 9
       }
     ]
   },
   "finance": {
     "usd_try": 50.153,
-    "gold_usd": 4082.5,
-    "btc_usd": 74935.295
+    "gold_usd": 4100.5,
+    "btc_usd": 73889.915
   },
   "history": {
-    "title": "1895: Wilhelm Röntgen, X-ışınlarını keşfetti",
+    "title": "1989: Berlin Duvarı yıkıldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Vazgeçmeye hazır olanlar dışında kimse hayatın gerçek tadını alamaz.",
-    "author": "Seneca"
+    "text": "Bugünün işini yarına bırakma.",
+    "author": "Atasözü"
   }
 }
