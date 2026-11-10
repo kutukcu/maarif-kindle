@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T18:08:14.368238+00:00",
+  "generated_at": "2026-11-10T01:50:16.738176+00:00",
   "date": {
     "day": 9,
     "month": 11,
@@ -11,13 +11,13 @@
     "imsak": "05:20",
     "gunes": "06:46",
     "ogle": "11:53",
-    "ikindi": "14:39",
+    "ikindi": "14:40",
     "aksam": "17:00",
     "yatsi": "18:16"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
+    "temp_f": 49,
+    "temp_c": 9,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,7 +25,7 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
@@ -44,31 +44,31 @@
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 55,
-        "temp_c": 13
+        "condition": "rain",
+        "condition_code": 61,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 49,
-        "temp_c": 9
+        "temp_f": 51,
+        "temp_c": 11
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 48,
-        "temp_c": 9
+        "temp_f": 47,
+        "temp_c": 8
       }
     ]
   },
   "finance": {
     "usd_try": 50.138,
-    "gold_usd": 4105.0,
-    "btc_usd": 74752.785
+    "gold_usd": 4130.200195,
+    "btc_usd": 74977.965
   },
   "history": {
     "title": "1989: Berlin Duvarı yıkıldı",
