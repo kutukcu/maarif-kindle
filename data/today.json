@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-11-10T01:50:16.738176+00:00",
+  "generated_at": "2026-11-10T09:04:02.164511+00:00",
   "date": {
-    "day": 9,
+    "day": 10,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-11-09"
+    "weekday_tr": "SALI",
+    "iso": "2026-11-10"
   },
   "prayer_times": {
-    "imsak": "05:20",
-    "gunes": "06:46",
+    "imsak": "05:21",
+    "gunes": "06:47",
     "ogle": "11:53",
-    "ikindi": "14:40",
-    "aksam": "17:00",
-    "yatsi": "18:16"
+    "ikindi": "14:39",
+    "aksam": "16:59",
+    "yatsi": "18:15"
   },
   "weather": {
-    "temp_f": 49,
-    "temp_c": 9,
+    "temp_f": 40,
+    "temp_c": 4,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 69,
-        "temp_c": 21
-      },
-      {
-        "day_tr": "Çar",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 61,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 51,
+        "temp_f": 52,
         "temp_c": 11
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 47,
-        "temp_c": 8
+        "temp_f": 48,
+        "temp_c": 9
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 48,
+        "temp_c": 9
       }
     ]
   },
   "finance": {
     "usd_try": 50.138,
-    "gold_usd": 4130.200195,
-    "btc_usd": 74977.965
+    "gold_usd": 4102.5,
+    "btc_usd": 74321.63
   },
   "history": {
-    "title": "1989: Berlin Duvarı yıkıldı",
+    "title": "1938: Atatürk, Dolmabahçe'de hayatını kaybetti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Bugünün işini yarına bırakma.",
-    "author": "Atasözü"
+    "text": "Gerçeği bilenler ile onu sevenler hiçbir zaman eşit değildirler.",
+    "author": "Konfüçyüs"
   }
 }
