@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T22:43:31.588728+00:00",
+  "generated_at": "2026-11-11T02:28:10.499554+00:00",
   "date": {
     "day": 10,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:15"
   },
   "weather": {
-    "temp_f": 61,
-    "temp_c": 16,
+    "temp_f": 54,
+    "temp_c": 12,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,15 +32,15 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 66,
+        "temp_f": 67,
         "temp_c": 19
       },
       {
         "day_tr": "Per",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Cum",
@@ -53,13 +53,13 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 49,
-        "temp_c": 9
+        "temp_f": 47,
+        "temp_c": 8
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition": "sun",
+        "condition_code": 0,
         "temp_f": 51,
         "temp_c": 11
       }
@@ -67,8 +67,8 @@
   },
   "finance": {
     "usd_try": 50.224,
-    "gold_usd": 4033.800049,
-    "btc_usd": 73660.625
+    "gold_usd": 4041.800049,
+    "btc_usd": 73381.255
   },
   "history": {
     "title": "1938: Atatürk, Dolmabahçe'de hayatını kaybetti",
