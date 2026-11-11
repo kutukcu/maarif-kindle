@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:10:02.645345+00:00",
+  "generated_at": "2026-11-11T18:16:47.557310+00:00",
   "date": {
     "day": 11,
     "month": 11,
@@ -11,13 +11,13 @@
     "imsak": "05:22",
     "gunes": "06:48",
     "ogle": "11:53",
-    "ikindi": "14:39",
+    "ikindi": "14:38",
     "aksam": "16:59",
     "yatsi": "18:15"
   },
   "weather": {
-    "temp_f": 44,
-    "temp_c": 7,
+    "temp_f": 67,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,15 +25,15 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 58,
+        "temp_c": 14
       },
       {
         "day_tr": "Cum",
@@ -46,29 +46,29 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 50,
-        "temp_c": 10
+        "temp_f": 49,
+        "temp_c": 9
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 51,
-        "temp_c": 11
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 50,
-        "temp_c": 10
+        "temp_f": 52,
+        "temp_c": 11
       }
     ]
   },
   "finance": {
-    "usd_try": 50.224,
-    "gold_usd": 4054.699951,
-    "btc_usd": 73599.885
+    "usd_try": 50.229,
+    "gold_usd": 3993.899902,
+    "btc_usd": 74397.835
   },
   "history": {
     "title": "Gaziler Günü / Veterans Day (Resmi Tatil)",
