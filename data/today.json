@@ -1,44 +1,37 @@
 {
-  "generated_at": "2026-11-11T02:28:10.499554+00:00",
+  "generated_at": "2026-11-11T10:10:02.645345+00:00",
   "date": {
-    "day": 10,
+    "day": 11,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "SALI",
-    "iso": "2026-11-10"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-11-11"
   },
   "prayer_times": {
-    "imsak": "05:21",
-    "gunes": "06:47",
+    "imsak": "05:22",
+    "gunes": "06:48",
     "ogle": "11:53",
     "ikindi": "14:39",
     "aksam": "16:59",
     "yatsi": "18:15"
   },
   "weather": {
-    "temp_f": 54,
-    "temp_c": 12,
+    "temp_f": 44,
+    "temp_c": 7,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 70,
-        "temp_c": 21
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
-      },
-      {
-        "day_tr": "Per",
-        "condition": "fog",
-        "condition_code": 45,
         "temp_f": 63,
         "temp_c": 17
       },
@@ -53,30 +46,37 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 47,
-        "temp_c": 8
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Paz",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 51,
         "temp_c": 11
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 50,
+        "temp_c": 10
       }
     ]
   },
   "finance": {
     "usd_try": 50.224,
-    "gold_usd": 4041.800049,
-    "btc_usd": 73381.255
+    "gold_usd": 4054.699951,
+    "btc_usd": 73599.885
   },
   "history": {
-    "title": "1938: Atatürk, Dolmabahçe'de hayatını kaybetti",
+    "title": "Gaziler Günü / Veterans Day (Resmi Tatil)",
     "turkish": null,
-    "us": null
+    "us": "Gaziler Günü / Veterans Day (Resmi Tatil)"
   },
   "quote": {
-    "text": "Gerçeği bilenler ile onu sevenler hiçbir zaman eşit değildirler.",
+    "text": "İhtiyatlı insan nadiren hata işler.",
     "author": "Konfüçyüs"
   }
 }
