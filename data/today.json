@@ -1,52 +1,45 @@
 {
-  "generated_at": "2026-11-11T18:16:47.557310+00:00",
+  "generated_at": "2026-11-12T09:05:43.875528+00:00",
   "date": {
-    "day": 11,
+    "day": 12,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-11-11"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-11-12"
   },
   "prayer_times": {
-    "imsak": "05:22",
-    "gunes": "06:48",
-    "ogle": "11:53",
+    "imsak": "05:23",
+    "gunes": "06:49",
+    "ogle": "11:54",
     "ikindi": "14:38",
-    "aksam": "16:59",
-    "yatsi": "18:15"
+    "aksam": "16:58",
+    "yatsi": "18:14"
   },
   "weather": {
-    "temp_f": 67,
-    "temp_c": 19,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 47,
+    "temp_c": 8,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 63,
+        "temp_c": 17
       },
       {
         "day_tr": "Yarın",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 58,
-        "temp_c": 14
-      },
-      {
-        "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 51,
-        "temp_c": 11
+        "temp_f": 47,
+        "temp_c": 8
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 49,
+        "temp_f": 48,
         "temp_c": 9
       },
       {
@@ -60,23 +53,30 @@
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 52,
-        "temp_c": 11
+        "temp_f": 54,
+        "temp_c": 12
+      },
+      {
+        "day_tr": "Sal",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 54,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 50.229,
-    "gold_usd": 3993.899902,
-    "btc_usd": 74397.835
+    "gold_usd": 3933.399902,
+    "btc_usd": 73358.125
   },
   "history": {
-    "title": "Gaziler Günü / Veterans Day (Resmi Tatil)",
+    "title": "1990: Berners-Lee, World Wide Web'i önerdi",
     "turkish": null,
-    "us": "Gaziler Günü / Veterans Day (Resmi Tatil)"
+    "us": null
   },
   "quote": {
-    "text": "İhtiyatlı insan nadiren hata işler.",
-    "author": "Konfüçyüs"
+    "text": "Ben, manevi miras olarak hiçbir ayet, hiçbir dogma, hiçbir donmuş kural bırakmıyorum. Benim manevi mirasım, bilim ve akıldır.",
+    "author": "Mustafa Kemal Atatürk"
   }
 }
