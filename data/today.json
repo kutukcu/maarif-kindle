@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:05:43.875528+00:00",
+  "generated_at": "2026-11-12T17:50:15.698787+00:00",
   "date": {
     "day": 12,
     "month": 11,
@@ -11,29 +11,29 @@
     "imsak": "05:23",
     "gunes": "06:49",
     "ogle": "11:54",
-    "ikindi": "14:38",
+    "ikindi": "14:37",
     "aksam": "16:58",
     "yatsi": "18:14"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
+    "temp_f": 59,
+    "temp_c": 15,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition_code": 51,
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 47,
-        "temp_c": 8
+        "temp_f": 45,
+        "temp_c": 7
       },
       {
         "day_tr": "Cmt",
@@ -46,8 +46,8 @@
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 50,
-        "temp_c": 10
+        "temp_f": 49,
+        "temp_c": 9
       },
       {
         "day_tr": "Pzt",
@@ -60,15 +60,15 @@
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 54,
-        "temp_c": 12
+        "temp_f": 55,
+        "temp_c": 13
       }
     ]
   },
   "finance": {
-    "usd_try": 50.229,
-    "gold_usd": 3933.399902,
-    "btc_usd": 73358.125
+    "usd_try": 50.258,
+    "gold_usd": 3876.100098,
+    "btc_usd": 71752.995
   },
   "history": {
     "title": "1990: Berners-Lee, World Wide Web'i önerdi",
