@@ -1,42 +1,35 @@
 {
-  "generated_at": "2026-11-13T04:37:48.275382+00:00",
+  "generated_at": "2026-11-13T20:13:32.123660+00:00",
   "date": {
-    "day": 12,
+    "day": 13,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-11-12"
+    "weekday_tr": "CUMA",
+    "iso": "2026-11-13"
   },
   "prayer_times": {
-    "imsak": "05:23",
-    "gunes": "06:49",
+    "imsak": "05:24",
+    "gunes": "06:50",
     "ogle": "11:54",
-    "ikindi": "14:38",
-    "aksam": "16:58",
-    "yatsi": "18:14"
+    "ikindi": "14:37",
+    "aksam": "16:57",
+    "yatsi": "18:13"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 48,
+    "temp_c": 9,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 48,
+        "temp_c": 9
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 46,
-        "temp_c": 8
-      },
-      {
-        "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 48,
@@ -44,39 +37,46 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 49,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 48,
         "temp_c": 9
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 52,
-        "temp_c": 11
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 54,
-        "temp_c": 12
+        "temp_f": 55,
+        "temp_c": 13
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 58,
+        "temp_c": 14
       }
     ]
   },
   "finance": {
-    "usd_try": 50.258,
-    "gold_usd": 3913.02002,
-    "btc_usd": 68809.255
+    "usd_try": 50.368,
+    "gold_usd": 3879.699951,
+    "btc_usd": 68989.375
   },
   "history": {
-    "title": "1990: Berners-Lee, World Wide Web'i önerdi",
+    "title": "1927: New York'ta Holland Tüneli açıldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Ben, manevi miras olarak hiçbir ayet, hiçbir dogma, hiçbir donmuş kural bırakmıyorum. Benim manevi mirasım, bilim ve akıldır.",
-    "author": "Mustafa Kemal Atatürk"
+    "text": "Evren değişiyor; hayatımız, düşüncelerimize göre şekilleniyor.",
+    "author": "Marcus Aurelius"
   }
 }
