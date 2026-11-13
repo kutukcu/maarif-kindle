@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T23:04:43.788051+00:00",
+  "generated_at": "2026-11-13T04:37:48.275382+00:00",
   "date": {
     "day": 12,
     "month": 11,
@@ -11,13 +11,13 @@
     "imsak": "05:23",
     "gunes": "06:49",
     "ogle": "11:54",
-    "ikindi": "14:37",
+    "ikindi": "14:38",
     "aksam": "16:58",
     "yatsi": "18:14"
   },
   "weather": {
-    "temp_f": 53,
-    "temp_c": 12,
+    "temp_f": 47,
+    "temp_c": 8,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 54,
-        "temp_c": 12
+        "condition": "cloud_sun",
+        "condition_code": 2,
+        "temp_f": 52,
+        "temp_c": 11
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 55,
-        "temp_c": 13
+        "temp_f": 54,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 50.258,
-    "gold_usd": 3880.300049,
-    "btc_usd": 71381.415
+    "gold_usd": 3913.02002,
+    "btc_usd": 68809.255
   },
   "history": {
     "title": "1990: Berners-Lee, World Wide Web'i önerdi",
