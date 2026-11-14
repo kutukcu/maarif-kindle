@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-14T01:10:26.055669+00:00",
+  "generated_at": "2026-11-14T08:26:38.368206+00:00",
   "date": {
-    "day": 13,
+    "day": 14,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-11-13"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-11-14"
   },
   "prayer_times": {
-    "imsak": "05:24",
-    "gunes": "06:50",
+    "imsak": "05:25",
+    "gunes": "06:51",
     "ogle": "11:54",
-    "ikindi": "14:37",
-    "aksam": "16:57",
+    "ikindi": "14:36",
+    "aksam": "16:56",
     "yatsi": "18:13"
   },
   "weather": {
-    "temp_f": 44,
-    "temp_c": 7,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 37,
+    "temp_c": 3,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
@@ -30,13 +30,6 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 48,
-        "temp_c": 9
-      },
-      {
-        "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 49,
@@ -53,30 +46,37 @@
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 55,
+        "temp_f": 56,
         "temp_c": 13
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 58,
-        "temp_c": 14
+        "temp_f": 59,
+        "temp_c": 15
+      },
+      {
+        "day_tr": "Per",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 60,
+        "temp_c": 16
       }
     ]
   },
   "finance": {
     "usd_try": 50.368,
     "gold_usd": 3887.600098,
-    "btc_usd": 68184.885
+    "btc_usd": 67112.575
   },
   "history": {
-    "title": "1927: New York'ta Holland Tüneli açıldı",
+    "title": "1851: Melville'in 'Moby Dick' romanı yayımlandı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Evren değişiyor; hayatımız, düşüncelerimize göre şekilleniyor.",
-    "author": "Marcus Aurelius"
+    "text": "Gelin tanış olalım, işi kolay kılalım. Sevelim sevilelim, dünya kimseye kalmaz.",
+    "author": "Yunus Emre"
   }
 }
