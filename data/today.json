@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:26:38.368206+00:00",
+  "generated_at": "2026-11-14T15:27:31.500006+00:00",
   "date": {
     "day": 14,
     "month": 11,
@@ -16,16 +16,16 @@
     "yatsi": "18:13"
   },
   "weather": {
-    "temp_f": 37,
-    "temp_c": 3,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 46,
+    "temp_c": 8,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 48,
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 49,
         "temp_c": 9
       },
       {
@@ -53,8 +53,8 @@
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 60,
+        "temp_c": 16
       },
       {
         "day_tr": "Per",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 50.368,
     "gold_usd": 3887.600098,
-    "btc_usd": 67112.575
+    "btc_usd": 65217.225
   },
   "history": {
     "title": "1851: Melville'in 'Moby Dick' romanı yayımlandı",
