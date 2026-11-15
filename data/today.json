@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-11-15T00:37:06.153326+00:00",
+  "generated_at": "2026-11-15T07:26:18.497806+00:00",
   "date": {
-    "day": 14,
+    "day": 15,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-11-14"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-11-15"
   },
   "prayer_times": {
-    "imsak": "05:25",
-    "gunes": "06:51",
+    "imsak": "05:26",
+    "gunes": "06:52",
     "ogle": "11:54",
     "ikindi": "14:36",
-    "aksam": "16:56",
-    "yatsi": "18:13"
+    "aksam": "16:55",
+    "yatsi": "18:12"
   },
   "weather": {
-    "temp_f": 44,
-    "temp_c": 7,
+    "temp_f": 41,
+    "temp_c": 5,
     "condition": "sun",
-    "condition_code": 1,
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 49,
-        "temp_c": 9
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 48,
-        "temp_c": 9
-      },
-      {
-        "day_tr": "Pzt",
         "condition": "sun",
-        "condition_code": 0,
-        "temp_f": 53,
-        "temp_c": 12
+        "condition_code": 1,
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 57,
+        "temp_c": 14
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 60,
+        "temp_f": 61,
         "temp_c": 16
       },
       {
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 61,
-        "temp_c": 16
+        "temp_f": 62,
+        "temp_c": 17
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 63,
+        "temp_c": 17
       }
     ]
   },
   "finance": {
     "usd_try": 50.368,
     "gold_usd": 3887.600098,
-    "btc_usd": 63649.055
+    "btc_usd": 64376.055
   },
   "history": {
-    "title": "1851: Melville'in 'Moby Dick' romanı yayımlandı",
+    "title": "1889: Brezilya cumhuriyet ilan etti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Gelin tanış olalım, işi kolay kılalım. Sevelim sevilelim, dünya kimseye kalmaz.",
-    "author": "Yunus Emre"
+    "text": "Gençliğinde bilgi ağacını dikmeyen, yaşlılığında gölge bulamaz.",
+    "author": "Seneca"
   }
 }
