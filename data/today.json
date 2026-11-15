@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:11:58.537181+00:00",
+  "generated_at": "2026-11-15T20:42:43.444872+00:00",
   "date": {
     "day": 15,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:12"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
+    "temp_f": 51,
+    "temp_c": 11,
     "condition": "cloud_sun",
     "condition_code": 2,
     "forecast": [
@@ -25,29 +25,29 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 51,
+        "temp_f": 52,
         "temp_c": 11
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 51,
-        "temp_c": 11
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 53,
+        "temp_c": 12
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 57,
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 58,
         "temp_c": 14
       },
       {
         "day_tr": "Çar",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 61,
-        "temp_c": 16
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Per",
@@ -60,7 +60,7 @@
         "day_tr": "Cum",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 65,
+        "temp_f": 64,
         "temp_c": 18
       }
     ]
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 50.368,
     "gold_usd": 3887.600098,
-    "btc_usd": 64655.815
+    "btc_usd": 64981.375
   },
   "history": {
     "title": "1889: Brezilya cumhuriyet ilan etti",
