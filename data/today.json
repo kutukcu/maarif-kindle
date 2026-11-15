@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:26:18.497806+00:00",
+  "generated_at": "2026-11-15T15:11:58.537181+00:00",
   "date": {
     "day": 15,
     "month": 11,
@@ -11,34 +11,34 @@
     "imsak": "05:26",
     "gunes": "06:52",
     "ogle": "11:54",
-    "ikindi": "14:36",
+    "ikindi": "14:35",
     "aksam": "16:55",
     "yatsi": "18:12"
   },
   "weather": {
-    "temp_f": 41,
-    "temp_c": 5,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 47,
+    "temp_c": 8,
+    "condition": "cloud_sun",
+    "condition_code": 2,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 50,
-        "temp_c": 10
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 51,
+        "temp_c": 11
       },
       {
         "day_tr": "Yarın",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 50,
-        "temp_c": 10
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 51,
+        "temp_c": 11
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud_sun",
+        "condition_code": 2,
         "temp_f": 57,
         "temp_c": 14
       },
@@ -53,22 +53,22 @@
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
         "day_tr": "Cum",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 63,
-        "temp_c": 17
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 65,
+        "temp_c": 18
       }
     ]
   },
   "finance": {
     "usd_try": 50.368,
     "gold_usd": 3887.600098,
-    "btc_usd": 64376.055
+    "btc_usd": 64655.815
   },
   "history": {
     "title": "1889: Brezilya cumhuriyet ilan etti",
