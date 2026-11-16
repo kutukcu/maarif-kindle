@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:32:20.159871+00:00",
+  "generated_at": "2026-11-16T17:46:38.319786+00:00",
   "date": {
     "day": 16,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:11"
   },
   "weather": {
-    "temp_f": 38,
-    "temp_c": 3,
+    "temp_f": 53,
+    "temp_c": 12,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 55,
-        "temp_c": 13
+        "temp_f": 57,
+        "temp_c": 14
       },
       {
         "day_tr": "Çar",
@@ -58,17 +58,17 @@
       },
       {
         "day_tr": "Cmt",
-        "condition": "drizzle",
-        "condition_code": 53,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 62,
         "temp_c": 17
       }
     ]
   },
   "finance": {
-    "usd_try": 50.368,
-    "gold_usd": 3861.449951,
-    "btc_usd": 64733.805
+    "usd_try": 50.392,
+    "gold_usd": 3864.899902,
+    "btc_usd": 64846.505
   },
   "history": {
     "title": "1945: UNESCO kuruldu",
