@@ -1,53 +1,46 @@
 {
-  "generated_at": "2026-11-16T17:46:38.319786+00:00",
+  "generated_at": "2026-11-17T09:59:34.868767+00:00",
   "date": {
-    "day": 16,
+    "day": 17,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-11-16"
+    "weekday_tr": "SALI",
+    "iso": "2026-11-17"
   },
   "prayer_times": {
-    "imsak": "05:27",
-    "gunes": "06:53",
+    "imsak": "05:28",
+    "gunes": "06:54",
     "ogle": "11:54",
     "ikindi": "14:35",
-    "aksam": "16:55",
+    "aksam": "16:54",
     "yatsi": "18:11"
   },
   "weather": {
-    "temp_f": 53,
-    "temp_c": 12,
+    "temp_f": 36,
+    "temp_c": 2,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 55,
-        "temp_c": 13
-      },
-      {
-        "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
+        "condition_code": 0,
         "temp_f": 57,
         "temp_c": 14
       },
       {
-        "day_tr": "Çar",
+        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
-        "temp_f": 62,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Per",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Cum",
@@ -60,23 +53,30 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 53,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 50.392,
-    "gold_usd": 3864.899902,
-    "btc_usd": 64846.505
+    "gold_usd": 3868.75,
+    "btc_usd": 64302.075
   },
   "history": {
-    "title": "1945: UNESCO kuruldu",
+    "title": "1869: Süveyş Kanalı, törenle hizmete açıldı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Yavaş yürüyene çelme takılmaz.",
-    "author": "Konfüçyüs"
+    "text": "Haramı terk etmek, helali talep etmekten hayırlıdır.",
+    "author": "Hz. Ebu Bekir"
   }
 }
