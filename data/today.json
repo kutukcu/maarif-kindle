@@ -1,46 +1,39 @@
 {
-  "generated_at": "2026-11-18T01:59:10.526456+00:00",
+  "generated_at": "2026-11-18T09:55:54.066134+00:00",
   "date": {
-    "day": 17,
+    "day": 18,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "SALI",
-    "iso": "2026-11-17"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-11-18"
   },
   "prayer_times": {
-    "imsak": "05:28",
-    "gunes": "06:54",
-    "ogle": "11:54",
+    "imsak": "05:29",
+    "gunes": "06:56",
+    "ogle": "11:55",
     "ikindi": "14:34",
-    "aksam": "16:54",
-    "yatsi": "18:11"
+    "aksam": "16:53",
+    "yatsi": "18:10"
   },
   "weather": {
-    "temp_f": 42,
-    "temp_c": 6,
+    "temp_f": 32,
+    "temp_c": 0,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud_sun",
-        "condition_code": 2,
-        "temp_f": 58,
-        "temp_c": 14
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "sun",
         "condition_code": 0,
         "temp_f": 63,
         "temp_c": 17
       },
       {
-        "day_tr": "Per",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 64,
-        "temp_c": 18
+        "day_tr": "Yarın",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Cum",
@@ -60,23 +53,30 @@
         "day_tr": "Paz",
         "condition": "rain",
         "condition_code": 81,
-        "temp_f": 54,
-        "temp_c": 12
+        "temp_f": 57,
+        "temp_c": 14
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "rain",
+        "condition_code": 81,
+        "temp_f": 59,
+        "temp_c": 15
       }
     ]
   },
   "finance": {
     "usd_try": 50.413,
-    "gold_usd": 3808.199951,
-    "btc_usd": 64240.265
+    "gold_usd": 3784.870117,
+    "btc_usd": 64540.595
   },
   "history": {
-    "title": "1869: Süveyş Kanalı, törenle hizmete açıldı",
+    "title": "1928: Mickey Mouse ilk kez ekranda göründü",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Haramı terk etmek, helali talep etmekten hayırlıdır.",
-    "author": "Hz. Ebu Bekir"
+    "text": "Korkunun sebebi bilgisizliktir.",
+    "author": "Seneca"
   }
 }
