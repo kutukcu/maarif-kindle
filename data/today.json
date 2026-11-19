@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:17:47.657705+00:00",
+  "generated_at": "2026-11-19T17:54:14.593188+00:00",
   "date": {
     "day": 19,
     "month": 11,
@@ -11,13 +11,13 @@
     "imsak": "05:29",
     "gunes": "06:57",
     "ogle": "11:55",
-    "ikindi": "14:34",
+    "ikindi": "14:33",
     "aksam": "16:53",
     "yatsi": "18:10"
   },
   "weather": {
-    "temp_f": 36,
-    "temp_c": 2,
+    "temp_f": 66,
+    "temp_c": 19,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -44,31 +44,31 @@
       },
       {
         "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 57,
-        "temp_c": 14
+        "condition": "rain",
+        "condition_code": 80,
+        "temp_f": 55,
+        "temp_c": 13
       },
       {
         "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Sal",
         "condition": "sun",
-        "condition_code": 0,
+        "condition_code": 1,
         "temp_f": 47,
         "temp_c": 8
       }
     ]
   },
   "finance": {
-    "usd_try": 50.438,
-    "gold_usd": 3738.27002,
-    "btc_usd": 63743.295
+    "usd_try": 50.468,
+    "gold_usd": 3685.0,
+    "btc_usd": 62720.035
   },
   "history": {
     "title": "1863: Lincoln, ünlü Gettysburg Konuşması'nı yaptı",
