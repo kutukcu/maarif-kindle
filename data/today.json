@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-19T00:54:41.117990+00:00",
+  "generated_at": "2026-11-19T08:17:47.657705+00:00",
   "date": {
-    "day": 18,
+    "day": 19,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "ÇARŞAMBA",
-    "iso": "2026-11-18"
+    "weekday_tr": "PERŞEMBE",
+    "iso": "2026-11-19"
   },
   "prayer_times": {
     "imsak": "05:29",
-    "gunes": "06:56",
+    "gunes": "06:57",
     "ogle": "11:55",
     "ikindi": "14:34",
     "aksam": "16:53",
     "yatsi": "18:10"
   },
   "weather": {
-    "temp_f": 49,
-    "temp_c": 9,
+    "temp_f": 36,
+    "temp_c": 2,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 67,
         "temp_c": 19
       },
@@ -32,51 +32,51 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
-      },
-      {
-        "day_tr": "Cum",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 65,
-        "temp_c": 18
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Cmt",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 63,
+        "temp_c": 17
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 57,
+        "temp_c": 14
+      },
+      {
+        "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 62,
         "temp_c": 17
       },
       {
-        "day_tr": "Paz",
-        "condition": "heavy_rain",
-        "condition_code": 82,
-        "temp_f": 55,
-        "temp_c": 13
-      },
-      {
-        "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 64,
-        "temp_c": 18
+        "day_tr": "Sal",
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 47,
+        "temp_c": 8
       }
     ]
   },
   "finance": {
     "usd_try": 50.438,
-    "gold_usd": 3755.449951,
-    "btc_usd": 63128.515
+    "gold_usd": 3738.27002,
+    "btc_usd": 63743.295
   },
   "history": {
-    "title": "1928: Mickey Mouse ilk kez ekranda göründü",
+    "title": "1863: Lincoln, ünlü Gettysburg Konuşması'nı yaptı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Korkunun sebebi bilgisizliktir.",
-    "author": "Seneca"
+    "text": "Nasıl ki elmas yontulmadan mükemmelleşmezse, insan da acı çekmeden olgunlaşamaz.",
+    "author": "Konfüçyüs"
   }
 }
