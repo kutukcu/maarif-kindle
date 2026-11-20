@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-19T17:54:14.593188+00:00",
+  "generated_at": "2026-11-20T16:46:05.200629+00:00",
   "date": {
-    "day": 19,
+    "day": 20,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "PERŞEMBE",
-    "iso": "2026-11-19"
+    "weekday_tr": "CUMA",
+    "iso": "2026-11-20"
   },
   "prayer_times": {
-    "imsak": "05:29",
-    "gunes": "06:57",
+    "imsak": "05:30",
+    "gunes": "06:58",
     "ogle": "11:55",
     "ikindi": "14:33",
-    "aksam": "16:53",
-    "yatsi": "18:10"
+    "aksam": "16:52",
+    "yatsi": "18:09"
   },
   "weather": {
-    "temp_f": 66,
-    "temp_c": 19,
+    "temp_f": 62,
+    "temp_c": 17,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -25,58 +25,58 @@
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "temp_f": 68,
+        "temp_c": 20
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
-      },
-      {
-        "day_tr": "Cmt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 63,
-        "temp_c": 17
+        "temp_f": 65,
+        "temp_c": 18
       },
       {
         "day_tr": "Paz",
         "condition": "rain",
-        "condition_code": 80,
-        "temp_f": 55,
+        "condition_code": 63,
+        "temp_f": 56,
         "temp_c": 13
       },
       {
         "day_tr": "Pzt",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 47,
-        "temp_c": 8
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 53,
+        "temp_c": 12
+      },
+      {
+        "day_tr": "Çar",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 49,
+        "temp_c": 9
       }
     ]
   },
   "finance": {
-    "usd_try": 50.468,
-    "gold_usd": 3685.0,
-    "btc_usd": 62720.035
+    "usd_try": 50.572,
+    "gold_usd": 3548.850098,
+    "btc_usd": 59337.385
   },
   "history": {
-    "title": "1863: Lincoln, ünlü Gettysburg Konuşması'nı yaptı",
+    "title": "1945: Nürnberg Mahkemeleri başladı",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Nasıl ki elmas yontulmadan mükemmelleşmezse, insan da acı çekmeden olgunlaşamaz.",
-    "author": "Konfüçyüs"
+    "text": "Zihinsel bir uğraşı içermeyen boş zaman, diri diri gömülmektir.",
+    "author": "Seneca"
   }
 }
