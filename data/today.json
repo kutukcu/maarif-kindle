@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-11-21T03:42:30.762871+00:00",
+  "generated_at": "2026-11-21T18:51:45.187645+00:00",
   "date": {
-    "day": 20,
+    "day": 21,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-11-20"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-11-21"
   },
   "prayer_times": {
-    "imsak": "05:30",
-    "gunes": "06:58",
+    "imsak": "05:31",
+    "gunes": "06:59",
     "ogle": "11:55",
-    "ikindi": "14:33",
-    "aksam": "16:52",
+    "ikindi": "14:32",
+    "aksam": "16:51",
     "yatsi": "18:09"
   },
   "weather": {
-    "temp_f": 46,
-    "temp_c": 8,
-    "condition": "sun",
-    "condition_code": 1,
+    "temp_f": 66,
+    "temp_c": 19,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 70,
-        "temp_c": 21
+        "temp_f": 66,
+        "temp_c": 19
       },
       {
         "day_tr": "Yarın",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 66,
-        "temp_c": 19
-      },
-      {
-        "day_tr": "Paz",
-        "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 66,
-        "temp_c": 19
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Pzt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 62,
+        "temp_f": 63,
         "temp_c": 17
       },
       {
         "day_tr": "Sal",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 52,
-        "temp_c": 11
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 47,
+        "temp_f": 46,
         "temp_c": 8
+      },
+      {
+        "day_tr": "Per",
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 59,
+        "temp_c": 15
       }
     ]
   },
   "finance": {
     "usd_try": 50.572,
     "gold_usd": 3539.0,
-    "btc_usd": 57154.635
+    "btc_usd": 60026.185
   },
   "history": {
-    "title": "1945: Nürnberg Mahkemeleri başladı",
+    "title": "1877: Thomas Edison, fonografı icat ettiğini duyurdu",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Zihinsel bir uğraşı içermeyen boş zaman, diri diri gömülmektir.",
-    "author": "Seneca"
+    "text": "Bugünün işini yarına bırakma.",
+    "author": "Atasözü"
   }
 }
