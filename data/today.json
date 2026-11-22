@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:40:54.429527+00:00",
+  "generated_at": "2026-11-22T04:37:23.790465+00:00",
   "date": {
     "day": 21,
     "month": 11,
@@ -11,13 +11,13 @@
     "imsak": "05:31",
     "gunes": "06:59",
     "ogle": "11:55",
-    "ikindi": "14:32",
+    "ikindi": "14:33",
     "aksam": "16:51",
     "yatsi": "18:09"
   },
   "weather": {
-    "temp_f": 57,
-    "temp_c": 14,
+    "temp_f": 53,
+    "temp_c": 12,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -30,17 +30,17 @@
       },
       {
         "day_tr": "Yarın",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 64,
-        "temp_c": 18
+        "condition": "drizzle",
+        "condition_code": 51,
+        "temp_f": 67,
+        "temp_c": 19
       },
       {
         "day_tr": "Pzt",
-        "condition": "fog",
-        "condition_code": 45,
-        "temp_f": 62,
-        "temp_c": 17
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 61,
+        "temp_c": 16
       },
       {
         "day_tr": "Sal",
@@ -68,7 +68,7 @@
   "finance": {
     "usd_try": 50.572,
     "gold_usd": 3539.0,
-    "btc_usd": 60108.475
+    "btc_usd": 59259.075
   },
   "history": {
     "title": "1877: Thomas Edison, fonografı icat ettiğini duyurdu",
