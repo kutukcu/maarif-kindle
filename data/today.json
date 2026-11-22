@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:59:24.518172+00:00",
+  "generated_at": "2026-11-22T20:13:31.145010+00:00",
   "date": {
     "day": 22,
     "month": 11,
@@ -16,29 +16,29 @@
     "yatsi": "18:08"
   },
   "weather": {
-    "temp_f": 53,
-    "temp_c": 12,
+    "temp_f": 63,
+    "temp_c": 17,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 67,
-        "temp_c": 19
+        "condition": "drizzle",
+        "condition_code": 53,
+        "temp_f": 64,
+        "temp_c": 18
       },
       {
         "day_tr": "Yarın",
-        "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 60,
-        "temp_c": 16
+        "condition": "fog",
+        "condition_code": 45,
+        "temp_f": 62,
+        "temp_c": 17
       },
       {
         "day_tr": "Sal",
-        "condition": "sun",
-        "condition_code": 0,
+        "condition": "cloud_sun",
+        "condition_code": 2,
         "temp_f": 48,
         "temp_c": 9
       },
@@ -51,24 +51,24 @@
       },
       {
         "day_tr": "Per",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 59,
-        "temp_c": 15
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 58,
+        "temp_c": 14
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 53,
-        "temp_c": 12
+        "condition_code": 53,
+        "temp_f": 52,
+        "temp_c": 11
       }
     ]
   },
   "finance": {
     "usd_try": 50.572,
     "gold_usd": 3539.0,
-    "btc_usd": 60726.045
+    "btc_usd": 60633.895
   },
   "history": {
     "title": "1963: Başkan Kennedy suikast sonucu öldü",
