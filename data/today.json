@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-11-22T04:37:23.790465+00:00",
+  "generated_at": "2026-11-22T12:59:24.518172+00:00",
   "date": {
-    "day": 21,
+    "day": 22,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "CUMARTESİ",
-    "iso": "2026-11-21"
+    "weekday_tr": "PAZAR",
+    "iso": "2026-11-22"
   },
   "prayer_times": {
-    "imsak": "05:31",
-    "gunes": "06:59",
-    "ogle": "11:55",
-    "ikindi": "14:33",
+    "imsak": "05:32",
+    "gunes": "07:00",
+    "ogle": "11:56",
+    "ikindi": "14:32",
     "aksam": "16:51",
-    "yatsi": "18:09"
+    "yatsi": "18:08"
   },
   "weather": {
     "temp_f": 53,
@@ -31,22 +31,15 @@
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 67,
-        "temp_c": 19
-      },
-      {
-        "day_tr": "Pzt",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 61,
+        "condition_code": 53,
+        "temp_f": 60,
         "temp_c": 16
       },
       {
         "day_tr": "Sal",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 49,
+        "condition": "sun",
+        "condition_code": 0,
+        "temp_f": 48,
         "temp_c": 9
       },
       {
@@ -62,21 +55,28 @@
         "condition_code": 65,
         "temp_f": 59,
         "temp_c": 15
+      },
+      {
+        "day_tr": "Cum",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 53,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 50.572,
     "gold_usd": 3539.0,
-    "btc_usd": 59259.075
+    "btc_usd": 60726.045
   },
   "history": {
-    "title": "1877: Thomas Edison, fonografı icat ettiğini duyurdu",
+    "title": "1963: Başkan Kennedy suikast sonucu öldü",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Bugünün işini yarına bırakma.",
-    "author": "Atasözü"
+    "text": "Akıllı insan kimseyle yarışmaz, böylece kimse onunla yarışamaz.",
+    "author": "Konfüçyüs"
   }
 }
