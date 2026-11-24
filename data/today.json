@@ -1,82 +1,82 @@
 {
-  "generated_at": "2026-11-23T22:23:16.804622+00:00",
+  "generated_at": "2026-11-24T18:33:25.628029+00:00",
   "date": {
-    "day": 23,
+    "day": 24,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "PAZARTESİ",
-    "iso": "2026-11-23"
+    "weekday_tr": "SALI",
+    "iso": "2026-11-24"
   },
   "prayer_times": {
-    "imsak": "05:33",
-    "gunes": "07:01",
+    "imsak": "05:34",
+    "gunes": "07:02",
     "ogle": "11:56",
-    "ikindi": "14:32",
+    "ikindi": "14:31",
     "aksam": "16:50",
     "yatsi": "18:08"
   },
   "weather": {
-    "temp_f": 58,
-    "temp_c": 14,
-    "condition": "cloud_sun",
-    "condition_code": 2,
+    "temp_f": 50,
+    "temp_c": 10,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 68,
-        "temp_c": 20
+        "condition": "sun",
+        "condition_code": 1,
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 48,
-        "temp_c": 9
-      },
-      {
-        "day_tr": "Çar",
-        "condition": "drizzle",
-        "condition_code": 51,
-        "temp_f": 48,
+        "temp_f": 49,
         "temp_c": 9
       },
       {
         "day_tr": "Per",
         "condition": "rain",
-        "condition_code": 81,
-        "temp_f": 58,
-        "temp_c": 14
+        "condition_code": 63,
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 55,
-        "temp_f": 52,
-        "temp_c": 11
+        "condition_code": 51,
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 55,
+        "temp_f": 53,
+        "temp_c": 12
+      },
+      {
+        "day_tr": "Paz",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 56,
         "temp_c": 13
       }
     ]
   },
   "finance": {
-    "usd_try": 50.59,
-    "gold_usd": 3634.399902,
-    "btc_usd": 61246.085
+    "usd_try": 50.628,
+    "gold_usd": 3562.050049,
+    "btc_usd": 60036.115
   },
   "history": {
-    "title": "1936: Life dergisinin ilk sayısı yayımlandı",
-    "turkish": null,
+    "title": "Öğretmenler Günü",
+    "turkish": "Öğretmenler Günü",
     "us": null
   },
   "quote": {
-    "text": "Ameller niyetlere göredir.",
-    "author": "Hz. Muhammed (s.a.v.)"
+    "text": "Hayat, geriye doğru anlaşılır ama ileriye doğru yaşanır.",
+    "author": "Seneca"
   }
 }
