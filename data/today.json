@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:33:25.628029+00:00",
+  "generated_at": "2026-11-25T02:53:42.958866+00:00",
   "date": {
     "day": 24,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:08"
   },
   "weather": {
-    "temp_f": 50,
-    "temp_c": 10,
+    "temp_f": 38,
+    "temp_c": 3,
     "condition": "sun",
     "condition_code": 0,
     "forecast": [
@@ -32,20 +32,20 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 49,
-        "temp_c": 9
+        "temp_f": 50,
+        "temp_c": 10
       },
       {
         "day_tr": "Per",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 59,
-        "temp_c": 15
+        "temp_f": 58,
+        "temp_c": 14
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 51,
+        "condition_code": 53,
         "temp_f": 54,
         "temp_c": 12
       },
@@ -53,22 +53,22 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 53,
-        "temp_c": 12
+        "temp_f": 56,
+        "temp_c": 13
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 58,
+        "temp_c": 14
       }
     ]
   },
   "finance": {
     "usd_try": 50.628,
-    "gold_usd": 3562.050049,
-    "btc_usd": 60036.115
+    "gold_usd": 3556.5,
+    "btc_usd": 59170.865
   },
   "history": {
     "title": "Öğretmenler Günü",
