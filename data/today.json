@@ -1,44 +1,37 @@
 {
-  "generated_at": "2026-11-25T02:53:42.958866+00:00",
+  "generated_at": "2026-11-25T11:58:52.536904+00:00",
   "date": {
-    "day": 24,
+    "day": 25,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "SALI",
-    "iso": "2026-11-24"
+    "weekday_tr": "ÇARŞAMBA",
+    "iso": "2026-11-25"
   },
   "prayer_times": {
-    "imsak": "05:34",
-    "gunes": "07:02",
+    "imsak": "05:35",
+    "gunes": "07:03",
     "ogle": "11:56",
     "ikindi": "14:31",
-    "aksam": "16:50",
-    "yatsi": "18:08"
+    "aksam": "16:49",
+    "yatsi": "18:07"
   },
   "weather": {
-    "temp_f": 38,
-    "temp_c": 3,
-    "condition": "sun",
-    "condition_code": 0,
+    "temp_f": 31,
+    "temp_c": -1,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "sun",
-        "condition_code": 1,
-        "temp_f": 50,
-        "temp_c": 10
-      },
-      {
-        "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
         "temp_f": 50,
         "temp_c": 10
       },
       {
-        "day_tr": "Per",
-        "condition": "rain",
-        "condition_code": 63,
+        "day_tr": "Yarın",
+        "condition": "heavy_rain",
+        "condition_code": 65,
         "temp_f": 58,
         "temp_c": 14
       },
@@ -53,30 +46,37 @@
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 58,
-        "temp_c": 14
+        "temp_f": 56,
+        "temp_c": 13
+      },
+      {
+        "day_tr": "Pzt",
+        "condition": "drizzle",
+        "condition_code": 55,
+        "temp_f": 53,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 50.628,
-    "gold_usd": 3556.5,
-    "btc_usd": 59170.865
+    "gold_usd": 3510.899902,
+    "btc_usd": 58674.835
   },
   "history": {
-    "title": "Öğretmenler Günü",
-    "turkish": "Öğretmenler Günü",
+    "title": "1867: Alfred Nobel, dinamitin patentini aldı",
+    "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Hayat, geriye doğru anlaşılır ama ileriye doğru yaşanır.",
-    "author": "Seneca"
+    "text": "Ana rahmından geldik pazara, bir kefen aldık döndük mezara.",
+    "author": "Yunus Emre"
   }
 }
