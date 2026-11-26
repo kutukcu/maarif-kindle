@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:27:35.779883+00:00",
+  "generated_at": "2026-11-26T22:44:51.915427+00:00",
   "date": {
     "day": 26,
     "month": 11,
@@ -11,28 +11,28 @@
     "imsak": "05:36",
     "gunes": "07:04",
     "ogle": "11:57",
-    "ikindi": "14:30",
+    "ikindi": "14:31",
     "aksam": "16:49",
     "yatsi": "18:07"
   },
   "weather": {
-    "temp_f": 45,
-    "temp_c": 7,
-    "condition": "rain",
-    "condition_code": 63,
+    "temp_f": 49,
+    "temp_c": 9,
+    "condition": "cloud",
+    "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "heavy_rain",
-        "condition_code": 65,
-        "temp_f": 56,
+        "condition": "rain",
+        "condition_code": 63,
+        "temp_f": 55,
         "temp_c": 13
       },
       {
         "day_tr": "Yarın",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 54,
+        "condition_code": 51,
+        "temp_f": 53,
         "temp_c": 12
       },
       {
@@ -46,15 +46,15 @@
         "day_tr": "Paz",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Pzt",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 53,
-        "temp_c": 12
+        "temp_f": 52,
+        "temp_c": 11
       },
       {
         "day_tr": "Sal",
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 50.678,
-    "gold_usd": 3567.0,
-    "btc_usd": 60748.155
+    "usd_try": 50.677,
+    "gold_usd": 3566.199951,
+    "btc_usd": 60521.865
   },
   "history": {
     "title": "Şükran Günü / Thanksgiving (Resmi Tatil)",
