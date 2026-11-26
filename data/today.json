@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:23:59.282883+00:00",
+  "generated_at": "2026-11-26T03:53:13.347373+00:00",
   "date": {
     "day": 25,
     "month": 11,
@@ -16,8 +16,8 @@
     "yatsi": "18:07"
   },
   "weather": {
-    "temp_f": 46,
-    "temp_c": 8,
+    "temp_f": 44,
+    "temp_c": 7,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
@@ -32,22 +32,22 @@
         "day_tr": "Yarın",
         "condition": "heavy_rain",
         "condition_code": 65,
-        "temp_f": 57,
-        "temp_c": 14
+        "temp_f": 59,
+        "temp_c": 15
       },
       {
         "day_tr": "Cum",
         "condition": "drizzle",
-        "condition_code": 53,
-        "temp_f": 57,
-        "temp_c": 14
+        "condition_code": 55,
+        "temp_f": 53,
+        "temp_c": 12
       },
       {
         "day_tr": "Cmt",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 56,
-        "temp_c": 13
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Paz",
@@ -60,15 +60,15 @@
         "day_tr": "Pzt",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 55,
-        "temp_c": 13
+        "temp_f": 54,
+        "temp_c": 12
       }
     ]
   },
   "finance": {
     "usd_try": 50.678,
-    "gold_usd": 3568.5,
-    "btc_usd": 60170.365
+    "gold_usd": 3578.899902,
+    "btc_usd": 60739.145
   },
   "history": {
     "title": "1867: Alfred Nobel, dinamitin patentini aldı",
