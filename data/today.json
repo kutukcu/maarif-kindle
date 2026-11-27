@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:35:28.180315+00:00",
+  "generated_at": "2026-11-27T23:08:44.596260+00:00",
   "date": {
     "day": 27,
     "month": 11,
@@ -16,15 +16,15 @@
     "yatsi": "18:07"
   },
   "weather": {
-    "temp_f": 47,
-    "temp_c": 8,
+    "temp_f": 44,
+    "temp_c": 7,
     "condition": "cloud",
     "condition_code": 3,
     "forecast": [
       {
         "day_tr": "Bugün",
-        "condition": "drizzle",
-        "condition_code": 51,
+        "condition": "cloud",
+        "condition_code": 3,
         "temp_f": 52,
         "temp_c": 11
       },
@@ -32,8 +32,8 @@
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 52,
-        "temp_c": 11
+        "temp_f": 53,
+        "temp_c": 12
       },
       {
         "day_tr": "Paz",
@@ -66,9 +66,9 @@
     ]
   },
   "finance": {
-    "usd_try": 50.677,
-    "gold_usd": 3637.100098,
-    "btc_usd": 60747.305
+    "usd_try": 50.787,
+    "gold_usd": 3650.0,
+    "btc_usd": 59791.465
   },
   "history": {
     "title": "1895: Alfred Nobel, vasiyetiyle Nobel Ödülleri'ni kurdu",
