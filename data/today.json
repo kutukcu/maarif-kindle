@@ -1,53 +1,46 @@
 {
-  "generated_at": "2026-11-27T23:08:44.596260+00:00",
+  "generated_at": "2026-11-28T05:53:44.421515+00:00",
   "date": {
-    "day": 27,
+    "day": 28,
     "month": 11,
     "month_tr": "KASIM",
-    "weekday_tr": "CUMA",
-    "iso": "2026-11-27"
+    "weekday_tr": "CUMARTESİ",
+    "iso": "2026-11-28"
   },
   "prayer_times": {
-    "imsak": "05:37",
-    "gunes": "07:05",
+    "imsak": "05:38",
+    "gunes": "07:06",
     "ogle": "11:57",
     "ikindi": "14:30",
-    "aksam": "16:49",
+    "aksam": "16:48",
     "yatsi": "18:07"
   },
   "weather": {
-    "temp_f": 44,
-    "temp_c": 7,
-    "condition": "cloud",
-    "condition_code": 3,
+    "temp_f": 41,
+    "temp_c": 5,
+    "condition": "sun",
+    "condition_code": 0,
     "forecast": [
       {
         "day_tr": "Bugün",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 52,
-        "temp_c": 11
+        "temp_f": 54,
+        "temp_c": 12
       },
       {
         "day_tr": "Yarın",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 53,
-        "temp_c": 12
-      },
-      {
-        "day_tr": "Paz",
-        "condition": "cloud",
-        "condition_code": 3,
-        "temp_f": 54,
-        "temp_c": 12
+        "temp_f": 56,
+        "temp_c": 13
       },
       {
         "day_tr": "Pzt",
         "condition": "rain",
         "condition_code": 63,
-        "temp_f": 54,
-        "temp_c": 12
+        "temp_f": 55,
+        "temp_c": 13
       },
       {
         "day_tr": "Sal",
@@ -60,23 +53,30 @@
         "day_tr": "Çar",
         "condition": "cloud",
         "condition_code": 3,
-        "temp_f": 50,
-        "temp_c": 10
+        "temp_f": 53,
+        "temp_c": 12
+      },
+      {
+        "day_tr": "Per",
+        "condition": "cloud",
+        "condition_code": 3,
+        "temp_f": 57,
+        "temp_c": 14
       }
     ]
   },
   "finance": {
     "usd_try": 50.787,
     "gold_usd": 3650.0,
-    "btc_usd": 59791.465
+    "btc_usd": 59735.525
   },
   "history": {
-    "title": "1895: Alfred Nobel, vasiyetiyle Nobel Ödülleri'ni kurdu",
+    "title": "1520: Macellan, adını taşıyan boğazdan geçti",
     "turkish": null,
     "us": null
   },
   "quote": {
-    "text": "Benim Kâbem insandır.",
-    "author": "Hacı Bektaş-ı Veli"
+    "text": "Bir insanı doyurmak istiyorsanız ona balık verin; aç kalmamasını istiyorsanız ona balık tutmayı öğretin.",
+    "author": "Konfüçyüs"
   }
 }
